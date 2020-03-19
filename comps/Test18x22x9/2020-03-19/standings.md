@@ -1,6 +1,6 @@
 # Standings
 
-Last update: Thu, 19 Mar 2020 01:39:05 GMT
+Last update: Thu, 19 Mar 2020 02:18:43 GMT
 
 ## Configuration
 
@@ -18,9 +18,9 @@ Last update: Thu, 19 Mar 2020 01:39:05 GMT
 | Pos. | AI Thinker | Points |
 |:----:| ---------- | -----: |
 | 1 | GLaDOS2019 | 30 |
-| 2 | MinimaxD2 | 21 |
-| 3 | Sequential | 18 |
-| 4 | Random | 15 |
+| 2 | MinimaxD2 | 24 |
+| 3 | Random | 15 |
+| 4 | Sequential | 15 |
 | 5 | SureAIv4 | 3 |
 | 6 | NmAbH01D3 | 3 |
 
@@ -42,7 +42,7 @@ _Winner, if any, shown in bold_
 | **`Sequential`** | `SureAIv4` | [+](results/SequentialvsSureAIv4.txt) |
 | `NmAbH01D3` | **`Random`** | [+](results/NmAbH01D3vsRandom.txt) |
 | **`Random`** | `NmAbH01D3` | [+](results/RandomvsNmAbH01D3.txt) |
-| `MinimaxD2` | **`Sequential`** | [+](results/MinimaxD2vsSequential.txt) |
+| **`MinimaxD2`** | `Sequential` | [+](results/MinimaxD2vsSequential.txt) |
 | `Sequential` | **`MinimaxD2`** | [+](results/SequentialvsMinimaxD2.txt) |
 | **`GLaDOS2019`** | `Random` | [+](results/GLaDOS2019vsRandom.txt) |
 | `Random` | **`GLaDOS2019`** | [+](results/RandomvsGLaDOS2019.txt) |

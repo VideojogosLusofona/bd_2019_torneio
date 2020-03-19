@@ -13,7 +13,7 @@
 .......
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 13ms
+MinimaxD2 (White) placed a Round piece at column 5 after 4ms
 .......
 .......
 .......
@@ -23,7 +23,7 @@ MinimaxD2 (White) placed a Round piece at column 5 after 13ms
 
 NmAbH01D3 (Red) turn
 Did 623 evals
-NmAbH01D3 (Red) placed a Square piece at column 3 after 20ms
+NmAbH01D3 (Red) placed a Square piece at column 3 after 17ms
 .......
 .......
 .......
@@ -32,7 +32,7 @@ NmAbH01D3 (Red) placed a Square piece at column 3 after 20ms
 ...R.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 8ms
+MinimaxD2 (White) placed a Round piece at column 5 after 4ms
 .......
 .......
 .......
@@ -42,7 +42,7 @@ MinimaxD2 (White) placed a Round piece at column 5 after 8ms
 
 NmAbH01D3 (Red) turn
 Did 654 evals
-NmAbH01D3 (Red) placed a Square piece at column 5 after 23ms
+NmAbH01D3 (Red) placed a Square piece at column 5 after 19ms
 .......
 .......
 .......
@@ -51,7 +51,7 @@ NmAbH01D3 (Red) placed a Square piece at column 5 after 23ms
 ...R.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 6ms
+MinimaxD2 (White) placed a Round piece at column 5 after 4ms
 .......
 .......
 .....w.
@@ -61,7 +61,7 @@ MinimaxD2 (White) placed a Round piece at column 5 after 6ms
 
 NmAbH01D3 (Red) turn
 Did 622 evals
-NmAbH01D3 (Red) placed a Square piece at column 1 after 40ms
+NmAbH01D3 (Red) placed a Square piece at column 1 after 19ms
 .......
 .......
 .....w.
@@ -70,7 +70,7 @@ NmAbH01D3 (Red) placed a Square piece at column 1 after 40ms
 .R.R.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 6ms
+MinimaxD2 (White) placed a Round piece at column 5 after 5ms
 .......
 .....w.
 .....w.
@@ -80,7 +80,7 @@ MinimaxD2 (White) placed a Round piece at column 5 after 6ms
 
 NmAbH01D3 (Red) turn
 Did 238 evals
-NmAbH01D3 (Red) placed a Round piece at column 2 after 9ms
+NmAbH01D3 (Red) placed a Round piece at column 2 after 7ms
 .......
 .....w.
 .....w.
@@ -89,7 +89,7 @@ NmAbH01D3 (Red) placed a Round piece at column 2 after 9ms
 .RrR.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Square piece at column 6 after 7ms
+MinimaxD2 (White) placed a Square piece at column 6 after 5ms
 .......
 .....w.
 .....w.
