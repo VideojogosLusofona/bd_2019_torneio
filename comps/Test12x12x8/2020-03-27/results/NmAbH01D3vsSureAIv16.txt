@@ -20,7 +20,7 @@
 
 NmAbH01D3 (White) turn
 Did 2316 evals
-NmAbH01D3 (White) placed a Round piece at column 5 after 116ms
+NmAbH01D3 (White) placed a Round piece at column 5 after 132ms
 ............
 ............
 ............
@@ -35,8 +35,9 @@ NmAbH01D3 (White) placed a Round piece at column 5 after 116ms
 .....w......
 
 SureAIv16 (Red) turn
+Did 5473 evals
 depth = 4
-Did 2089 evals
+Did 2086 evals
 SureAIv16 (Red) placed a Square piece at column 4 after 251ms
 ............
 ............
@@ -53,7 +54,7 @@ SureAIv16 (Red) placed a Square piece at column 4 after 251ms
 
 NmAbH01D3 (White) turn
 Did 2318 evals
-NmAbH01D3 (White) placed a Round piece at column 4 after 119ms
+NmAbH01D3 (White) placed a Round piece at column 4 after 120ms
 ............
 ............
 ............
@@ -69,7 +70,7 @@ NmAbH01D3 (White) placed a Round piece at column 4 after 119ms
 
 SureAIv16 (Red) turn
 depth = 4
-Did 1862 evals
+Did 1833 evals
 SureAIv16 (Red) placed a Square piece at column 5 after 251ms
 ............
 ............
@@ -86,7 +87,7 @@ SureAIv16 (Red) placed a Square piece at column 5 after 251ms
 
 NmAbH01D3 (White) turn
 Did 2115 evals
-NmAbH01D3 (White) placed a Round piece at column 5 after 112ms
+NmAbH01D3 (White) placed a Round piece at column 5 after 114ms
 ............
 ............
 ............
@@ -102,7 +103,7 @@ NmAbH01D3 (White) placed a Round piece at column 5 after 112ms
 
 SureAIv16 (Red) turn
 depth = 4
-Did 1787 evals
+Did 1770 evals
 SureAIv16 (Red) placed a Square piece at column 6 after 251ms
 ............
 ............
@@ -119,7 +120,7 @@ SureAIv16 (Red) placed a Square piece at column 6 after 251ms
 
 NmAbH01D3 (White) turn
 Did 2393 evals
-NmAbH01D3 (White) placed a Round piece at column 6 after 130ms
+NmAbH01D3 (White) placed a Round piece at column 6 after 131ms
 ............
 ............
 ............
@@ -135,7 +136,7 @@ NmAbH01D3 (White) placed a Round piece at column 6 after 130ms
 
 SureAIv16 (Red) turn
 depth = 4
-Did 1809 evals
+Did 1803 evals
 SureAIv16 (Red) placed a Square piece at column 6 after 251ms
 ............
 ............
@@ -152,7 +153,7 @@ SureAIv16 (Red) placed a Square piece at column 6 after 251ms
 
 NmAbH01D3 (White) turn
 Did 2293 evals
-NmAbH01D3 (White) placed a Round piece at column 6 after 126ms
+NmAbH01D3 (White) placed a Round piece at column 6 after 128ms
 ............
 ............
 ............
@@ -168,7 +169,7 @@ NmAbH01D3 (White) placed a Round piece at column 6 after 126ms
 
 SureAIv16 (Red) turn
 depth = 4
-Did 1723 evals
+Did 1710 evals
 SureAIv16 (Red) placed a Square piece at column 3 after 251ms
 ............
 ............
@@ -185,7 +186,7 @@ SureAIv16 (Red) placed a Square piece at column 3 after 251ms
 
 NmAbH01D3 (White) turn
 Did 2371 evals
-NmAbH01D3 (White) placed a Round piece at column 7 after 133ms
+NmAbH01D3 (White) placed a Round piece at column 7 after 136ms
 ............
 ............
 ............
@@ -201,7 +202,7 @@ NmAbH01D3 (White) placed a Round piece at column 7 after 133ms
 
 SureAIv16 (Red) turn
 depth = 4
-Did 1564 evals
+Did 1556 evals
 SureAIv16 (Red) placed a Square piece at column 4 after 251ms
 ............
 ............
@@ -218,7 +219,7 @@ SureAIv16 (Red) placed a Square piece at column 4 after 251ms
 
 NmAbH01D3 (White) turn
 Did 2168 evals
-NmAbH01D3 (White) placed a Round piece at column 4 after 124ms
+NmAbH01D3 (White) placed a Round piece at column 4 after 127ms
 ............
 ............
 ............
@@ -234,7 +235,7 @@ NmAbH01D3 (White) placed a Round piece at column 4 after 124ms
 
 SureAIv16 (Red) turn
 depth = 4
-Did 1495 evals
+Did 1483 evals
 SureAIv16 (Red) placed a Square piece at column 5 after 251ms
 ............
 ............
@@ -251,7 +252,7 @@ SureAIv16 (Red) placed a Square piece at column 5 after 251ms
 
 NmAbH01D3 (White) turn
 Did 2860 evals
-NmAbH01D3 (White) placed a Round piece at column 5 after 165ms
+NmAbH01D3 (White) placed a Round piece at column 5 after 169ms
 ............
 ............
 ............
@@ -267,7 +268,7 @@ NmAbH01D3 (White) placed a Round piece at column 5 after 165ms
 
 SureAIv16 (Red) turn
 depth = 4
-Did 1427 evals
+Did 1384 evals
 SureAIv16 (Red) placed a Square piece at column 7 after 251ms
 ............
 ............
@@ -284,7 +285,7 @@ SureAIv16 (Red) placed a Square piece at column 7 after 251ms
 
 NmAbH01D3 (White) turn
 Did 2800 evals
-NmAbH01D3 (White) placed a Round piece at column 7 after 164ms
+NmAbH01D3 (White) placed a Round piece at column 7 after 168ms
 ............
 ............
 ............
@@ -300,7 +301,7 @@ NmAbH01D3 (White) placed a Round piece at column 7 after 164ms
 
 SureAIv16 (Red) turn
 depth = 4
-Did 1265 evals
+Did 1245 evals
 SureAIv16 (Red) placed a Square piece at column 9 after 251ms
 ............
 ............
@@ -317,7 +318,7 @@ SureAIv16 (Red) placed a Square piece at column 9 after 251ms
 
 NmAbH01D3 (White) turn
 Did 3035 evals
-NmAbH01D3 (White) placed a Round piece at column 6 after 182ms
+NmAbH01D3 (White) placed a Round piece at column 6 after 186ms
 ............
 ............
 ............
@@ -333,7 +334,7 @@ NmAbH01D3 (White) placed a Round piece at column 6 after 182ms
 
 SureAIv16 (Red) turn
 depth = 4
-Did 1174 evals
+Did 1164 evals
 SureAIv16 (Red) placed a Square piece at column 4 after 251ms
 ............
 ............
@@ -350,7 +351,7 @@ SureAIv16 (Red) placed a Square piece at column 4 after 251ms
 
 NmAbH01D3 (White) turn
 Did 2948 evals
-NmAbH01D3 (White) placed a Round piece at column 4 after 190ms
+NmAbH01D3 (White) placed a Round piece at column 4 after 184ms
 ............
 ............
 ............
@@ -366,7 +367,7 @@ NmAbH01D3 (White) placed a Round piece at column 4 after 190ms
 
 SureAIv16 (Red) turn
 depth = 4
-Did 1233 evals
+Did 1225 evals
 SureAIv16 (Red) placed a Square piece at column 7 after 251ms
 ............
 ............
@@ -383,7 +384,7 @@ SureAIv16 (Red) placed a Square piece at column 7 after 251ms
 
 NmAbH01D3 (White) turn
 Did 3506 evals
-NmAbH01D3 (White) placed a Round piece at column 6 after 217ms
+NmAbH01D3 (White) placed a Round piece at column 6 after 222ms
 ............
 ............
 ............
@@ -399,7 +400,7 @@ NmAbH01D3 (White) placed a Round piece at column 6 after 217ms
 
 SureAIv16 (Red) turn
 depth = 3
-Did 1096 evals
+Did 1078 evals
 SureAIv16 (Red) placed a Square piece at column 8 after 251ms
 ............
 ............
@@ -416,7 +417,7 @@ SureAIv16 (Red) placed a Square piece at column 8 after 251ms
 
 NmAbH01D3 (White) turn
 Did 3292 evals
-NmAbH01D3 (White) placed a Round piece at column 7 after 205ms
+NmAbH01D3 (White) placed a Round piece at column 7 after 210ms
 ............
 ............
 ............
@@ -432,7 +433,7 @@ NmAbH01D3 (White) placed a Round piece at column 7 after 205ms
 
 SureAIv16 (Red) turn
 depth = 3
-Did 1063 evals
+Did 1061 evals
 SureAIv16 (Red) placed a Square piece at column 5 after 251ms
 ............
 ............
@@ -449,7 +450,7 @@ SureAIv16 (Red) placed a Square piece at column 5 after 251ms
 
 NmAbH01D3 (White) turn
 Did 3279 evals
-NmAbH01D3 (White) placed a Round piece at column 6 after 205ms
+NmAbH01D3 (White) placed a Round piece at column 6 after 211ms
 ............
 ............
 ............
@@ -465,7 +466,7 @@ NmAbH01D3 (White) placed a Round piece at column 6 after 205ms
 
 SureAIv16 (Red) turn
 depth = 3
-Did 1126 evals
+Did 1119 evals
 SureAIv16 (Red) placed a Square piece at column 5 after 251ms
 ............
 ............
@@ -482,7 +483,7 @@ SureAIv16 (Red) placed a Square piece at column 5 after 251ms
 
 NmAbH01D3 (White) turn
 Did 3481 evals
-NmAbH01D3 (White) placed a Round piece at column 5 after 220ms
+NmAbH01D3 (White) placed a Round piece at column 5 after 225ms
 ............
 ............
 ............
@@ -498,7 +499,7 @@ NmAbH01D3 (White) placed a Round piece at column 5 after 220ms
 
 SureAIv16 (Red) turn
 depth = 3
-Did 1026 evals
+Did 1018 evals
 SureAIv16 (Red) placed a Square piece at column 2 after 251ms
 ............
 ............
@@ -515,7 +516,7 @@ SureAIv16 (Red) placed a Square piece at column 2 after 251ms
 
 NmAbH01D3 (White) turn
 Did 3271 evals
-NmAbH01D3 (White) placed a Round piece at column 7 after 213ms
+NmAbH01D3 (White) placed a Round piece at column 7 after 217ms
 ............
 ............
 ............
@@ -531,7 +532,7 @@ NmAbH01D3 (White) placed a Round piece at column 7 after 213ms
 
 SureAIv16 (Red) turn
 depth = 3
-Did 1042 evals
+Did 1015 evals
 SureAIv16 (Red) placed a Square piece at column 2 after 251ms
 ............
 ............
@@ -548,7 +549,7 @@ SureAIv16 (Red) placed a Square piece at column 2 after 251ms
 
 NmAbH01D3 (White) turn
 Did 3419 evals
-NmAbH01D3 (White) placed a Round piece at column 7 after 225ms
+NmAbH01D3 (White) placed a Round piece at column 7 after 232ms
 ............
 ............
 ............
@@ -564,7 +565,7 @@ NmAbH01D3 (White) placed a Round piece at column 7 after 225ms
 
 SureAIv16 (Red) turn
 depth = 3
-Did 1073 evals
+Did 1061 evals
 SureAIv16 (Red) placed a Square piece at column 6 after 251ms
 ............
 ............
@@ -581,7 +582,7 @@ SureAIv16 (Red) placed a Square piece at column 6 after 251ms
 
 NmAbH01D3 (White) turn
 Did 2557 evals
-NmAbH01D3 (White) placed a Round piece at column 2 after 171ms
+NmAbH01D3 (White) placed a Round piece at column 2 after 176ms
 ............
 ............
 ............
@@ -597,7 +598,7 @@ NmAbH01D3 (White) placed a Round piece at column 2 after 171ms
 
 SureAIv16 (Red) turn
 depth = 3
-Did 1115 evals
+Did 1105 evals
 SureAIv16 (Red) placed a Square piece at column 2 after 251ms
 ............
 ............
@@ -614,7 +615,7 @@ SureAIv16 (Red) placed a Square piece at column 2 after 251ms
 
 NmAbH01D3 (White) turn
 Did 2653 evals
-NmAbH01D3 (White) placed a Round piece at column 8 after 179ms
+NmAbH01D3 (White) placed a Round piece at column 8 after 185ms
 ............
 ............
 ............
@@ -630,7 +631,7 @@ NmAbH01D3 (White) placed a Round piece at column 8 after 179ms
 
 SureAIv16 (Red) turn
 depth = 3
-Did 980 evals
+Did 957 evals
 SureAIv16 (Red) placed a Square piece at column 2 after 251ms
 ............
 ............
@@ -647,7 +648,7 @@ SureAIv16 (Red) placed a Square piece at column 2 after 251ms
 
 NmAbH01D3 (White) turn
 Did 2077 evals
-NmAbH01D3 (White) placed a Round piece at column 2 after 144ms
+NmAbH01D3 (White) placed a Round piece at column 2 after 151ms
 ............
 ............
 ............
@@ -663,7 +664,7 @@ NmAbH01D3 (White) placed a Round piece at column 2 after 144ms
 
 SureAIv16 (Red) turn
 depth = 3
-Did 886 evals
+Did 878 evals
 SureAIv16 (Red) placed a Square piece at column 3 after 251ms
 ............
 ............
@@ -680,7 +681,7 @@ SureAIv16 (Red) placed a Square piece at column 3 after 251ms
 
 NmAbH01D3 (White) turn
 Did 2022 evals
-NmAbH01D3 (White) placed a Round piece at column 3 after 143ms
+NmAbH01D3 (White) placed a Round piece at column 3 after 147ms
 ............
 ............
 ............
@@ -696,7 +697,7 @@ NmAbH01D3 (White) placed a Round piece at column 3 after 143ms
 
 SureAIv16 (Red) turn
 depth = 3
-Did 994 evals
+Did 988 evals
 SureAIv16 (Red) placed a Square piece at column 2 after 251ms
 ............
 ............
@@ -713,7 +714,7 @@ SureAIv16 (Red) placed a Square piece at column 2 after 251ms
 
 NmAbH01D3 (White) turn
 Did 1709 evals
-NmAbH01D3 (White) placed a Round piece at column 3 after 121ms
+NmAbH01D3 (White) placed a Round piece at column 3 after 130ms
 ............
 ............
 ............
@@ -729,7 +730,7 @@ NmAbH01D3 (White) placed a Round piece at column 3 after 121ms
 
 SureAIv16 (Red) turn
 depth = 6
-Did 977 evals
+Did 921 evals
 SureAIv16 (Red) placed a Square piece at column 3 after 251ms
 ............
 ............
@@ -746,7 +747,7 @@ SureAIv16 (Red) placed a Square piece at column 3 after 251ms
 
 NmAbH01D3 (White) turn
 Did 2365 evals
-NmAbH01D3 (White) placed a Round piece at column 3 after 170ms
+NmAbH01D3 (White) placed a Round piece at column 3 after 174ms
 ............
 ............
 ............
@@ -762,7 +763,7 @@ NmAbH01D3 (White) placed a Round piece at column 3 after 170ms
 
 SureAIv16 (Red) turn
 depth = 4
-Did 885 evals
+Did 871 evals
 SureAIv16 (Red) placed a Square piece at column 3 after 251ms
 ............
 ............
@@ -779,7 +780,7 @@ SureAIv16 (Red) placed a Square piece at column 3 after 251ms
 
 NmAbH01D3 (White) turn
 Did 3242 evals
-NmAbH01D3 (White) placed a Round piece at column 4 after 237ms
+NmAbH01D3 (White) placed a Round piece at column 4 after 254ms
 ............
 ............
 ............
@@ -795,7 +796,7 @@ NmAbH01D3 (White) placed a Round piece at column 4 after 237ms
 
 SureAIv16 (Red) turn
 depth = 3
-Did 806 evals
+Did 775 evals
 SureAIv16 (Red) placed a Square piece at column 0 after 251ms
 ............
 ............
@@ -812,7 +813,7 @@ R.RRRwRwRR..
 
 NmAbH01D3 (White) turn
 Did 3634 evals
-NmAbH01D3 (White) placed a Round piece at column 4 after 268ms
+NmAbH01D3 (White) placed a Round piece at column 4 after 276ms
 ............
 ............
 ............
@@ -828,7 +829,7 @@ R.RRRwRwRR..
 
 SureAIv16 (Red) turn
 depth = 3
-Did 741 evals
+Did 707 evals
 SureAIv16 (Red) placed a Square piece at column 4 after 251ms
 ............
 ............
@@ -845,7 +846,7 @@ R.RRRwRwRR..
 
 NmAbH01D3 (White) turn
 Did 3219 evals
-NmAbH01D3 (White) placed a Round piece at column 3 after 241ms
+NmAbH01D3 (White) placed a Round piece at column 3 after 249ms
 ............
 ............
 ............
@@ -861,7 +862,7 @@ R.RRRwRwRR..
 
 SureAIv16 (Red) turn
 depth = 3
-Did 747 evals
+Did 735 evals
 SureAIv16 (Red) placed a Square piece at column 6 after 251ms
 ............
 ............
@@ -878,7 +879,7 @@ R.RRRwRwRR..
 
 NmAbH01D3 (White) turn
 Did 3111 evals
-NmAbH01D3 (White) placed a Round piece at column 8 after 236ms
+NmAbH01D3 (White) placed a Round piece at column 8 after 244ms
 ............
 ............
 ............
@@ -894,7 +895,7 @@ R.RRRwRwRR..
 
 SureAIv16 (Red) turn
 depth = 3
-Did 761 evals
+Did 747 evals
 SureAIv16 (Red) placed a Square piece at column 5 after 251ms
 ............
 ............
@@ -911,7 +912,7 @@ R.RRRwRwRR..
 
 NmAbH01D3 (White) turn
 Did 3147 evals
-NmAbH01D3 (White) placed a Round piece at column 2 after 245ms
+NmAbH01D3 (White) placed a Round piece at column 2 after 254ms
 ............
 ............
 ............
@@ -927,7 +928,7 @@ R.RRRwRwRR..
 
 SureAIv16 (Red) turn
 depth = 3
-Did 802 evals
+Did 798 evals
 SureAIv16 (Red) placed a Square piece at column 3 after 251ms
 ............
 ............

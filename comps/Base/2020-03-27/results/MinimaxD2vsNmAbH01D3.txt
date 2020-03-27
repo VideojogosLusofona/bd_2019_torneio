@@ -13,7 +13,7 @@
 .......
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+MinimaxD2 (White) placed a Round piece at column 5 after 2ms
 .......
 .......
 .......
@@ -32,7 +32,7 @@ NmAbH01D3 (Red) placed a Square piece at column 3 after 12ms
 ...R.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 4ms
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
 .......
 .......
 .......
@@ -42,7 +42,7 @@ MinimaxD2 (White) placed a Round piece at column 5 after 4ms
 
 NmAbH01D3 (Red) turn
 Did 654 evals
-NmAbH01D3 (Red) placed a Square piece at column 5 after 12ms
+NmAbH01D3 (Red) placed a Square piece at column 5 after 14ms
 .......
 .......
 .......
@@ -51,7 +51,7 @@ NmAbH01D3 (Red) placed a Square piece at column 5 after 12ms
 ...R.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+MinimaxD2 (White) placed a Round piece at column 5 after 4ms
 .......
 .......
 .....w.
@@ -61,7 +61,7 @@ MinimaxD2 (White) placed a Round piece at column 5 after 3ms
 
 NmAbH01D3 (Red) turn
 Did 622 evals
-NmAbH01D3 (Red) placed a Square piece at column 1 after 12ms
+NmAbH01D3 (Red) placed a Square piece at column 1 after 15ms
 .......
 .......
 .....w.
@@ -70,7 +70,7 @@ NmAbH01D3 (Red) placed a Square piece at column 1 after 12ms
 .R.R.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 5ms
+MinimaxD2 (White) placed a Round piece at column 5 after 4ms
 .......
 .....w.
 .....w.
@@ -80,7 +80,7 @@ MinimaxD2 (White) placed a Round piece at column 5 after 5ms
 
 NmAbH01D3 (Red) turn
 Did 238 evals
-NmAbH01D3 (Red) placed a Round piece at column 2 after 4ms
+NmAbH01D3 (Red) placed a Round piece at column 2 after 5ms
 .......
 .....w.
 .....w.
@@ -89,7 +89,7 @@ NmAbH01D3 (Red) placed a Round piece at column 2 after 4ms
 .RrR.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Square piece at column 6 after 3ms
+MinimaxD2 (White) placed a Square piece at column 6 after 4ms
 .......
 .....w.
 .....w.

@@ -13,7 +13,7 @@
 .......
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 6ms
+MinimaxD2 (White) placed a Round piece at column 5 after 4ms
 .......
 .......
 .......
@@ -22,7 +22,7 @@ MinimaxD2 (White) placed a Round piece at column 5 after 6ms
 .....w.
 
 Thonk Tank (Red) turn
-Thonk Tank (Red) placed a Square piece at column 3 after 5ms
+Thonk Tank (Red) placed a Square piece at column 3 after 7ms
 .......
 .......
 .......
@@ -49,7 +49,7 @@ Thonk Tank (Red) placed a Square piece at column 5 after 6ms
 ...R.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 4ms
+MinimaxD2 (White) placed a Round piece at column 5 after 5ms
 .......
 .......
 .....w.
@@ -58,7 +58,7 @@ MinimaxD2 (White) placed a Round piece at column 5 after 4ms
 ...R.w.
 
 Thonk Tank (Red) turn
-Thonk Tank (Red) placed a Square piece at column 3 after 6ms
+Thonk Tank (Red) placed a Square piece at column 3 after 7ms
 .......
 .......
 .....w.
@@ -67,7 +67,7 @@ Thonk Tank (Red) placed a Square piece at column 3 after 6ms
 ...R.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 3 after 4ms
+MinimaxD2 (White) placed a Round piece at column 3 after 5ms
 .......
 .......
 .....w.
@@ -76,7 +76,7 @@ MinimaxD2 (White) placed a Round piece at column 3 after 4ms
 ...R.w.
 
 Thonk Tank (Red) turn
-Thonk Tank (Red) placed a Square piece at column 2 after 6ms
+Thonk Tank (Red) placed a Square piece at column 2 after 7ms
 .......
 .......
 .....w.
@@ -94,7 +94,7 @@ MinimaxD2 (White) placed a Round piece at column 3 after 5ms
 ..RR.w.
 
 Thonk Tank (Red) turn
-Thonk Tank (Red) placed a Square piece at column 2 after 7ms
+Thonk Tank (Red) placed a Square piece at column 2 after 6ms
 .......
 .......
 ...w.w.
@@ -130,7 +130,7 @@ MinimaxD2 (White) placed a Round piece at column 2 after 4ms
 ..RR.w.
 
 Thonk Tank (Red) turn
-Thonk Tank (Red) placed a Square piece at column 1 after 5ms
+Thonk Tank (Red) placed a Square piece at column 1 after 6ms
 ...R...
 ...w...
 ...w.w.
@@ -139,7 +139,7 @@ Thonk Tank (Red) placed a Square piece at column 1 after 5ms
 .RRR.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Square piece at column 6 after 3ms
+MinimaxD2 (White) placed a Square piece at column 6 after 4ms
 ...R...
 ...w...
 ...w.w.

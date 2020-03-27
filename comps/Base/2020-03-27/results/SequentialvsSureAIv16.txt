@@ -23,7 +23,7 @@ w......
 
 SureAIv16 (Red) turn
 depth = 5
-Did 3944 evals
+Did 3847 evals
 SureAIv16 (Red) placed a Square piece at column 3 after 151ms
 .......
 .......
@@ -43,7 +43,7 @@ ww.R...
 
 SureAIv16 (Red) turn
 depth = 5
-Did 3766 evals
+Did 3505 evals
 SureAIv16 (Red) placed a Square piece at column 3 after 151ms
 .......
 .......
@@ -63,7 +63,7 @@ wwwR...
 
 SureAIv16 (Red) turn
 depth = 5
-Did 3164 evals
+Did 3062 evals
 SureAIv16 (Red) placed a Square piece at column 2 after 151ms
 .......
 .......
@@ -83,7 +83,7 @@ wwwR...
 
 SureAIv16 (Red) turn
 depth = 5
-Did 2743 evals
+Did 2709 evals
 SureAIv16 (Red) placed a Square piece at column 2 after 151ms
 .......
 .......
@@ -103,7 +103,7 @@ wwwRw..
 
 SureAIv16 (Red) turn
 depth = 6
-Did 2713 evals
+Did 2448 evals
 SureAIv16 (Red) placed a Square piece at column 1 after 151ms
 .......
 .......
@@ -123,7 +123,7 @@ wwwRww.
 
 SureAIv16 (Red) turn
 depth = 8
-Did 3017 evals
+Did 2165 evals
 SureAIv16 (Red) placed a Square piece at column 4 after 151ms
 .......
 .......

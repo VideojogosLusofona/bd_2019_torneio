@@ -14,7 +14,7 @@
 
 SureAIv16 (White) turn
 depth = 6
-Did 4071 evals
+Did 4008 evals
 SureAIv16 (White) placed a Round piece at column 3 after 151ms
 .......
 .......
@@ -34,7 +34,7 @@ r..w...
 
 SureAIv16 (White) turn
 depth = 5
-Did 3773 evals
+Did 3680 evals
 SureAIv16 (White) placed a Round piece at column 2 after 151ms
 .......
 .......

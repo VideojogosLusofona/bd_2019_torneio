@@ -23,7 +23,7 @@ MinimaxD2 (White) placed a Round piece at column 5 after 4ms
 
 SureAIv16 (Red) turn
 depth = 5
-Did 2690 evals
+Did 3782 evals
 SureAIv16 (Red) placed a Square piece at column 3 after 151ms
 .......
 .......
@@ -33,7 +33,7 @@ SureAIv16 (Red) placed a Square piece at column 3 after 151ms
 ...R.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 4ms
+MinimaxD2 (White) placed a Round piece at column 5 after 7ms
 .......
 .......
 .......
@@ -43,7 +43,7 @@ MinimaxD2 (White) placed a Round piece at column 5 after 4ms
 
 SureAIv16 (Red) turn
 depth = 5
-Did 2369 evals
+Did 3596 evals
 SureAIv16 (Red) placed a Square piece at column 3 after 151ms
 .......
 .......
@@ -53,7 +53,7 @@ SureAIv16 (Red) placed a Square piece at column 3 after 151ms
 ...R.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 3 after 4ms
+MinimaxD2 (White) placed a Round piece at column 3 after 3ms
 .......
 .......
 .......
@@ -63,7 +63,7 @@ MinimaxD2 (White) placed a Round piece at column 3 after 4ms
 
 SureAIv16 (Red) turn
 depth = 5
-Did 2042 evals
+Did 3075 evals
 SureAIv16 (Red) placed a Square piece at column 2 after 151ms
 .......
 .......
@@ -73,7 +73,7 @@ SureAIv16 (Red) placed a Square piece at column 2 after 151ms
 ..RR.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 3 after 4ms
+MinimaxD2 (White) placed a Round piece at column 3 after 3ms
 .......
 .......
 ...w...
@@ -82,8 +82,8 @@ MinimaxD2 (White) placed a Round piece at column 3 after 4ms
 ..RR.w.
 
 SureAIv16 (Red) turn
-depth = 5
-Did 1658 evals
+depth = 6
+Did 2640 evals
 SureAIv16 (Red) placed a Square piece at column 1 after 151ms
 .......
 .......
@@ -93,7 +93,7 @@ SureAIv16 (Red) placed a Square piece at column 1 after 151ms
 .RRR.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Square piece at column 6 after 4ms
+MinimaxD2 (White) placed a Square piece at column 6 after 3ms
 .......
 .......
 ...w...
@@ -102,8 +102,8 @@ MinimaxD2 (White) placed a Square piece at column 6 after 4ms
 .RRR.wW
 
 SureAIv16 (Red) turn
-depth = 6
-Did 1774 evals
+depth = 7
+Did 2604 evals
 SureAIv16 (Red) placed a Square piece at column 0 after 151ms
 .......
 .......

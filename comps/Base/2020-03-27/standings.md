@@ -1,6 +1,6 @@
 # Standings
 
-Last update: Fri, 27 Mar 2020 15:00:42 GMT
+Last update: Fri, 27 Mar 2020 15:34:03 GMT
 
 ## Configuration
 
@@ -17,13 +17,14 @@ Last update: Fri, 27 Mar 2020 15:00:42 GMT
 
 | Pos. | AI Thinker | Points |
 |:----:| ---------- | -----: |
-| 1 | SureAIv16 | 33 |
-| 2 | NmAbH01D3 | 30 |
-| 3 | Thonk Tank | 24 |
-| 4 | GLaDOS2019 | 18 |
-| 5 | MinimaxD2 | 15 |
-| 6 | Random | 3 |
-| 7 | Sequential | 3 |
+| 1 | SureAIv16 | 39 |
+| 2 | NmAbH01D3 | 36 |
+| 3 | Thonk Tank | 30 |
+| 4 | MinimaxD2 | 18 |
+| 5 | ZetaAI | 18 |
+| 6 | GLaDOS2019 | 18 |
+| 7 | Random | 6 |
+| 8 | Sequential | 3 |
 
 ## Results
 
@@ -31,6 +32,8 @@ _Winner, if any, shown in bold_
 
 | White |   Red   | Details |
 | -----:|:------- | :-----: |
+| **`MinimaxD2`** | `ZetaAI` | [+](results/MinimaxD2vsZetaAI.txt) |
+| **`ZetaAI`** | `MinimaxD2` | [+](results/ZetaAIvsMinimaxD2.txt) |
 | **`NmAbH01D3`** | `Thonk Tank` | [+](results/NmAbH01D3vsThonkTank.txt) |
 | `Thonk Tank` | **`NmAbH01D3`** | [+](results/ThonkTankvsNmAbH01D3.txt) |
 | `Random` | **`SureAIv16`** | [+](results/RandomvsSureAIv16.txt) |
@@ -39,6 +42,8 @@ _Winner, if any, shown in bold_
 | **`GLaDOS2019`** | `Sequential` | [+](results/GLaDOS2019vsSequential.txt) |
 | `MinimaxD2` | **`Thonk Tank`** | [+](results/MinimaxD2vsThonkTank.txt) |
 | **`Thonk Tank`** | `MinimaxD2` | [+](results/ThonkTankvsMinimaxD2.txt) |
+| `ZetaAI` | **`SureAIv16`** | [+](results/ZetaAIvsSureAIv16.txt) |
+| **`SureAIv16`** | `ZetaAI` | [+](results/SureAIv16vsZetaAI.txt) |
 | **`NmAbH01D3`** | `GLaDOS2019` | [+](results/NmAbH01D3vsGLaDOS2019.txt) |
 | `GLaDOS2019` | **`NmAbH01D3`** | [+](results/GLaDOS2019vsNmAbH01D3.txt) |
 | **`Random`** | `Sequential` | [+](results/RandomvsSequential.txt) |
@@ -47,6 +52,8 @@ _Winner, if any, shown in bold_
 | **`SureAIv16`** | `MinimaxD2` | [+](results/SureAIv16vsMinimaxD2.txt) |
 | **`Thonk Tank`** | `GLaDOS2019` | [+](results/ThonkTankvsGLaDOS2019.txt) |
 | **`GLaDOS2019`** | `Thonk Tank` | [+](results/GLaDOS2019vsThonkTank.txt) |
+| **`ZetaAI`** | `Sequential` | [+](results/ZetaAIvsSequential.txt) |
+| `Sequential` | **`ZetaAI`** | [+](results/SequentialvsZetaAI.txt) |
 | **`NmAbH01D3`** | `Random` | [+](results/NmAbH01D3vsRandom.txt) |
 | `Random` | **`NmAbH01D3`** | [+](results/RandomvsNmAbH01D3.txt) |
 | `MinimaxD2` | **`GLaDOS2019`** | [+](results/MinimaxD2vsGLaDOS2019.txt) |
@@ -55,20 +62,28 @@ _Winner, if any, shown in bold_
 | `Sequential` | **`SureAIv16`** | [+](results/SequentialvsSureAIv16.txt) |
 | **`Thonk Tank`** | `Random` | [+](results/ThonkTankvsRandom.txt) |
 | `Random` | **`Thonk Tank`** | [+](results/RandomvsThonkTank.txt) |
+| `ZetaAI` | **`NmAbH01D3`** | [+](results/ZetaAIvsNmAbH01D3.txt) |
+| **`NmAbH01D3`** | `ZetaAI` | [+](results/NmAbH01D3vsZetaAI.txt) |
 | **`MinimaxD2`** | `Sequential` | [+](results/MinimaxD2vsSequential.txt) |
 | `Sequential` | **`MinimaxD2`** | [+](results/SequentialvsMinimaxD2.txt) |
 | **`GLaDOS2019`** | `Random` | [+](results/GLaDOS2019vsRandom.txt) |
 | `Random` | **`GLaDOS2019`** | [+](results/RandomvsGLaDOS2019.txt) |
 | **`SureAIv16`** | `NmAbH01D3` | [+](results/SureAIv16vsNmAbH01D3.txt) |
 | `NmAbH01D3` | **`SureAIv16`** | [+](results/NmAbH01D3vsSureAIv16.txt) |
+| **`Thonk Tank`** | `ZetaAI` | [+](results/ThonkTankvsZetaAI.txt) |
+| `ZetaAI` | **`Thonk Tank`** | [+](results/ZetaAIvsThonkTank.txt) |
 | **`MinimaxD2`** | `Random` | [+](results/MinimaxD2vsRandom.txt) |
 | `Random` | **`MinimaxD2`** | [+](results/RandomvsMinimaxD2.txt) |
 | `Sequential` | **`NmAbH01D3`** | [+](results/SequentialvsNmAbH01D3.txt) |
 | **`NmAbH01D3`** | `Sequential` | [+](results/NmAbH01D3vsSequential.txt) |
+| `GLaDOS2019` | **`ZetaAI`** | [+](results/GLaDOS2019vsZetaAI.txt) |
+| **`ZetaAI`** | `GLaDOS2019` | [+](results/ZetaAIvsGLaDOS2019.txt) |
 | **`SureAIv16`** | `Thonk Tank` | [+](results/SureAIv16vsThonkTank.txt) |
 | **`Thonk Tank`** | `SureAIv16` | [+](results/ThonkTankvsSureAIv16.txt) |
 | `MinimaxD2` | **`NmAbH01D3`** | [+](results/MinimaxD2vsNmAbH01D3.txt) |
 | **`NmAbH01D3`** | `MinimaxD2` | [+](results/NmAbH01D3vsMinimaxD2.txt) |
+| `Random` | **`ZetaAI`** | [+](results/RandomvsZetaAI.txt) |
+| `ZetaAI` | **`Random`** | [+](results/ZetaAIvsRandom.txt) |
 | `Sequential` | **`Thonk Tank`** | [+](results/SequentialvsThonkTank.txt) |
 | **`Thonk Tank`** | `Sequential` | [+](results/ThonkTankvsSequential.txt) |
 | `GLaDOS2019` | **`SureAIv16`** | [+](results/GLaDOS2019vsSureAIv16.txt) |

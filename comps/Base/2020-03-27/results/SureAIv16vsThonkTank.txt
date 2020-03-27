@@ -14,7 +14,7 @@
 
 SureAIv16 (White) turn
 depth = 6
-Did 4007 evals
+Did 4052 evals
 SureAIv16 (White) placed a Round piece at column 3 after 151ms
 .......
 .......
@@ -34,7 +34,7 @@ R..w...
 
 SureAIv16 (White) turn
 depth = 5
-Did 3664 evals
+Did 3826 evals
 SureAIv16 (White) placed a Round piece at column 3 after 151ms
 .......
 .......
@@ -44,7 +44,7 @@ SureAIv16 (White) placed a Round piece at column 3 after 151ms
 R..w...
 
 Thonk Tank (Red) turn
-Thonk Tank (Red) placed a Square piece at column 1 after 3ms
+Thonk Tank (Red) placed a Square piece at column 1 after 6ms
 .......
 .......
 .......
@@ -54,7 +54,7 @@ RR.w...
 
 SureAIv16 (White) turn
 depth = 5
-Did 3368 evals
+Did 3480 evals
 SureAIv16 (White) placed a Round piece at column 4 after 151ms
 .......
 .......
@@ -74,7 +74,7 @@ RRRww..
 
 SureAIv16 (White) turn
 depth = 5
-Did 3581 evals
+Did 3573 evals
 SureAIv16 (White) placed a Round piece at column 3 after 151ms
 .......
 .......
@@ -94,7 +94,7 @@ RRRww..
 
 SureAIv16 (White) turn
 depth = 5
-Did 2934 evals
+Did 3062 evals
 SureAIv16 (White) placed a Round piece at column 4 after 151ms
 .......
 .......
@@ -114,7 +114,7 @@ RRRww..
 
 SureAIv16 (White) turn
 depth = 6
-Did 2984 evals
+Did 3002 evals
 SureAIv16 (White) placed a Round piece at column 5 after 151ms
 .......
 .......
@@ -134,7 +134,7 @@ RRRwwwR
 
 SureAIv16 (White) turn
 depth = 7
-Did 2468 evals
+Did 2474 evals
 SureAIv16 (White) placed a Round piece at column 5 after 151ms
 .......
 .......
