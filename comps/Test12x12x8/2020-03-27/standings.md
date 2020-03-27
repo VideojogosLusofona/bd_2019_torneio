@@ -1,6 +1,6 @@
 # Standings
 
-Last update: Fri, 27 Mar 2020 02:18:21 GMT
+Last update: Fri, 27 Mar 2020 15:02:26 GMT
 
 ## Configuration
 
@@ -17,12 +17,13 @@ Last update: Fri, 27 Mar 2020 02:18:21 GMT
 
 | Pos. | AI Thinker | Points |
 |:----:| ---------- | -----: |
-| 1 | SureAIv12 | 24 |
-| 2 | NmAbH01D3 | 21 |
-| 3 | GLaDOS2019 | 21 |
-| 4 | MinimaxD2 | 15 |
-| 5 | Sequential | 6 |
-| 6 | Random | 3 |
+| 1 | SureAIv16 | 36 |
+| 2 | Thonk Tank | 24 |
+| 3 | NmAbH01D3 | 21 |
+| 4 | GLaDOS2019 | 18 |
+| 5 | MinimaxD2 | 18 |
+| 6 | Sequential | 6 |
+| 7 | Random | 3 |
 
 ## Results
 
@@ -30,36 +31,48 @@ _Winner, if any, shown in bold_
 
 | White |   Red   | Details |
 | -----:|:------- | :-----: |
-| `MinimaxD2` | **`SureAIv12`** | [+](results/MinimaxD2vsSureAIv12.txt) |
-| **`SureAIv12`** | `MinimaxD2` | [+](results/SureAIv12vsMinimaxD2.txt) |
+| **`NmAbH01D3`** | `Thonk Tank` | [+](results/NmAbH01D3vsThonkTank.txt) |
+| **`Thonk Tank`** | `NmAbH01D3` | [+](results/ThonkTankvsNmAbH01D3.txt) |
+| `Random` | **`SureAIv16`** | [+](results/RandomvsSureAIv16.txt) |
+| **`SureAIv16`** | `Random` | [+](results/SureAIv16vsRandom.txt) |
+| `Sequential` | **`GLaDOS2019`** | [+](results/SequentialvsGLaDOS2019.txt) |
+| **`GLaDOS2019`** | `Sequential` | [+](results/GLaDOS2019vsSequential.txt) |
+| `MinimaxD2` | **`Thonk Tank`** | [+](results/MinimaxD2vsThonkTank.txt) |
+| `Thonk Tank` | **`MinimaxD2`** | [+](results/ThonkTankvsMinimaxD2.txt) |
 | `NmAbH01D3` | **`GLaDOS2019`** | [+](results/NmAbH01D3vsGLaDOS2019.txt) |
-| **`GLaDOS2019`** | `NmAbH01D3` | [+](results/GLaDOS2019vsNmAbH01D3.txt) |
+| `GLaDOS2019` | **`NmAbH01D3`** | [+](results/GLaDOS2019vsNmAbH01D3.txt) |
 | **`Random`** | `Sequential` | [+](results/RandomvsSequential.txt) |
 | **`Sequential`** | `Random` | [+](results/SequentialvsRandom.txt) |
-| `MinimaxD2` | **`GLaDOS2019`** | [+](results/MinimaxD2vsGLaDOS2019.txt) |
-| `GLaDOS2019` | **`MinimaxD2`** | [+](results/GLaDOS2019vsMinimaxD2.txt) |
-| **`SureAIv12`** | `Sequential` | [+](results/SureAIv12vsSequential.txt) |
-| `Sequential` | **`SureAIv12`** | [+](results/SequentialvsSureAIv12.txt) |
+| `MinimaxD2` | **`SureAIv16`** | [+](results/MinimaxD2vsSureAIv16.txt) |
+| **`SureAIv16`** | `MinimaxD2` | [+](results/SureAIv16vsMinimaxD2.txt) |
+| **`Thonk Tank`** | `GLaDOS2019` | [+](results/ThonkTankvsGLaDOS2019.txt) |
+| `GLaDOS2019` | **`Thonk Tank`** | [+](results/GLaDOS2019vsThonkTank.txt) |
 | **`NmAbH01D3`** | `Random` | [+](results/NmAbH01D3vsRandom.txt) |
 | `Random` | **`NmAbH01D3`** | [+](results/RandomvsNmAbH01D3.txt) |
+| `MinimaxD2` | **`GLaDOS2019`** | [+](results/MinimaxD2vsGLaDOS2019.txt) |
+| `GLaDOS2019` | **`MinimaxD2`** | [+](results/GLaDOS2019vsMinimaxD2.txt) |
+| **`SureAIv16`** | `Sequential` | [+](results/SureAIv16vsSequential.txt) |
+| `Sequential` | **`SureAIv16`** | [+](results/SequentialvsSureAIv16.txt) |
+| **`Thonk Tank`** | `Random` | [+](results/ThonkTankvsRandom.txt) |
+| `Random` | **`Thonk Tank`** | [+](results/RandomvsThonkTank.txt) |
 | **`MinimaxD2`** | `Sequential` | [+](results/MinimaxD2vsSequential.txt) |
 | `Sequential` | **`MinimaxD2`** | [+](results/SequentialvsMinimaxD2.txt) |
 | **`GLaDOS2019`** | `Random` | [+](results/GLaDOS2019vsRandom.txt) |
 | `Random` | **`GLaDOS2019`** | [+](results/RandomvsGLaDOS2019.txt) |
-| `SureAIv12` | **`NmAbH01D3`** | [+](results/SureAIv12vsNmAbH01D3.txt) |
-| **`NmAbH01D3`** | `SureAIv12` | [+](results/NmAbH01D3vsSureAIv12.txt) |
+| **`SureAIv16`** | `NmAbH01D3` | [+](results/SureAIv16vsNmAbH01D3.txt) |
+| `NmAbH01D3` | **`SureAIv16`** | [+](results/NmAbH01D3vsSureAIv16.txt) |
 | **`MinimaxD2`** | `Random` | [+](results/MinimaxD2vsRandom.txt) |
 | `Random` | **`MinimaxD2`** | [+](results/RandomvsMinimaxD2.txt) |
 | **`Sequential`** | `NmAbH01D3` | [+](results/SequentialvsNmAbH01D3.txt) |
 | **`NmAbH01D3`** | `Sequential` | [+](results/NmAbH01D3vsSequential.txt) |
-| `GLaDOS2019` | **`SureAIv12`** | [+](results/GLaDOS2019vsSureAIv12.txt) |
-| **`SureAIv12`** | `GLaDOS2019` | [+](results/SureAIv12vsGLaDOS2019.txt) |
+| **`SureAIv16`** | `Thonk Tank` | [+](results/SureAIv16vsThonkTank.txt) |
+| `Thonk Tank` | **`SureAIv16`** | [+](results/ThonkTankvsSureAIv16.txt) |
 | `MinimaxD2` | **`NmAbH01D3`** | [+](results/MinimaxD2vsNmAbH01D3.txt) |
 | **`NmAbH01D3`** | `MinimaxD2` | [+](results/NmAbH01D3vsMinimaxD2.txt) |
-| `Random` | **`SureAIv12`** | [+](results/RandomvsSureAIv12.txt) |
-| **`SureAIv12`** | `Random` | [+](results/SureAIv12vsRandom.txt) |
-| `Sequential` | **`GLaDOS2019`** | [+](results/SequentialvsGLaDOS2019.txt) |
-| **`GLaDOS2019`** | `Sequential` | [+](results/GLaDOS2019vsSequential.txt) |
+| `Sequential` | **`Thonk Tank`** | [+](results/SequentialvsThonkTank.txt) |
+| **`Thonk Tank`** | `Sequential` | [+](results/ThonkTankvsSequential.txt) |
+| `GLaDOS2019` | **`SureAIv16`** | [+](results/GLaDOS2019vsSureAIv16.txt) |
+| **`SureAIv16`** | `GLaDOS2019` | [+](results/SureAIv16vsGLaDOS2019.txt) |
 
 ## Previous days
 
