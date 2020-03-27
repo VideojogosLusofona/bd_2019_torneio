@@ -1,0 +1,296 @@
+=> NmAbH01D3 (White) vs SureAIv12 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+NmAbH01D3 (White) turn
+Did 736 evals
+NmAbH01D3 (White) placed a Round piece at column 3 after 13ms
+.......
+.......
+.......
+.......
+.......
+...w...
+
+SureAIv12 (Red) turn
+depth = 5
+SureAIv12 (Red) placed a Square piece at column 3 after 191ms
+.......
+.......
+.......
+.......
+...R...
+...w...
+
+NmAbH01D3 (White) turn
+Did 710 evals
+NmAbH01D3 (White) placed a Round piece at column 3 after 13ms
+.......
+.......
+.......
+...w...
+...R...
+...w...
+
+SureAIv12 (Red) turn
+depth = 5
+SureAIv12 (Red) placed a Square piece at column 5 after 191ms
+.......
+.......
+.......
+...w...
+...R...
+...w.R.
+
+NmAbH01D3 (White) turn
+Did 768 evals
+NmAbH01D3 (White) placed a Round piece at column 5 after 15ms
+.......
+.......
+.......
+...w...
+...R.w.
+...w.R.
+
+SureAIv12 (Red) turn
+depth = 5
+SureAIv12 (Red) placed a Square piece at column 5 after 191ms
+.......
+.......
+.......
+...w.R.
+...R.w.
+...w.R.
+
+NmAbH01D3 (White) turn
+Did 837 evals
+NmAbH01D3 (White) placed a Round piece at column 3 after 17ms
+.......
+.......
+...w...
+...w.R.
+...R.w.
+...w.R.
+
+SureAIv12 (Red) turn
+depth = 5
+SureAIv12 (Red) placed a Square piece at column 0 after 191ms
+.......
+.......
+...w...
+...w.R.
+...R.w.
+R..w.R.
+
+NmAbH01D3 (White) turn
+Did 833 evals
+NmAbH01D3 (White) placed a Round piece at column 1 after 17ms
+.......
+.......
+...w...
+...w.R.
+...R.w.
+Rw.w.R.
+
+SureAIv12 (Red) turn
+depth = 5
+SureAIv12 (Red) placed a Square piece at column 4 after 191ms
+.......
+.......
+...w...
+...w.R.
+...R.w.
+Rw.wRR.
+
+NmAbH01D3 (White) turn
+Did 785 evals
+NmAbH01D3 (White) placed a Round piece at column 4 after 16ms
+.......
+.......
+...w...
+...w.R.
+...Rww.
+Rw.wRR.
+
+SureAIv12 (Red) turn
+depth = 5
+SureAIv12 (Red) placed a Square piece at column 4 after 191ms
+.......
+.......
+...w...
+...wRR.
+...Rww.
+Rw.wRR.
+
+NmAbH01D3 (White) turn
+Did 695 evals
+NmAbH01D3 (White) placed a Round piece at column 4 after 15ms
+.......
+.......
+...ww..
+...wRR.
+...Rww.
+Rw.wRR.
+
+SureAIv12 (Red) turn
+depth = 6
+SureAIv12 (Red) placed a Square piece at column 3 after 191ms
+.......
+...R...
+...ww..
+...wRR.
+...Rww.
+Rw.wRR.
+
+NmAbH01D3 (White) turn
+Did 673 evals
+NmAbH01D3 (White) placed a Round piece at column 5 after 15ms
+.......
+...R...
+...www.
+...wRR.
+...Rww.
+Rw.wRR.
+
+SureAIv12 (Red) turn
+depth = 5
+SureAIv12 (Red) placed a Square piece at column 5 after 191ms
+.......
+...R.R.
+...www.
+...wRR.
+...Rww.
+Rw.wRR.
+
+NmAbH01D3 (White) turn
+Did 581 evals
+NmAbH01D3 (White) placed a Round piece at column 4 after 13ms
+.......
+...RwR.
+...www.
+...wRR.
+...Rww.
+Rw.wRR.
+
+SureAIv12 (Red) turn
+depth = 5
+SureAIv12 (Red) placed a Square piece at column 0 after 191ms
+.......
+...RwR.
+...www.
+...wRR.
+R..Rww.
+Rw.wRR.
+
+NmAbH01D3 (White) turn
+Did 497 evals
+NmAbH01D3 (White) placed a Square piece at column 6 after 11ms
+.......
+...RwR.
+...www.
+...wRR.
+R..Rww.
+Rw.wRRW
+
+SureAIv12 (Red) turn
+depth = 5
+SureAIv12 (Red) placed a Square piece at column 1 after 191ms
+.......
+...RwR.
+...www.
+...wRR.
+RR.Rww.
+Rw.wRRW
+
+NmAbH01D3 (White) turn
+Did 526 evals
+NmAbH01D3 (White) placed a Square piece at column 6 after 12ms
+.......
+...RwR.
+...www.
+...wRR.
+RR.RwwW
+Rw.wRRW
+
+SureAIv12 (Red) turn
+depth = 6
+SureAIv12 (Red) placed a Square piece at column 0 after 191ms
+.......
+...RwR.
+...www.
+R..wRR.
+RR.RwwW
+Rw.wRRW
+
+NmAbH01D3 (White) turn
+Did 55 evals
+NmAbH01D3 (White) placed a Round piece at column 0 after 1ms
+.......
+...RwR.
+w..www.
+R..wRR.
+RR.RwwW
+Rw.wRRW
+
+SureAIv12 (Red) turn
+depth = 6
+SureAIv12 (Red) placed a Round piece at column 3 after 191ms
+...r...
+...RwR.
+w..www.
+R..wRR.
+RR.RwwW
+Rw.wRRW
+
+NmAbH01D3 (White) turn
+Did 84 evals
+NmAbH01D3 (White) placed a Square piece at column 2 after 3ms
+...r...
+...RwR.
+w..www.
+R..wRR.
+RR.RwwW
+RwWwRRW
+
+SureAIv12 (Red) turn
+depth = 7
+SureAIv12 (Red) placed a Round piece at column 1 after 191ms
+...r...
+...RwR.
+w..www.
+Rr.wRR.
+RR.RwwW
+RwWwRRW
+
+NmAbH01D3 (White) turn
+Did 68 evals
+NmAbH01D3 (White) placed a Square piece at column 4 after 2ms
+...rW..
+...RwR.
+w..www.
+Rr.wRR.
+RR.RwwW
+RwWwRRW
+
+SureAIv12 (Red) turn
+depth = 24
+SureAIv12 (Red) placed a Round piece at column 2 after 191ms
+...rW..
+...RwR.
+w..www.
+Rr.wRR.
+RRrRwwW
+RwWwRRW
+
+Winner is NmAbH01D3 (White)
+Solution=(0,1)(1,2)(2,3)(3,4)

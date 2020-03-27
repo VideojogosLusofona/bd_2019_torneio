@@ -1,0 +1,1138 @@
+=> MinimaxD2 (White) vs SureAIv12 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+............
+............
+............
+............
+............
+............
+............
+............
+............
+............
+............
+............
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 9 after 53ms
+............
+............
+............
+............
+............
+............
+............
+............
+............
+............
+............
+.........w..
+
+SureAIv12 (Red) turn
+depth = 4
+SureAIv12 (Red) placed a Square piece at column 3 after 293ms
+............
+............
+............
+............
+............
+............
+............
+............
+............
+............
+............
+...R.....w..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 9 after 24ms
+............
+............
+............
+............
+............
+............
+............
+............
+............
+............
+.........w..
+...R.....w..
+
+SureAIv12 (Red) turn
+depth = 4
+SureAIv12 (Red) placed a Square piece at column 8 after 291ms
+............
+............
+............
+............
+............
+............
+............
+............
+............
+............
+.........w..
+...R....Rw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 9 after 25ms
+............
+............
+............
+............
+............
+............
+............
+............
+............
+.........w..
+.........w..
+...R....Rw..
+
+SureAIv12 (Red) turn
+depth = 4
+SureAIv12 (Red) placed a Square piece at column 8 after 291ms
+............
+............
+............
+............
+............
+............
+............
+............
+............
+.........w..
+........Rw..
+...R....Rw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 9 after 25ms
+............
+............
+............
+............
+............
+............
+............
+............
+.........w..
+.........w..
+........Rw..
+...R....Rw..
+
+SureAIv12 (Red) turn
+depth = 4
+SureAIv12 (Red) placed a Square piece at column 5 after 291ms
+............
+............
+............
+............
+............
+............
+............
+............
+.........w..
+.........w..
+........Rw..
+...R.R..Rw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 9 after 26ms
+............
+............
+............
+............
+............
+............
+............
+.........w..
+.........w..
+.........w..
+........Rw..
+...R.R..Rw..
+
+SureAIv12 (Red) turn
+depth = 3
+SureAIv12 (Red) placed a Square piece at column 9 after 291ms
+............
+............
+............
+............
+............
+............
+.........R..
+.........w..
+.........w..
+.........w..
+........Rw..
+...R.R..Rw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 9 after 26ms
+............
+............
+............
+............
+............
+.........w..
+.........R..
+.........w..
+.........w..
+.........w..
+........Rw..
+...R.R..Rw..
+
+SureAIv12 (Red) turn
+depth = 4
+SureAIv12 (Red) placed a Square piece at column 4 after 291ms
+............
+............
+............
+............
+............
+.........w..
+.........R..
+.........w..
+.........w..
+.........w..
+........Rw..
+...RRR..Rw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 9 after 27ms
+............
+............
+............
+............
+.........w..
+.........w..
+.........R..
+.........w..
+.........w..
+.........w..
+........Rw..
+...RRR..Rw..
+
+SureAIv12 (Red) turn
+depth = 4
+SureAIv12 (Red) placed a Square piece at column 6 after 291ms
+............
+............
+............
+............
+.........w..
+.........w..
+.........R..
+.........w..
+.........w..
+.........w..
+........Rw..
+...RRRR.Rw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 7 after 26ms
+............
+............
+............
+............
+.........w..
+.........w..
+.........R..
+.........w..
+.........w..
+.........w..
+........Rw..
+...RRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 4
+SureAIv12 (Red) placed a Square piece at column 7 after 291ms
+............
+............
+............
+............
+.........w..
+.........w..
+.........R..
+.........w..
+.........w..
+.........w..
+.......RRw..
+...RRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 9 after 28ms
+............
+............
+............
+.........w..
+.........w..
+.........w..
+.........R..
+.........w..
+.........w..
+.........w..
+.......RRw..
+...RRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 4
+SureAIv12 (Red) placed a Square piece at column 8 after 291ms
+............
+............
+............
+.........w..
+.........w..
+.........w..
+.........R..
+.........w..
+.........w..
+........Rw..
+.......RRw..
+...RRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 9 after 29ms
+............
+............
+.........w..
+.........w..
+.........w..
+.........w..
+.........R..
+.........w..
+.........w..
+........Rw..
+.......RRw..
+...RRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 4
+SureAIv12 (Red) placed a Square piece at column 5 after 291ms
+............
+............
+.........w..
+.........w..
+.........w..
+.........w..
+.........R..
+.........w..
+.........w..
+........Rw..
+.....R.RRw..
+...RRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 8 after 29ms
+............
+............
+.........w..
+.........w..
+.........w..
+.........w..
+.........R..
+.........w..
+........ww..
+........Rw..
+.....R.RRw..
+...RRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 3
+SureAIv12 (Red) placed a Square piece at column 8 after 291ms
+............
+............
+.........w..
+.........w..
+.........w..
+.........w..
+.........R..
+........Rw..
+........ww..
+........Rw..
+.....R.RRw..
+...RRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 8 after 30ms
+............
+............
+.........w..
+.........w..
+.........w..
+.........w..
+........wR..
+........Rw..
+........ww..
+........Rw..
+.....R.RRw..
+...RRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 4
+SureAIv12 (Red) placed a Square piece at column 8 after 291ms
+............
+............
+.........w..
+.........w..
+.........w..
+........Rw..
+........wR..
+........Rw..
+........ww..
+........Rw..
+.....R.RRw..
+...RRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 8 after 30ms
+............
+............
+.........w..
+.........w..
+........ww..
+........Rw..
+........wR..
+........Rw..
+........ww..
+........Rw..
+.....R.RRw..
+...RRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 4
+SureAIv12 (Red) placed a Square piece at column 7 after 291ms
+............
+............
+.........w..
+.........w..
+........ww..
+........Rw..
+........wR..
+........Rw..
+........ww..
+.......RRw..
+.....R.RRw..
+...RRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 8 after 30ms
+............
+............
+.........w..
+........ww..
+........ww..
+........Rw..
+........wR..
+........Rw..
+........ww..
+.......RRw..
+.....R.RRw..
+...RRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 4
+SureAIv12 (Red) placed a Square piece at column 6 after 291ms
+............
+............
+.........w..
+........ww..
+........ww..
+........Rw..
+........wR..
+........Rw..
+........ww..
+.......RRw..
+.....RRRRw..
+...RRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 8 after 31ms
+............
+............
+........ww..
+........ww..
+........ww..
+........Rw..
+........wR..
+........Rw..
+........ww..
+.......RRw..
+.....RRRRw..
+...RRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 3
+SureAIv12 (Red) placed a Square piece at column 7 after 291ms
+............
+............
+........ww..
+........ww..
+........ww..
+........Rw..
+........wR..
+........Rw..
+.......Rww..
+.......RRw..
+.....RRRRw..
+...RRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 6 after 29ms
+............
+............
+........ww..
+........ww..
+........ww..
+........Rw..
+........wR..
+........Rw..
+.......Rww..
+......wRRw..
+.....RRRRw..
+...RRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 3
+SureAIv12 (Red) placed a Square piece at column 2 after 291ms
+............
+............
+........ww..
+........ww..
+........ww..
+........Rw..
+........wR..
+........Rw..
+.......Rww..
+......wRRw..
+.....RRRRw..
+..RRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 30ms
+............
+............
+........ww..
+........ww..
+........ww..
+........Rw..
+........wR..
+........Rw..
+.......Rww..
+......wRRw..
+.....RRRRw..
+.wRRRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 4
+SureAIv12 (Red) placed a Square piece at column 4 after 291ms
+............
+............
+........ww..
+........ww..
+........ww..
+........Rw..
+........wR..
+........Rw..
+.......Rww..
+......wRRw..
+....RRRRRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 3 after 30ms
+............
+............
+........ww..
+........ww..
+........ww..
+........Rw..
+........wR..
+........Rw..
+.......Rww..
+......wRRw..
+...wRRRRRw..
+.wRRRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 3
+SureAIv12 (Red) placed a Square piece at column 3 after 291ms
+............
+............
+........ww..
+........ww..
+........ww..
+........Rw..
+........wR..
+........Rw..
+.......Rww..
+...R..wRRw..
+...wRRRRRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 7 after 32ms
+............
+............
+........ww..
+........ww..
+........ww..
+........Rw..
+........wR..
+.......wRw..
+.......Rww..
+...R..wRRw..
+...wRRRRRw..
+.wRRRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 3
+SureAIv12 (Red) placed a Square piece at column 6 after 291ms
+............
+............
+........ww..
+........ww..
+........ww..
+........Rw..
+........wR..
+.......wRw..
+......RRww..
+...R..wRRw..
+...wRRRRRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 7 after 33ms
+............
+............
+........ww..
+........ww..
+........ww..
+........Rw..
+.......wwR..
+.......wRw..
+......RRww..
+...R..wRRw..
+...wRRRRRw..
+.wRRRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 3
+SureAIv12 (Red) placed a Square piece at column 3 after 291ms
+............
+............
+........ww..
+........ww..
+........ww..
+........Rw..
+.......wwR..
+.......wRw..
+...R..RRww..
+...R..wRRw..
+...wRRRRRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 7 after 33ms
+............
+............
+........ww..
+........ww..
+........ww..
+.......wRw..
+.......wwR..
+.......wRw..
+...R..RRww..
+...R..wRRw..
+...wRRRRRw..
+.wRRRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 3
+SureAIv12 (Red) placed a Square piece at column 7 after 291ms
+............
+............
+........ww..
+........ww..
+.......Rww..
+.......wRw..
+.......wwR..
+.......wRw..
+...R..RRww..
+...R..wRRw..
+...wRRRRRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 7 after 34ms
+............
+............
+........ww..
+.......www..
+.......Rww..
+.......wRw..
+.......wwR..
+.......wRw..
+...R..RRww..
+...R..wRRw..
+...wRRRRRw..
+.wRRRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 3
+SureAIv12 (Red) placed a Square piece at column 2 after 291ms
+............
+............
+........ww..
+.......www..
+.......Rww..
+.......wRw..
+.......wwR..
+.......wRw..
+...R..RRww..
+...R..wRRw..
+..RwRRRRRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 6 after 35ms
+............
+............
+........ww..
+.......www..
+.......Rww..
+.......wRw..
+.......wwR..
+......wwRw..
+...R..RRww..
+...R..wRRw..
+..RwRRRRRw..
+.wRRRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 3
+SureAIv12 (Red) placed a Square piece at column 6 after 291ms
+............
+............
+........ww..
+.......www..
+.......Rww..
+.......wRw..
+......RwwR..
+......wwRw..
+...R..RRww..
+...R..wRRw..
+..RwRRRRRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 6 after 35ms
+............
+............
+........ww..
+.......www..
+.......Rww..
+......wwRw..
+......RwwR..
+......wwRw..
+...R..RRww..
+...R..wRRw..
+..RwRRRRRw..
+.wRRRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 3
+SureAIv12 (Red) placed a Square piece at column 3 after 291ms
+............
+............
+........ww..
+.......www..
+.......Rww..
+......wwRw..
+......RwwR..
+...R..wwRw..
+...R..RRww..
+...R..wRRw..
+..RwRRRRRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 6 after 36ms
+............
+............
+........ww..
+.......www..
+......wRww..
+......wwRw..
+......RwwR..
+...R..wwRw..
+...R..RRww..
+...R..wRRw..
+..RwRRRRRw..
+.wRRRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 3
+SureAIv12 (Red) placed a Square piece at column 6 after 291ms
+............
+............
+........ww..
+......Rwww..
+......wRww..
+......wwRw..
+......RwwR..
+...R..wwRw..
+...R..RRww..
+...R..wRRw..
+..RwRRRRRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 6 after 36ms
+............
+............
+......w.ww..
+......Rwww..
+......wRww..
+......wwRw..
+......RwwR..
+...R..wwRw..
+...R..RRww..
+...R..wRRw..
+..RwRRRRRw..
+.wRRRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 3
+SureAIv12 (Red) placed a Square piece at column 4 after 291ms
+............
+............
+......w.ww..
+......Rwww..
+......wRww..
+......wwRw..
+......RwwR..
+...R..wwRw..
+...R..RRww..
+...RR.wRRw..
+..RwRRRRRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 7 after 37ms
+............
+............
+......wwww..
+......Rwww..
+......wRww..
+......wwRw..
+......RwwR..
+...R..wwRw..
+...R..RRww..
+...RR.wRRw..
+..RwRRRRRw..
+.wRRRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 3
+SureAIv12 (Red) placed a Square piece at column 1 after 291ms
+............
+............
+......wwww..
+......Rwww..
+......wRww..
+......wwRw..
+......RwwR..
+...R..wwRw..
+...R..RRww..
+...RR.wRRw..
+.RRwRRRRRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 3 after 37ms
+............
+............
+......wwww..
+......Rwww..
+......wRww..
+......wwRw..
+...w..RwwR..
+...R..wwRw..
+...R..RRww..
+...RR.wRRw..
+.RRwRRRRRw..
+.wRRRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 3
+SureAIv12 (Red) placed a Square piece at column 4 after 291ms
+............
+............
+......wwww..
+......Rwww..
+......wRww..
+......wwRw..
+...w..RwwR..
+...R..wwRw..
+...RR.RRww..
+...RR.wRRw..
+.RRwRRRRRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 3 after 37ms
+............
+............
+......wwww..
+......Rwww..
+......wRww..
+...w..wwRw..
+...w..RwwR..
+...R..wwRw..
+...RR.RRww..
+...RR.wRRw..
+.RRwRRRRRw..
+.wRRRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 3
+SureAIv12 (Red) placed a Square piece at column 2 after 291ms
+............
+............
+......wwww..
+......Rwww..
+......wRww..
+...w..wwRw..
+...w..RwwR..
+...R..wwRw..
+...RR.RRww..
+..RRR.wRRw..
+.RRwRRRRRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 3 after 37ms
+............
+............
+......wwww..
+......Rwww..
+...w..wRww..
+...w..wwRw..
+...w..RwwR..
+...R..wwRw..
+...RR.RRww..
+..RRR.wRRw..
+.RRwRRRRRw..
+.wRRRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 3
+SureAIv12 (Red) placed a Square piece at column 2 after 291ms
+............
+............
+......wwww..
+......Rwww..
+...w..wRww..
+...w..wwRw..
+...w..RwwR..
+...R..wwRw..
+..RRR.RRww..
+..RRR.wRRw..
+.RRwRRRRRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 4 after 37ms
+............
+............
+......wwww..
+......Rwww..
+...w..wRww..
+...w..wwRw..
+...w..RwwR..
+...Rw.wwRw..
+..RRR.RRww..
+..RRR.wRRw..
+.RRwRRRRRw..
+.wRRRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 3
+SureAIv12 (Red) placed a Square piece at column 1 after 291ms
+............
+............
+......wwww..
+......Rwww..
+...w..wRww..
+...w..wwRw..
+...w..RwwR..
+...Rw.wwRw..
+..RRR.RRww..
+.RRRR.wRRw..
+.RRwRRRRRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 4 after 38ms
+............
+............
+......wwww..
+......Rwww..
+...w..wRww..
+...w..wwRw..
+...ww.RwwR..
+...Rw.wwRw..
+..RRR.RRww..
+.RRRR.wRRw..
+.RRwRRRRRw..
+.wRRRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 3
+SureAIv12 (Red) placed a Square piece at column 4 after 291ms
+............
+............
+......wwww..
+......Rwww..
+...w..wRww..
+...wR.wwRw..
+...ww.RwwR..
+...Rw.wwRw..
+..RRR.RRww..
+.RRRR.wRRw..
+.RRwRRRRRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 4 after 38ms
+............
+............
+......wwww..
+......Rwww..
+...ww.wRww..
+...wR.wwRw..
+...ww.RwwR..
+...Rw.wwRw..
+..RRR.RRww..
+.RRRR.wRRw..
+.RRwRRRRRw..
+.wRRRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 3
+SureAIv12 (Red) placed a Square piece at column 0 after 291ms
+............
+............
+......wwww..
+......Rwww..
+...ww.wRww..
+...wR.wwRw..
+...ww.RwwR..
+...Rw.wwRw..
+..RRR.RRww..
+.RRRR.wRRw..
+.RRwRRRRRw..
+RwRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 4 after 39ms
+............
+............
+......wwww..
+....w.Rwww..
+...ww.wRww..
+...wR.wwRw..
+...ww.RwwR..
+...Rw.wwRw..
+..RRR.RRww..
+.RRRR.wRRw..
+.RRwRRRRRw..
+RwRRRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 3
+SureAIv12 (Red) placed a Square piece at column 0 after 291ms
+............
+............
+......wwww..
+....w.Rwww..
+...ww.wRww..
+...wR.wwRw..
+...ww.RwwR..
+...Rw.wwRw..
+..RRR.RRww..
+.RRRR.wRRw..
+RRRwRRRRRw..
+RwRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 4 after 39ms
+............
+............
+....w.wwww..
+....w.Rwww..
+...ww.wRww..
+...wR.wwRw..
+...ww.RwwR..
+...Rw.wwRw..
+..RRR.RRww..
+.RRRR.wRRw..
+RRRwRRRRRw..
+RwRRRRRwRw..
+
+SureAIv12 (Red) turn
+depth = 3
+SureAIv12 (Red) placed a Square piece at column 5 after 291ms
+............
+............
+....w.wwww..
+....w.Rwww..
+...ww.wRww..
+...wR.wwRw..
+...ww.RwwR..
+...Rw.wwRw..
+..RRR.RRww..
+.RRRRRwRRw..
+RRRwRRRRRw..
+RwRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 11 after 16ms
+............
+............
+....w.wwww..
+....w.Rwww..
+...ww.wRww..
+...wR.wwRw..
+...ww.RwwR..
+...Rw.wwRw..
+..RRR.RRww..
+.RRRRRwRRw..
+RRRwRRRRRw..
+RwRRRRRwRw.W
+
+SureAIv12 (Red) turn
+depth = 4
+SureAIv12 (Red) placed a Square piece at column 5 after 291ms
+............
+............
+....w.wwww..
+....w.Rwww..
+...ww.wRww..
+...wR.wwRw..
+...ww.RwwR..
+...Rw.wwRw..
+..RRRRRRww..
+.RRRRRwRRw..
+RRRwRRRRRw..
+RwRRRRRwRw.W
+
+Winner is SureAIv12 (Red)
+Solution=(3,2)(3,3)(3,4)(3,5)(3,6)(3,7)
