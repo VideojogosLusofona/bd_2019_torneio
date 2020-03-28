@@ -1,0 +1,386 @@
+=> BigBrainD3 (White) vs ZetaAI (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+BigBrainD3 (White) turn
+Heuristic: ShapeHeuristic Color: White numEvals: 639
+BigBrainD3 (White) placed a Round piece at column 3 after 9ms
+.......
+.......
+.......
+.......
+.......
+...w...
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 3 after 115ms
+.......
+.......
+.......
+.......
+...R...
+...w...
+
+BigBrainD3 (White) turn
+Heuristic: ShapeHeuristic Color: White numEvals: 1192
+BigBrainD3 (White) placed a Round piece at column 3 after 18ms
+.......
+.......
+.......
+...w...
+...R...
+...w...
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Round piece at column 3 after 110ms
+.......
+.......
+...r...
+...w...
+...R...
+...w...
+
+BigBrainD3 (White) turn
+Heuristic: ShapeHeuristic Color: White numEvals: 1136
+BigBrainD3 (White) placed a Round piece at column 3 after 18ms
+.......
+...w...
+...r...
+...w...
+...R...
+...w...
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 3 after 72ms
+...R...
+...w...
+...r...
+...w...
+...R...
+...w...
+
+BigBrainD3 (White) turn
+Heuristic: ShapeHeuristic Color: White numEvals: 448
+BigBrainD3 (White) placed a Round piece at column 2 after 7ms
+...R...
+...w...
+...r...
+...w...
+...R...
+..ww...
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 1 after 41ms
+...R...
+...w...
+...r...
+...w...
+...R...
+.Rww...
+
+BigBrainD3 (White) turn
+Heuristic: ShapeHeuristic Color: White numEvals: 640
+BigBrainD3 (White) placed a Round piece at column 4 after 11ms
+...R...
+...w...
+...r...
+...w...
+...R...
+.Rwww..
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 5 after 118ms
+...R...
+...w...
+...r...
+...w...
+...R...
+.RwwwR.
+
+BigBrainD3 (White) turn
+Heuristic: ShapeHeuristic Color: White numEvals: 478
+BigBrainD3 (White) placed a Round piece at column 4 after 8ms
+...R...
+...w...
+...r...
+...w...
+...Rw..
+.RwwwR.
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 4 after 109ms
+...R...
+...w...
+...r...
+...wR..
+...Rw..
+.RwwwR.
+
+BigBrainD3 (White) turn
+Heuristic: ShapeHeuristic Color: White numEvals: 725
+BigBrainD3 (White) placed a Round piece at column 4 after 13ms
+...R...
+...w...
+...rw..
+...wR..
+...Rw..
+.RwwwR.
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Round piece at column 5 after 89ms
+...R...
+...w...
+...rw..
+...wR..
+...Rwr.
+.RwwwR.
+
+BigBrainD3 (White) turn
+Heuristic: ShapeHeuristic Color: White numEvals: 931
+BigBrainD3 (White) placed a Round piece at column 6 after 18ms
+...R...
+...w...
+...rw..
+...wR..
+...Rwr.
+.RwwwRw
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 5 after 191ms
+...R...
+...w...
+...rw..
+...wRR.
+...Rwr.
+.RwwwRw
+
+BigBrainD3 (White) turn
+Heuristic: ShapeHeuristic Color: White numEvals: 823
+BigBrainD3 (White) placed a Round piece at column 5 after 16ms
+...R...
+...w...
+...rww.
+...wRR.
+...Rwr.
+.RwwwRw
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 2 after 78ms
+...R...
+...w...
+...rww.
+...wRR.
+..RRwr.
+.RwwwRw
+
+BigBrainD3 (White) turn
+Heuristic: ShapeHeuristic Color: White numEvals: 548
+BigBrainD3 (White) placed a Square piece at column 0 after 11ms
+...R...
+...w...
+...rww.
+...wRR.
+..RRwr.
+WRwwwRw
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Round piece at column 0 after 29ms
+...R...
+...w...
+...rww.
+...wRR.
+r.RRwr.
+WRwwwRw
+
+BigBrainD3 (White) turn
+Heuristic: ShapeHeuristic Color: White numEvals: 331
+BigBrainD3 (White) placed a Square piece at column 1 after 6ms
+...R...
+...w...
+...rww.
+...wRR.
+rWRRwr.
+WRwwwRw
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Round piece at column 0 after 69ms
+...R...
+...w...
+...rww.
+r..wRR.
+rWRRwr.
+WRwwwRw
+
+BigBrainD3 (White) turn
+Heuristic: ShapeHeuristic Color: White numEvals: 482
+BigBrainD3 (White) placed a Square piece at column 4 after 10ms
+...R...
+...wW..
+...rww.
+r..wRR.
+rWRRwr.
+WRwwwRw
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 0 after 48ms
+...R...
+...wW..
+R..rww.
+r..wRR.
+rWRRwr.
+WRwwwRw
+
+BigBrainD3 (White) turn
+Heuristic: ShapeHeuristic Color: White numEvals: 134
+BigBrainD3 (White) placed a Square piece at column 0 after 2ms
+...R...
+W..wW..
+R..rww.
+r..wRR.
+rWRRwr.
+WRwwwRw
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Round piece at column 0 after 36ms
+r..R...
+W..wW..
+R..rww.
+r..wRR.
+rWRRwr.
+WRwwwRw
+
+BigBrainD3 (White) turn
+Heuristic: ShapeHeuristic Color: White numEvals: 222
+BigBrainD3 (White) placed a Square piece at column 6 after 4ms
+r..R...
+W..wW..
+R..rww.
+r..wRR.
+rWRRwrW
+WRwwwRw
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 1 after 18ms
+r..R...
+W..wW..
+R..rww.
+rR.wRR.
+rWRRwrW
+WRwwwRw
+
+BigBrainD3 (White) turn
+Heuristic: ShapeHeuristic Color: White numEvals: 108
+BigBrainD3 (White) placed a Round piece at column 1 after 2ms
+r..R...
+W..wW..
+Rw.rww.
+rR.wRR.
+rWRRwrW
+WRwwwRw
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Round piece at column 6 after 25ms
+r..R...
+W..wW..
+Rw.rww.
+rR.wRRr
+rWRRwrW
+WRwwwRw
+
+BigBrainD3 (White) turn
+Heuristic: ShapeHeuristic Color: White numEvals: 93
+BigBrainD3 (White) placed a Square piece at column 1 after 2ms
+r..R...
+WW.wW..
+Rw.rww.
+rR.wRRr
+rWRRwrW
+WRwwwRw
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Round piece at column 1 after 12ms
+rr.R...
+WW.wW..
+Rw.rww.
+rR.wRRr
+rWRRwrW
+WRwwwRw
+
+BigBrainD3 (White) turn
+Heuristic: ShapeHeuristic Color: White numEvals: 72
+BigBrainD3 (White) placed a Square piece at column 6 after 1ms
+rr.R...
+WW.wW..
+Rw.rwwW
+rR.wRRr
+rWRRwrW
+WRwwwRw
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Round piece at column 5 after 4ms
+rr.R...
+WW.wWr.
+Rw.rwwW
+rR.wRRr
+rWRRwrW
+WRwwwRw
+
+BigBrainD3 (White) turn
+Heuristic: ShapeHeuristic Color: White numEvals: 60
+BigBrainD3 (White) placed a Square piece at column 4 after 1ms
+rr.RW..
+WW.wWr.
+Rw.rwwW
+rR.wRRr
+rWRRwrW
+WRwwwRw
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Round piece at column 5 after 1ms
+rr.RWr.
+WW.wWr.
+Rw.rwwW
+rR.wRRr
+rWRRwrW
+WRwwwRw
+
+BigBrainD3 (White) turn
+Heuristic: ShapeHeuristic Color: White numEvals: 18
+BigBrainD3 (White) placed a Square piece at column 6 after 0ms
+rr.RWr.
+WW.wWrW
+Rw.rwwW
+rR.wRRr
+rWRRwrW
+WRwwwRw
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 6 after 0ms
+rr.RWrR
+WW.wWrW
+Rw.rwwW
+rR.wRRr
+rWRRwrW
+WRwwwRw
+
+BigBrainD3 (White) turn
+Heuristic: ShapeHeuristic Color: White numEvals: 5
+BigBrainD3 (White) loses match! Reason: Thinker unable to perform move
+rr.RWrR
+WW.wWrW
+Rw.rwwW
+rR.wRRr
+rWRRwrW
+WRwwwRw
+
+Winner is ZetaAI (Red)
