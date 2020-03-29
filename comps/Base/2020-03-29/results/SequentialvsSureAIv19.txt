@@ -23,7 +23,7 @@ w......
 
 SureAIv19 (Red) turn
 Depth = 5
-Did 4595 evals
+Did 4622 evals
 SureAIv19 (Red) placed a Square piece at column 3 after 186ms
 .......
 .......
@@ -43,7 +43,7 @@ ww.R...
 
 SureAIv19 (Red) turn
 Depth = 5
-Did 4321 evals
+Did 4323 evals
 SureAIv19 (Red) placed a Square piece at column 4 after 186ms
 .......
 .......
@@ -63,7 +63,7 @@ wwwRR..
 
 SureAIv19 (Red) turn
 Depth = 5
-Did 3988 evals
+Did 4021 evals
 SureAIv19 (Red) placed a Square piece at column 3 after 186ms
 .......
 .......
@@ -83,7 +83,7 @@ wwwRR..
 
 SureAIv19 (Red) turn
 Depth = 5
-Did 3481 evals
+Did 3521 evals
 SureAIv19 (Red) placed a Square piece at column 2 after 186ms
 .......
 .......
@@ -103,7 +103,7 @@ wwwRR..
 
 SureAIv19 (Red) turn
 Depth = 5
-Did 3257 evals
+Did 3332 evals
 SureAIv19 (Red) placed a Square piece at column 2 after 186ms
 .......
 .......
@@ -123,7 +123,7 @@ wwwRRw.
 
 SureAIv19 (Red) turn
 Depth = 7
-Did 3111 evals
+Did 3134 evals
 SureAIv19 (Red) placed a Square piece at column 2 after 186ms
 .......
 .......
@@ -143,7 +143,7 @@ wwwRRww
 
 SureAIv19 (Red) turn
 Depth = 7
-Did 3182 evals
+Did 3205 evals
 SureAIv19 (Red) placed a Square piece at column 1 after 186ms
 .......
 .......
@@ -163,7 +163,7 @@ wwwRRww
 
 SureAIv19 (Red) turn
 Depth = 7
-Did 3097 evals
+Did 3125 evals
 SureAIv19 (Red) placed a Square piece at column 1 after 186ms
 .......
 .......
@@ -183,7 +183,7 @@ wwwRRww
 
 SureAIv19 (Red) turn
 Depth = 7
-Did 2891 evals
+Did 2933 evals
 SureAIv19 (Red) placed a Square piece at column 0 after 186ms
 .......
 .......
@@ -203,7 +203,7 @@ wwwRRww
 
 SureAIv19 (Red) turn
 Depth = 7
-Did 2635 evals
+Did 2682 evals
 SureAIv19 (Red) placed a Square piece at column 0 after 186ms
 .......
 ..w....

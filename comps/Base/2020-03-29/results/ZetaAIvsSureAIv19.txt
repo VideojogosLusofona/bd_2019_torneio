@@ -13,7 +13,7 @@
 .......
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Round piece at column 1 after 125ms
+ZetaAI (White) placed a Round piece at column 1 after 126ms
 .......
 .......
 .......
@@ -23,7 +23,7 @@ ZetaAI (White) placed a Round piece at column 1 after 125ms
 
 SureAIv19 (Red) turn
 Depth = 6
-Did 4617 evals
+Did 4585 evals
 SureAIv19 (Red) placed a Square piece at column 3 after 186ms
 .......
 .......
@@ -33,7 +33,7 @@ SureAIv19 (Red) placed a Square piece at column 3 after 186ms
 .w.R...
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Square piece at column 2 after 128ms
+ZetaAI (White) placed a Square piece at column 2 after 125ms
 .......
 .......
 .......
@@ -43,7 +43,7 @@ ZetaAI (White) placed a Square piece at column 2 after 128ms
 
 SureAIv19 (Red) turn
 Depth = 6
-Did 4150 evals
+Did 4146 evals
 SureAIv19 (Red) placed a Square piece at column 3 after 186ms
 .......
 .......
@@ -53,7 +53,7 @@ SureAIv19 (Red) placed a Square piece at column 3 after 186ms
 .wWR...
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Round piece at column 5 after 160ms
+ZetaAI (White) placed a Round piece at column 5 after 170ms
 .......
 .......
 .......
@@ -63,7 +63,7 @@ ZetaAI (White) placed a Round piece at column 5 after 160ms
 
 SureAIv19 (Red) turn
 Depth = 6
-Did 3663 evals
+Did 3678 evals
 SureAIv19 (Red) placed a Square piece at column 2 after 186ms
 .......
 .......
@@ -73,7 +73,7 @@ SureAIv19 (Red) placed a Square piece at column 2 after 186ms
 .wWR.w.
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Round piece at column 3 after 119ms
+ZetaAI (White) placed a Round piece at column 3 after 115ms
 .......
 .......
 .......
@@ -83,7 +83,7 @@ ZetaAI (White) placed a Round piece at column 3 after 119ms
 
 SureAIv19 (Red) turn
 Depth = 6
-Did 3318 evals
+Did 3361 evals
 SureAIv19 (Red) placed a Square piece at column 2 after 186ms
 .......
 .......
@@ -93,7 +93,7 @@ SureAIv19 (Red) placed a Square piece at column 2 after 186ms
 .wWR.w.
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Round piece at column 2 after 39ms
+ZetaAI (White) placed a Round piece at column 2 after 37ms
 .......
 .......
 ..w....
@@ -103,8 +103,8 @@ ZetaAI (White) placed a Round piece at column 2 after 39ms
 
 SureAIv19 (Red) turn
 Depth = 6
-Did 2987 evals
-SureAIv19 (Red) placed a Square piece at column 1 after 187ms
+Did 2526 evals
+SureAIv19 (Red) placed a Square piece at column 1 after 186ms
 .......
 .......
 ..w....
@@ -113,7 +113,7 @@ SureAIv19 (Red) placed a Square piece at column 1 after 187ms
 .wWR.w.
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Round piece at column 3 after 32ms
+ZetaAI (White) placed a Round piece at column 3 after 37ms
 .......
 .......
 ..ww...
@@ -123,7 +123,7 @@ ZetaAI (White) placed a Round piece at column 3 after 32ms
 
 SureAIv19 (Red) turn
 Depth = 5
-Did 2800 evals
+Did 2256 evals
 SureAIv19 (Red) placed a Square piece at column 0 after 186ms
 .......
 .......
@@ -133,7 +133,7 @@ SureAIv19 (Red) placed a Square piece at column 0 after 186ms
 RwWR.w.
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Round piece at column 0 after 19ms
+ZetaAI (White) placed a Round piece at column 0 after 23ms
 .......
 .......
 ..ww...
@@ -143,7 +143,7 @@ RwWR.w.
 
 SureAIv19 (Red) turn
 Depth = 5
-Did 2722 evals
+Did 2712 evals
 SureAIv19 (Red) placed a Square piece at column 3 after 186ms
 .......
 ...R...
@@ -153,7 +153,7 @@ wRRR...
 RwWR.w.
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Round piece at column 5 after 117ms
+ZetaAI (White) placed a Round piece at column 5 after 114ms
 .......
 ...R...
 ..ww...
@@ -163,7 +163,7 @@ RwWR.w.
 
 SureAIv19 (Red) turn
 Depth = 5
-Did 2518 evals
+Did 2571 evals
 SureAIv19 (Red) placed a Square piece at column 0 after 186ms
 .......
 ...R...
@@ -173,7 +173,7 @@ wRRR.w.
 RwWR.w.
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Round piece at column 0 after 101ms
+ZetaAI (White) placed a Round piece at column 0 after 100ms
 .......
 ...R...
 w.ww...
@@ -183,7 +183,7 @@ RwWR.w.
 
 SureAIv19 (Red) turn
 Depth = 5
-Did 2421 evals
+Did 2461 evals
 SureAIv19 (Red) placed a Square piece at column 2 after 186ms
 .......
 ..RR...
@@ -193,7 +193,7 @@ wRRR.w.
 RwWR.w.
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Square piece at column 2 after 129ms
+ZetaAI (White) placed a Square piece at column 2 after 125ms
 ..W....
 ..RR...
 w.ww...
@@ -203,8 +203,8 @@ RwWR.w.
 
 SureAIv19 (Red) turn
 Depth = 6
-Did 2723 evals
-SureAIv19 (Red) placed a Square piece at column 3 after 190ms
+Did 2784 evals
+SureAIv19 (Red) placed a Square piece at column 3 after 186ms
 ..WR...
 ..RR...
 w.ww...
@@ -213,7 +213,7 @@ wRRR.w.
 RwWR.w.
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Round piece at column 5 after 26ms
+ZetaAI (White) placed a Round piece at column 5 after 24ms
 ..WR...
 ..RR...
 w.ww...
@@ -223,7 +223,7 @@ RwWR.w.
 
 SureAIv19 (Red) turn
 Depth = 7
-Did 3462 evals
+Did 3563 evals
 SureAIv19 (Red) placed a Square piece at column 5 after 186ms
 ..WR...
 ..RR...
@@ -242,8 +242,8 @@ wRRR.w.
 RwWR.w.
 
 SureAIv19 (Red) turn
-Depth = 464
-Did 4639 evals
+Depth = 479
+Did 4793 evals
 SureAIv19 (Red) placed a Round piece at column 1 after 186ms
 ..WR...
 ..RR...

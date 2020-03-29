@@ -1,0 +1,205 @@
+=> Bee (White) vs SureAIv19 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+Bee (White) turn
+Iterations: 10222
+Bee (White) placed a Round piece at column 2 after 174ms
+.......
+.......
+.......
+.......
+.......
+..w....
+
+SureAIv19 (Red) turn
+Depth = 5
+Did 4670 evals
+SureAIv19 (Red) placed a Square piece at column 2 after 186ms
+.......
+.......
+.......
+.......
+..R....
+..w....
+
+Bee (White) turn
+Iterations: 7291
+Bee (White) placed a Round piece at column 2 after 175ms
+.......
+.......
+.......
+..w....
+..R....
+..w....
+
+SureAIv19 (Red) turn
+Depth = 5
+Did 4073 evals
+SureAIv19 (Red) placed a Square piece at column 5 after 186ms
+.......
+.......
+.......
+..w....
+..R....
+..w..R.
+
+Bee (White) turn
+Iterations: 9854
+Bee (White) placed a Round piece at column 5 after 174ms
+.......
+.......
+.......
+..w....
+..R..w.
+..w..R.
+
+SureAIv19 (Red) turn
+Depth = 6
+Did 3627 evals
+SureAIv19 (Red) placed a Square piece at column 3 after 186ms
+.......
+.......
+.......
+..w....
+..R..w.
+..wR.R.
+
+Bee (White) turn
+Iterations: 10702
+Bee (White) placed a Round piece at column 5 after 174ms
+.......
+.......
+.......
+..w..w.
+..R..w.
+..wR.R.
+
+SureAIv19 (Red) turn
+Depth = 5
+Did 3799 evals
+SureAIv19 (Red) placed a Square piece at column 1 after 186ms
+.......
+.......
+.......
+..w..w.
+..R..w.
+.RwR.R.
+
+Bee (White) turn
+Iterations: 9747
+Bee (White) placed a Round piece at column 5 after 175ms
+.......
+.......
+.....w.
+..w..w.
+..R..w.
+.RwR.R.
+
+SureAIv19 (Red) turn
+Depth = 5
+Did 3988 evals
+SureAIv19 (Red) placed a Square piece at column 5 after 186ms
+.......
+.....R.
+.....w.
+..w..w.
+..R..w.
+.RwR.R.
+
+Bee (White) turn
+Iterations: 9904
+Bee (White) placed a Round piece at column 5 after 173ms
+.....w.
+.....R.
+.....w.
+..w..w.
+..R..w.
+.RwR.R.
+
+SureAIv19 (Red) turn
+Depth = 5
+Did 3565 evals
+SureAIv19 (Red) placed a Square piece at column 1 after 186ms
+.....w.
+.....R.
+.....w.
+..w..w.
+.RR..w.
+.RwR.R.
+
+Bee (White) turn
+Iterations: 10568
+Bee (White) placed a Round piece at column 2 after 173ms
+.....w.
+.....R.
+..w..w.
+..w..w.
+.RR..w.
+.RwR.R.
+
+SureAIv19 (Red) turn
+Depth = 5
+Did 3179 evals
+SureAIv19 (Red) placed a Square piece at column 4 after 186ms
+.....w.
+.....R.
+..w..w.
+..w..w.
+.RR..w.
+.RwRRR.
+
+Bee (White) turn
+Iterations: 9512
+Bee (White) placed a Round piece at column 4 after 172ms
+.....w.
+.....R.
+..w..w.
+..w..w.
+.RR.ww.
+.RwRRR.
+
+SureAIv19 (Red) turn
+Depth = 7
+Did 3109 evals
+SureAIv19 (Red) placed a Square piece at column 1 after 186ms
+.....w.
+.....R.
+..w..w.
+.Rw..w.
+.RR.ww.
+.RwRRR.
+
+Bee (White) turn
+Iterations: 10190
+Bee (White) placed a Round piece at column 4 after 172ms
+.....w.
+.....R.
+..w..w.
+.Rw.ww.
+.RR.ww.
+.RwRRR.
+
+SureAIv19 (Red) turn
+Depth = 66
+Did 4235 evals
+SureAIv19 (Red) placed a Square piece at column 1 after 186ms
+.....w.
+.....R.
+.Rw..w.
+.Rw.ww.
+.RR.ww.
+.RwRRR.
+
+Winner is SureAIv19 (Red)
+Solution=(0,1)(1,1)(2,1)(3,1)

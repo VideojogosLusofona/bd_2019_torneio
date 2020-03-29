@@ -26,7 +26,7 @@
 
 SureAIv19 (White) turn
 Depth = 3
-Did 1954 evals
+Did 1914 evals
 SureAIv19 (White) placed a Round piece at column 11 after 536ms
 ......................
 ......................

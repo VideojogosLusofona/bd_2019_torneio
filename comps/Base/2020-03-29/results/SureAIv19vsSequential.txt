@@ -14,7 +14,7 @@
 
 SureAIv19 (White) turn
 Depth = 5
-Did 5176 evals
+Did 5204 evals
 SureAIv19 (White) placed a Round piece at column 2 after 186ms
 .......
 .......
@@ -54,7 +54,7 @@ rrw....
 
 SureAIv19 (White) turn
 Depth = 6
-Did 4522 evals
+Did 4579 evals
 SureAIv19 (White) placed a Round piece at column 3 after 186ms
 .......
 .......
