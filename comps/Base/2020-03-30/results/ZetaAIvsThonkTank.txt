@@ -13,224 +13,393 @@
 .......
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Round piece at column 1 after 125ms
+ZetaAI (White) placed a Round piece at column 3 after 32ms
 .......
 .......
 .......
+.......
+.......
+...w...
+
+Thonk Tank (Red) turn
+7455
+depth = 3
+Thonk Tank (Red) placed a Square piece at column 3 after 180ms
+.......
+.......
+.......
+.......
+...R...
+...w...
+
+ZetaAI (White) turn
+ZetaAI (White) placed a Round piece at column 3 after 30ms
+.......
+.......
+.......
+...w...
+...R...
+...w...
+
+Thonk Tank (Red) turn
+6568
+depth = 3
+Thonk Tank (Red) placed a Square piece at column 2 after 180ms
+.......
+.......
+.......
+...w...
+...R...
+..Rw...
+
+ZetaAI (White) turn
+ZetaAI (White) placed a Round piece at column 2 after 25ms
+.......
+.......
+.......
+...w...
+..wR...
+..Rw...
+
+Thonk Tank (Red) turn
+6554
+depth = 3
+Thonk Tank (Red) placed a Square piece at column 1 after 180ms
+.......
+.......
+.......
+...w...
+..wR...
+.RRw...
+
+ZetaAI (White) turn
+ZetaAI (White) placed a Round piece at column 1 after 31ms
+.......
+.......
+.......
+...w...
+.wwR...
+.RRw...
+
+Thonk Tank (Red) turn
+5980
+depth = 3
+Thonk Tank (Red) placed a Square piece at column 1 after 180ms
+.......
+.......
+.......
+.R.w...
+.wwR...
+.RRw...
+
+ZetaAI (White) turn
+ZetaAI (White) placed a Round piece at column 1 after 31ms
 .......
 .......
 .w.....
+.R.w...
+.wwR...
+.RRw...
 
 Thonk Tank (Red) turn
-7687
+5958
 depth = 3
-Thonk Tank (Red) placed a Square piece at column 0 after 180ms
+Thonk Tank (Red) placed a Square piece at column 5 after 180ms
 .......
 .......
-.......
-.......
-.......
-Rw.....
+.w.....
+.R.w...
+.wwR...
+.RRw.R.
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Square piece at column 2 after 70ms
+ZetaAI (White) placed a Round piece at column 5 after 38ms
 .......
 .......
-.......
-.......
-.......
-RwW....
+.w.....
+.R.w...
+.wwR.w.
+.RRw.R.
 
 Thonk Tank (Red) turn
-7089
+5628
 depth = 3
-Thonk Tank (Red) placed a Square piece at column 2 after 180ms
+Thonk Tank (Red) placed a Square piece at column 6 after 180ms
 .......
 .......
-.......
-.......
-..R....
-RwW....
+.w.....
+.R.w...
+.wwR.w.
+.RRw.RR
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Square piece at column 4 after 113ms
+ZetaAI (White) placed a Round piece at column 6 after 41ms
 .......
 .......
-.......
-.......
-..R....
-RwW.W..
+.w.....
+.R.w...
+.wwR.ww
+.RRw.RR
 
 Thonk Tank (Red) turn
-6548
+6208
 depth = 3
-Thonk Tank (Red) placed a Square piece at column 3 after 180ms
+Thonk Tank (Red) placed a Square piece at column 5 after 180ms
 .......
 .......
-.......
-.......
-..R....
-RwWRW..
+.w.....
+.R.w.R.
+.wwR.ww
+.RRw.RR
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Round piece at column 5 after 126ms
+ZetaAI (White) placed a Round piece at column 5 after 34ms
 .......
 .......
-.......
-.......
-..R....
-RwWRWw.
+.w...w.
+.R.w.R.
+.wwR.ww
+.RRw.RR
 
 Thonk Tank (Red) turn
-6263
-depth = 3
-Thonk Tank (Red) placed a Square piece at column 2 after 180ms
-.......
-.......
-.......
-..R....
-..R....
-RwWRWw.
-
-ZetaAI (White) turn
-ZetaAI (White) placed a Round piece at column 2 after 51ms
-.......
-.......
-..w....
-..R....
-..R....
-RwWRWw.
-
-Thonk Tank (Red) turn
-6121
-depth = 3
-Thonk Tank (Red) placed a Square piece at column 4 after 180ms
-.......
-.......
-..w....
-..R....
-..R.R..
-RwWRWw.
-
-ZetaAI (White) turn
-ZetaAI (White) placed a Round piece at column 3 after 115ms
-.......
-.......
-..w....
-..R....
-..RwR..
-RwWRWw.
-
-Thonk Tank (Red) turn
-5921
-depth = 3
-Thonk Tank (Red) placed a Square piece at column 4 after 180ms
-.......
-.......
-..w....
-..R.R..
-..RwR..
-RwWRWw.
-
-ZetaAI (White) turn
-ZetaAI (White) placed a Round piece at column 4 after 128ms
-.......
-.......
-..w.w..
-..R.R..
-..RwR..
-RwWRWw.
-
-Thonk Tank (Red) turn
-5879
-depth = 3
-Thonk Tank (Red) placed a Square piece at column 0 after 180ms
-.......
-.......
-..w.w..
-..R.R..
-R.RwR..
-RwWRWw.
-
-ZetaAI (White) turn
-ZetaAI (White) placed a Round piece at column 3 after 61ms
-.......
-.......
-..w.w..
-..RwR..
-R.RwR..
-RwWRWw.
-
-Thonk Tank (Red) turn
-5971
+5917
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 3 after 180ms
 .......
 .......
-..wRw..
-..RwR..
-R.RwR..
-RwWRWw.
+.w.R.w.
+.R.w.R.
+.wwR.ww
+.RRw.RR
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Round piece at column 0 after 29ms
+ZetaAI (White) placed a Round piece at column 5 after 44ms
 .......
-.......
-..wRw..
-w.RwR..
-R.RwR..
-RwWRWw.
+.....w.
+.w.R.w.
+.R.w.R.
+.wwR.ww
+.RRw.RR
 
 Thonk Tank (Red) turn
-5343
+5400
+depth = 3
+Thonk Tank (Red) placed a Square piece at column 6 after 180ms
+.......
+.....w.
+.w.R.w.
+.R.w.RR
+.wwR.ww
+.RRw.RR
+
+ZetaAI (White) turn
+ZetaAI (White) placed a Square piece at column 4 after 40ms
+.......
+.....w.
+.w.R.w.
+.R.w.RR
+.wwR.ww
+.RRwWRR
+
+Thonk Tank (Red) turn
+4590
+depth = 3
+Thonk Tank (Red) placed a Square piece at column 4 after 180ms
+.......
+.....w.
+.w.R.w.
+.R.w.RR
+.wwRRww
+.RRwWRR
+
+ZetaAI (White) turn
+ZetaAI (White) placed a Round piece at column 4 after 40ms
+.......
+.....w.
+.w.R.w.
+.R.wwRR
+.wwRRww
+.RRwWRR
+
+Thonk Tank (Red) turn
+4115
+depth = 4
+Thonk Tank (Red) placed a Square piece at column 4 after 180ms
+.......
+.....w.
+.w.RRw.
+.R.wwRR
+.wwRRww
+.RRwWRR
+
+ZetaAI (White) turn
+ZetaAI (White) placed a Square piece at column 3 after 7ms
+.......
+...W.w.
+.w.RRw.
+.R.wwRR
+.wwRRww
+.RRwWRR
+
+Thonk Tank (Red) turn
+3159
+depth = 5
+Thonk Tank (Red) placed a Round piece at column 4 after 180ms
+.......
+...Wrw.
+.w.RRw.
+.R.wwRR
+.wwRRww
+.RRwWRR
+
+ZetaAI (White) turn
+ZetaAI (White) placed a Square piece at column 2 after 6ms
+.......
+...Wrw.
+.w.RRw.
+.RWwwRR
+.wwRRww
+.RRwWRR
+
+Thonk Tank (Red) turn
+2942
 depth = 5
 Thonk Tank (Red) placed a Round piece at column 2 after 180ms
 .......
-..r....
-..wRw..
-w.RwR..
-R.RwR..
-RwWRWw.
+...Wrw.
+.wrRRw.
+.RWwwRR
+.wwRRww
+.RRwWRR
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Round piece at column 0 after 23ms
+ZetaAI (White) placed a Square piece at column 2 after 7ms
 .......
-..r....
-w.wRw..
-w.RwR..
-R.RwR..
-RwWRWw.
+..WWrw.
+.wrRRw.
+.RWwwRR
+.wwRRww
+.RRwWRR
 
 Thonk Tank (Red) turn
-4635
+2746
 depth = 5
-Thonk Tank (Red) placed a Round piece at column 3 after 180ms
+Thonk Tank (Red) placed a Round piece at column 6 after 180ms
 .......
-..rr...
-w.wRw..
-w.RwR..
-R.RwR..
-RwWRWw.
+..WWrw.
+.wrRRwr
+.RWwwRR
+.wwRRww
+.RRwWRR
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Round piece at column 0 after 47ms
+ZetaAI (White) placed a Square piece at column 1 after 4ms
 .......
-w.rr...
-w.wRw..
-w.RwR..
-R.RwR..
-RwWRWw.
+.WWWrw.
+.wrRRwr
+.RWwwRR
+.wwRRww
+.RRwWRR
 
 Thonk Tank (Red) turn
-2319
+1970
+depth = 5
+Thonk Tank (Red) placed a Round piece at column 1 after 180ms
+.r.....
+.WWWrw.
+.wrRRwr
+.RWwwRR
+.wwRRww
+.RRwWRR
+
+ZetaAI (White) turn
+ZetaAI (White) placed a Square piece at column 0 after 2ms
+.r.....
+.WWWrw.
+.wrRRwr
+.RWwwRR
+.wwRRww
+WRRwWRR
+
+Thonk Tank (Red) turn
+1492
 depth = 6
+Thonk Tank (Red) placed a Round piece at column 6 after 180ms
+.r.....
+.WWWrwr
+.wrRRwr
+.RWwwRR
+.wwRRww
+WRRwWRR
+
+ZetaAI (White) turn
+ZetaAI (White) placed a Square piece at column 6 after 4ms
+.r....W
+.WWWrwr
+.wrRRwr
+.RWwwRR
+.wwRRww
+WRRwWRR
+
+Thonk Tank (Red) turn
+503
+depth = 20
+Thonk Tank (Red) placed a Round piece at column 0 after 180ms
+.r....W
+.WWWrwr
+.wrRRwr
+.RWwwRR
+rwwRRww
+WRRwWRR
+
+ZetaAI (White) turn
+ZetaAI (White) placed a Square piece at column 0 after 1ms
+.r....W
+.WWWrwr
+.wrRRwr
+WRWwwRR
+rwwRRww
+WRRwWRR
+
+Thonk Tank (Red) turn
+145
+depth = 49
+Thonk Tank (Red) placed a Round piece at column 3 after 180ms
+.r.r..W
+.WWWrwr
+.wrRRwr
+WRWwwRR
+rwwRRww
+WRRwWRR
+
+ZetaAI (White) turn
+ZetaAI (White) placed a Square piece at column 0 after 0ms
+.r.r..W
+.WWWrwr
+WwrRRwr
+WRWwwRR
+rwwRRww
+WRRwWRR
+
+Thonk Tank (Red) turn
+44
+depth = 92
 Thonk Tank (Red) placed a Round piece at column 5 after 180ms
-.......
-w.rr...
-w.wRw..
-w.RwR..
-R.RwRr.
-RwWRWw.
+.r.r.rW
+.WWWrwr
+WwrRRwr
+WRWwwRR
+rwwRRww
+WRRwWRR
+
+ZetaAI (White) turn
+ZetaAI (White) placed a Square piece at column 0 after 0ms
+.r.r.rW
+WWWWrwr
+WwrRRwr
+WRWwwRR
+rwwRRww
+WRRwWRR
 
 Winner is Thonk Tank (Red)
-Solution=(1,5)(2,4)(3,3)(4,2)
+Solution=(4,0)(4,1)(4,2)(4,3)

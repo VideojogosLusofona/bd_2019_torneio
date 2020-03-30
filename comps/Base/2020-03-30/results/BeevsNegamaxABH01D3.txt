@@ -13,7 +13,7 @@
 .......
 
 Bee (White) turn
-Iterations: 10212
+Iterations: 10220
 Bee (White) placed a Round piece at column 2 after 174ms
 .......
 .......
@@ -24,7 +24,7 @@ Bee (White) placed a Round piece at column 2 after 174ms
 
 NegamaxABH01D3 (Red) turn
 Did 648 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 2 after 12ms
+NegamaxABH01D3 (Red) placed a Square piece at column 2 after 11ms
 .......
 .......
 .......
@@ -33,7 +33,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 2 after 12ms
 ..w....
 
 Bee (White) turn
-Iterations: 9878
+Iterations: 9933
 Bee (White) placed a Round piece at column 2 after 174ms
 .......
 .......
@@ -53,7 +53,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 2 after 13ms
 ..w....
 
 Bee (White) turn
-Iterations: 10039
+Iterations: 10019
 Bee (White) placed a Round piece at column 2 after 174ms
 .......
 ..w....
@@ -73,7 +73,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 3 after 14ms
 ..wR...
 
 Bee (White) turn
-Iterations: 9734
+Iterations: 9728
 Bee (White) placed a Round piece at column 2 after 174ms
 ..w....
 ..w....
@@ -93,7 +93,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 5 after 10ms
 ..wR.R.
 
 Bee (White) turn
-Iterations: 9263
+Iterations: 9489
 Bee (White) placed a Round piece at column 5 after 173ms
 ..w....
 ..w....
@@ -113,7 +113,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 5 after 17ms
 ..wR.R.
 
 Bee (White) turn
-Iterations: 9826
+Iterations: 9800
 Bee (White) placed a Round piece at column 5 after 174ms
 ..w....
 ..w....
@@ -124,7 +124,7 @@ Bee (White) placed a Round piece at column 5 after 174ms
 
 NegamaxABH01D3 (Red) turn
 Did 806 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 6 after 18ms
+NegamaxABH01D3 (Red) placed a Square piece at column 6 after 17ms
 ..w....
 ..w....
 ..R..w.
@@ -133,7 +133,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 6 after 18ms
 ..wR.RR
 
 Bee (White) turn
-Iterations: 9728
+Iterations: 9795
 Bee (White) placed a Round piece at column 5 after 173ms
 ..w....
 ..w..w.

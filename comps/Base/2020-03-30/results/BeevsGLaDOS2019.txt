@@ -13,8 +13,8 @@
 .......
 
 Bee (White) turn
-Iterations: 10368
-Bee (White) placed a Round piece at column 2 after 175ms
+Iterations: 10220
+Bee (White) placed a Round piece at column 2 after 174ms
 .......
 .......
 .......
@@ -32,7 +32,7 @@ GLaDOS2019 (Red) placed a Square piece at column 3 after 2ms
 ..wR...
 
 Bee (White) turn
-Iterations: 10014
+Iterations: 9983
 Bee (White) placed a Round piece at column 2 after 175ms
 .......
 .......
@@ -51,7 +51,7 @@ GLaDOS2019 (Red) placed a Square piece at column 2 after 2ms
 ..wR...
 
 Bee (White) turn
-Iterations: 9605
+Iterations: 9626
 Bee (White) placed a Round piece at column 2 after 174ms
 .......
 .......
@@ -70,7 +70,7 @@ GLaDOS2019 (Red) placed a Square piece at column 0 after 2ms
 R.wR...
 
 Bee (White) turn
-Iterations: 9697
+Iterations: 9694
 Bee (White) placed a Round piece at column 2 after 174ms
 .......
 ..w....
@@ -89,7 +89,7 @@ GLaDOS2019 (Red) placed a Square piece at column 2 after 2ms
 R.wR...
 
 Bee (White) turn
-Iterations: 9684
+Iterations: 9559
 Bee (White) placed a Round piece at column 4 after 173ms
 ..R....
 ..w....
@@ -108,7 +108,7 @@ GLaDOS2019 (Red) placed a Square piece at column 4 after 2ms
 R.wRw..
 
 Bee (White) turn
-Iterations: 9593
+Iterations: 9516
 Bee (White) placed a Round piece at column 4 after 173ms
 ..R....
 ..w....
@@ -127,8 +127,8 @@ GLaDOS2019 (Red) placed a Square piece at column 3 after 2ms
 R.wRw..
 
 Bee (White) turn
-Iterations: 10525
-Bee (White) placed a Round piece at column 4 after 173ms
+Iterations: 10527
+Bee (White) placed a Round piece at column 4 after 172ms
 ..R....
 ..w....
 ..w.w..
@@ -146,7 +146,7 @@ GLaDOS2019 (Red) placed a Square piece at column 3 after 2ms
 R.wRw..
 
 Bee (White) turn
-Iterations: 10109
+Iterations: 10134
 Bee (White) placed a Round piece at column 4 after 172ms
 ..R....
 ..w.w..

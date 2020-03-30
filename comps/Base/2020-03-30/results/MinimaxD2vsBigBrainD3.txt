@@ -13,7 +13,7 @@
 .......
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+MinimaxD2 (White) placed a Round piece at column 5 after 2ms
 .......
 .......
 .......
@@ -23,7 +23,7 @@ MinimaxD2 (White) placed a Round piece at column 5 after 3ms
 
 BigBrainD3 (Red) turn
 Heuristic: ShapeHeuristic Color: Red numEvals: 887
-BigBrainD3 (Red) placed a Square piece at column 3 after 14ms
+BigBrainD3 (Red) placed a Square piece at column 3 after 13ms
 .......
 .......
 .......
@@ -42,7 +42,7 @@ MinimaxD2 (White) placed a Round piece at column 5 after 3ms
 
 BigBrainD3 (Red) turn
 Heuristic: ShapeHeuristic Color: Red numEvals: 989
-BigBrainD3 (Red) placed a Square piece at column 3 after 15ms
+BigBrainD3 (Red) placed a Square piece at column 3 after 16ms
 .......
 .......
 .......
@@ -51,7 +51,7 @@ BigBrainD3 (Red) placed a Square piece at column 3 after 15ms
 ...R.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 3 after 3ms
+MinimaxD2 (White) placed a Round piece at column 3 after 6ms
 .......
 .......
 .......
@@ -61,7 +61,7 @@ MinimaxD2 (White) placed a Round piece at column 3 after 3ms
 
 BigBrainD3 (Red) turn
 Heuristic: ShapeHeuristic Color: Red numEvals: 1135
-BigBrainD3 (Red) placed a Square piece at column 3 after 18ms
+BigBrainD3 (Red) placed a Square piece at column 3 after 19ms
 .......
 .......
 ...R...
@@ -80,7 +80,7 @@ MinimaxD2 (White) placed a Round piece at column 3 after 3ms
 
 BigBrainD3 (Red) turn
 Heuristic: ShapeHeuristic Color: Red numEvals: 849
-BigBrainD3 (Red) placed a Square piece at column 3 after 14ms
+BigBrainD3 (Red) placed a Square piece at column 3 after 15ms
 ...R...
 ...w...
 ...R...
@@ -89,7 +89,7 @@ BigBrainD3 (Red) placed a Square piece at column 3 after 14ms
 ...R.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 7ms
+MinimaxD2 (White) placed a Round piece at column 5 after 6ms
 ...R...
 ...w...
 ...R...
@@ -127,7 +127,7 @@ BigBrainD3 (Red) placed a Square piece at column 5 after 11ms
 ...R.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 1 after 6ms
+MinimaxD2 (White) placed a Round piece at column 1 after 15ms
 ...R.R.
 ...w.w.
 ...R.R.
@@ -203,7 +203,7 @@ BigBrainD3 (Red) placed a Square piece at column 1 after 4ms
 .wRR.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Square piece at column 1 after 13ms
+MinimaxD2 (White) placed a Square piece at column 1 after 2ms
 ...R.R.
 ..ww.w.
 .WRR.R.
@@ -260,7 +260,7 @@ rwRR.wW
 rwRR.wW
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Square piece at column 6 after 1ms
+MinimaxD2 (White) placed a Square piece at column 6 after 0ms
 ...R.R.
 ..ww.w.
 .WRR.R.

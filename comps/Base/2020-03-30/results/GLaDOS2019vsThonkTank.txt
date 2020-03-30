@@ -22,7 +22,7 @@ GLaDOS2019 (White) placed a Round piece at column 3 after 2ms
 ...w...
 
 Thonk Tank (Red) turn
-7296
+7473
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 3 after 180ms
 .......
@@ -42,7 +42,7 @@ GLaDOS2019 (White) placed a Round piece at column 0 after 2ms
 w..w...
 
 Thonk Tank (Red) turn
-7189
+7091
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 1 after 180ms
 .......
@@ -62,7 +62,7 @@ GLaDOS2019 (White) placed a Round piece at column 1 after 2ms
 wR.w...
 
 Thonk Tank (Red) turn
-6466
+6479
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 0 after 180ms
 .......
@@ -82,7 +82,7 @@ Rw.R...
 wR.w...
 
 Thonk Tank (Red) turn
-6584
+6571
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 2 after 180ms
 .......
@@ -102,7 +102,7 @@ RwwR...
 wRRw...
 
 Thonk Tank (Red) turn
-6528
+6704
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 2 after 180ms
 .......
@@ -122,7 +122,7 @@ RwwR...
 wRRw...
 
 Thonk Tank (Red) turn
-6014
+5958
 depth = 4
 Thonk Tank (Red) placed a Square piece at column 1 after 180ms
 .......
@@ -133,7 +133,7 @@ RwwR...
 wRRw...
 
 GLaDOS2019 (White) turn
-GLaDOS2019 (White) placed a Round piece at column 1 after 3ms
+GLaDOS2019 (White) placed a Round piece at column 1 after 2ms
 .w.....
 .R.....
 .w.....
@@ -142,7 +142,7 @@ RwwR...
 wRRw...
 
 Thonk Tank (Red) turn
-5365
+5127
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 6 after 180ms
 .w.....
@@ -162,7 +162,7 @@ RwwR...
 wRRw..R
 
 Thonk Tank (Red) turn
-5058
+5181
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 5 after 180ms
 .w.....
@@ -173,7 +173,7 @@ RwwR...
 wRRw.RR
 
 GLaDOS2019 (White) turn
-GLaDOS2019 (White) placed a Round piece at column 4 after 2ms
+GLaDOS2019 (White) placed a Round piece at column 4 after 3ms
 .w.....
 .R.....
 .ww....
@@ -182,7 +182,7 @@ RwwR...
 wRRwwRR
 
 Thonk Tank (Red) turn
-5120
+4530
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 4 after 180ms
 .w.....
@@ -202,7 +202,7 @@ RwwRR.w
 wRRwwRR
 
 Thonk Tank (Red) turn
-3785
+3797
 depth = 4
 Thonk Tank (Red) placed a Square piece at column 4 after 180ms
 .w.....
@@ -222,7 +222,7 @@ RwwRR.w
 wRRwwRR
 
 Thonk Tank (Red) turn
-3845
+3850
 depth = 4
 Thonk Tank (Red) placed a Square piece at column 4 after 180ms
 .w.....
@@ -243,7 +243,7 @@ wRRwwRR
 
 Thonk Tank (Red) turn
 96
-depth = 58
+depth = 59
 Thonk Tank (Red) placed a Round piece at column 4 after 180ms
 .w.....
 .R..r..

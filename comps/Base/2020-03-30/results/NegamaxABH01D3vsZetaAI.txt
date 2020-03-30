@@ -23,137 +23,279 @@ NegamaxABH01D3 (White) placed a Round piece at column 3 after 13ms
 ...w...
 
 ZetaAI (Red) turn
-ZetaAI (Red) placed a Square piece at column 3 after 113ms
+ZetaAI (Red) placed a Square piece at column 4 after 30ms
 .......
 .......
 .......
 .......
-...R...
-...w...
+.......
+...wR..
 
 NegamaxABH01D3 (White) turn
-Did 710 total evals
+Did 729 total evals
+NegamaxABH01D3 (White) placed a Round piece at column 4 after 14ms
+.......
+.......
+.......
+.......
+....w..
+...wR..
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 4 after 27ms
+.......
+.......
+.......
+....R..
+....w..
+...wR..
+
+NegamaxABH01D3 (White) turn
+Did 721 total evals
+NegamaxABH01D3 (White) placed a Round piece at column 4 after 14ms
+.......
+.......
+....w..
+....R..
+....w..
+...wR..
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 3 after 37ms
+.......
+.......
+....w..
+....R..
+...Rw..
+...wR..
+
+NegamaxABH01D3 (White) turn
+Did 663 total evals
 NegamaxABH01D3 (White) placed a Round piece at column 3 after 13ms
 .......
 .......
-.......
-...w...
-...R...
-...w...
+....w..
+...wR..
+...Rw..
+...wR..
 
 ZetaAI (Red) turn
-ZetaAI (Red) placed a Round piece at column 3 after 109ms
+ZetaAI (Red) placed a Square piece at column 3 after 35ms
 .......
 .......
-...r...
-...w...
-...R...
-...w...
+...Rw..
+...wR..
+...Rw..
+...wR..
 
 NegamaxABH01D3 (White) turn
-Did 703 total evals
-NegamaxABH01D3 (White) placed a Round piece at column 1 after 14ms
+Did 483 total evals
+NegamaxABH01D3 (White) placed a Round piece at column 3 after 10ms
 .......
-.......
-...r...
 ...w...
-...R...
-.w.w...
+...Rw..
+...wR..
+...Rw..
+...wR..
 
 ZetaAI (Red) turn
-ZetaAI (Red) placed a Square piece at column 2 after 75ms
-.......
-.......
-...r...
-...w...
+ZetaAI (Red) placed a Square piece at column 3 after 28ms
 ...R...
-.wRw...
+...w...
+...Rw..
+...wR..
+...Rw..
+...wR..
 
 NegamaxABH01D3 (White) turn
-Did 674 total evals
-NegamaxABH01D3 (White) placed a Round piece at column 2 after 14ms
-.......
-.......
-...r...
+Did 371 total evals
+NegamaxABH01D3 (White) placed a Round piece at column 5 after 8ms
+...R...
 ...w...
-..wR...
-.wRw...
+...Rw..
+...wR..
+...Rw..
+...wRw.
 
 ZetaAI (Red) turn
-ZetaAI (Red) placed a Round piece at column 2 after 87ms
-.......
-.......
-...r...
-..rw...
-..wR...
-.wRw...
+ZetaAI (Red) placed a Square piece at column 6 after 34ms
+...R...
+...w...
+...Rw..
+...wR..
+...Rw..
+...wRwR
 
 NegamaxABH01D3 (White) turn
-Did 390 total evals
+Did 575 total evals
+NegamaxABH01D3 (White) placed a Round piece at column 5 after 12ms
+...R...
+...w...
+...Rw..
+...wR..
+...Rww.
+...wRwR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 5 after 21ms
+...R...
+...w...
+...Rw..
+...wRR.
+...Rww.
+...wRwR
+
+NegamaxABH01D3 (White) turn
+Did 369 total evals
+NegamaxABH01D3 (White) placed a Round piece at column 5 after 8ms
+...R...
+...w...
+...Rww.
+...wRR.
+...Rww.
+...wRwR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 4 after 20ms
+...R...
+...wR..
+...Rww.
+...wRR.
+...Rww.
+...wRwR
+
+NegamaxABH01D3 (White) turn
+Did 343 total evals
 NegamaxABH01D3 (White) placed a Round piece at column 1 after 7ms
-.......
-.......
-...r...
-..rw...
-.wwR...
-.wRw...
+...R...
+...wR..
+...Rww.
+...wRR.
+...Rww.
+.w.wRwR
 
 ZetaAI (Red) turn
-ZetaAI (Red) placed a Square piece at column 0 after 10ms
-.......
-.......
-...r...
-..rw...
-.wwR...
-RwRw...
+ZetaAI (Red) placed a Square piece at column 4 after 16ms
+...RR..
+...wR..
+...Rww.
+...wRR.
+...Rww.
+.w.wRwR
 
 NegamaxABH01D3 (White) turn
-Did 529 total evals
-NegamaxABH01D3 (White) placed a Round piece at column 1 after 11ms
-.......
-.......
-...r...
-.wrw...
-.wwR...
-RwRw...
-
-ZetaAI (Red) turn
-ZetaAI (Red) placed a Square piece at column 1 after 11ms
-.......
-.......
-.R.r...
-.wrw...
-.wwR...
-RwRw...
-
-NegamaxABH01D3 (White) turn
-Did 730 total evals
-NegamaxABH01D3 (White) placed a Round piece at column 4 after 15ms
-.......
-.......
-.R.r...
-.wrw...
-.wwR...
-RwRww..
-
-ZetaAI (Red) turn
-ZetaAI (Red) placed a Round piece at column 0 after 6ms
-.......
-.......
-.R.r...
-.wrw...
-rwwR...
-RwRww..
-
-NegamaxABH01D3 (White) turn
-Did 2 total evals
+Did 39 total evals
 NegamaxABH01D3 (White) placed a Round piece at column 0 after 0ms
-.......
-.......
-.R.r...
-wwrw...
-rwwR...
-RwRww..
+...RR..
+...wR..
+...Rww.
+...wRR.
+...Rww.
+ww.wRwR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Round piece at column 0 after 8ms
+...RR..
+...wR..
+...Rww.
+...wRR.
+r..Rww.
+ww.wRwR
+
+NegamaxABH01D3 (White) turn
+Did 39 total evals
+NegamaxABH01D3 (White) placed a Square piece at column 0 after 0ms
+...RR..
+...wR..
+...Rww.
+W..wRR.
+r..Rww.
+ww.wRwR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Round piece at column 0 after 7ms
+...RR..
+...wR..
+r..Rww.
+W..wRR.
+r..Rww.
+ww.wRwR
+
+NegamaxABH01D3 (White) turn
+Did 37 total evals
+NegamaxABH01D3 (White) placed a Square piece at column 0 after 0ms
+...RR..
+W..wR..
+r..Rww.
+W..wRR.
+r..Rww.
+ww.wRwR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Round piece at column 0 after 5ms
+r..RR..
+W..wR..
+r..Rww.
+W..wRR.
+r..Rww.
+ww.wRwR
+
+NegamaxABH01D3 (White) turn
+Did 24 total evals
+NegamaxABH01D3 (White) placed a Square piece at column 1 after 0ms
+r..RR..
+W..wR..
+r..Rww.
+W..wRR.
+rW.Rww.
+ww.wRwR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Round piece at column 1 after 2ms
+r..RR..
+W..wR..
+r..Rww.
+Wr.wRR.
+rW.Rww.
+ww.wRwR
+
+NegamaxABH01D3 (White) turn
+Did 24 total evals
+NegamaxABH01D3 (White) placed a Square piece at column 1 after 0ms
+r..RR..
+W..wR..
+rW.Rww.
+Wr.wRR.
+rW.Rww.
+ww.wRwR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Round piece at column 1 after 2ms
+r..RR..
+Wr.wR..
+rW.Rww.
+Wr.wRR.
+rW.Rww.
+ww.wRwR
+
+NegamaxABH01D3 (White) turn
+Did 13 total evals
+NegamaxABH01D3 (White) placed a Square piece at column 1 after 0ms
+rW.RR..
+Wr.wR..
+rW.Rww.
+Wr.wRR.
+rW.Rww.
+ww.wRwR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Round piece at column 2 after 0ms
+rW.RR..
+Wr.wR..
+rW.Rww.
+Wr.wRR.
+rW.Rww.
+wwrwRwR
 
 Winner is NegamaxABH01D3 (White)
-Solution=(2,0)(2,1)(2,2)(2,3)
+Solution=(0,0)(0,1)(0,2)(0,3)

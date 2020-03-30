@@ -13,7 +13,7 @@
 .......
 
 Thonk Tank (White) turn
-7394
+7461
 depth = 3
 Thonk Tank (White) placed a Round piece at column 3 after 180ms
 .......
@@ -34,7 +34,7 @@ BigBrainD3 (Red) placed a Square piece at column 3 after 12ms
 ...w...
 
 Thonk Tank (White) turn
-6975
+6754
 depth = 3
 Thonk Tank (White) placed a Round piece at column 2 after 180ms
 .......
@@ -46,7 +46,7 @@ Thonk Tank (White) placed a Round piece at column 2 after 180ms
 
 BigBrainD3 (Red) turn
 Heuristic: ShapeHeuristic Color: Red numEvals: 913
-BigBrainD3 (Red) placed a Square piece at column 2 after 15ms
+BigBrainD3 (Red) placed a Square piece at column 2 after 16ms
 .......
 .......
 .......
@@ -55,7 +55,7 @@ BigBrainD3 (Red) placed a Square piece at column 2 after 15ms
 ..ww...
 
 Thonk Tank (White) turn
-6681
+6687
 depth = 5
 Thonk Tank (White) placed a Square piece at column 1 after 180ms
 .......

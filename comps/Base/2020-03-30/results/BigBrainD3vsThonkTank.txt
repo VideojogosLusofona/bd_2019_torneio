@@ -23,7 +23,7 @@ BigBrainD3 (White) placed a Round piece at column 3 after 10ms
 ...w...
 
 Thonk Tank (Red) turn
-7447
+7439
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 3 after 180ms
 .......
@@ -44,7 +44,7 @@ BigBrainD3 (White) placed a Round piece at column 3 after 19ms
 ...w...
 
 Thonk Tank (Red) turn
-6478
+6791
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 2 after 180ms
 .......
@@ -56,7 +56,7 @@ Thonk Tank (Red) placed a Square piece at column 2 after 180ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 1108
-BigBrainD3 (White) placed a Round piece at column 3 after 20ms
+BigBrainD3 (White) placed a Round piece at column 3 after 18ms
 .......
 .......
 ...w...
@@ -65,7 +65,7 @@ BigBrainD3 (White) placed a Round piece at column 3 after 20ms
 ..Rw...
 
 Thonk Tank (Red) turn
-6652
+6725
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 2 after 180ms
 .......
@@ -77,7 +77,7 @@ Thonk Tank (Red) placed a Square piece at column 2 after 180ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 761
-BigBrainD3 (White) placed a Round piece at column 3 after 14ms
+BigBrainD3 (White) placed a Round piece at column 3 after 13ms
 .......
 ...w...
 ...w...
@@ -86,7 +86,7 @@ BigBrainD3 (White) placed a Round piece at column 3 after 14ms
 ..Rw...
 
 Thonk Tank (Red) turn
-6814
+6781
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 3 after 180ms
 ...R...
@@ -107,7 +107,7 @@ BigBrainD3 (White) placed a Round piece at column 2 after 11ms
 ..Rw...
 
 Thonk Tank (Red) turn
-5811
+5782
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 0 after 180ms
 ...R...
@@ -128,7 +128,7 @@ BigBrainD3 (White) placed a Round piece at column 2 after 11ms
 R.Rw...
 
 Thonk Tank (Red) turn
-5500
+5700
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 0 after 180ms
 ...R...
@@ -140,7 +140,7 @@ R.Rw...
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 437
-BigBrainD3 (White) placed a Round piece at column 2 after 12ms
+BigBrainD3 (White) placed a Round piece at column 2 after 8ms
 ...R...
 ..ww...
 ..ww...
@@ -149,7 +149,7 @@ R.RR...
 R.Rw...
 
 Thonk Tank (Red) turn
-4998
+5214
 depth = 4
 Thonk Tank (Red) placed a Square piece at column 2 after 180ms
 ..RR...
@@ -161,7 +161,7 @@ R.Rw...
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 238
-BigBrainD3 (White) placed a Round piece at column 4 after 6ms
+BigBrainD3 (White) placed a Round piece at column 4 after 4ms
 ..RR...
 ..ww...
 ..ww...
@@ -170,7 +170,7 @@ R.RR...
 R.Rww..
 
 Thonk Tank (Red) turn
-4590
+5586
 depth = 4
 Thonk Tank (Red) placed a Square piece at column 0 after 180ms
 ..RR...
@@ -191,7 +191,7 @@ R.RR...
 R.Rww..
 
 Thonk Tank (Red) turn
-5117
+5184
 depth = 4
 Thonk Tank (Red) placed a Square piece at column 4 after 180ms
 ..RR...
@@ -212,7 +212,7 @@ R.RRR..
 R.Rww.W
 
 Thonk Tank (Red) turn
-4411
+4581
 depth = 5
 Thonk Tank (Red) placed a Square piece at column 5 after 180ms
 ..RR...
@@ -224,7 +224,7 @@ R.RwwRW
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 296
-BigBrainD3 (White) placed a Round piece at column 5 after 7ms
+BigBrainD3 (White) placed a Round piece at column 5 after 6ms
 ..RR...
 ..ww...
 w.ww...
@@ -233,7 +233,7 @@ R.RRRw.
 R.RwwRW
 
 Thonk Tank (Red) turn
-2716
+2878
 depth = 6
 Thonk Tank (Red) placed a Square piece at column 4 after 180ms
 ..RR...
@@ -254,7 +254,7 @@ R.RRRwW
 R.RwwRW
 
 Thonk Tank (Red) turn
-1390
+1412
 depth = 9
 Thonk Tank (Red) placed a Round piece at column 4 after 180ms
 ..RR...
@@ -297,7 +297,7 @@ R.RwwRW
 
 Thonk Tank (Red) turn
 179
-depth = 64
+depth = 67
 Thonk Tank (Red) placed a Round piece at column 5 after 180ms
 W.RR...
 r.wwW..
@@ -318,7 +318,7 @@ R.RwwRW
 
 Thonk Tank (Red) turn
 47
-depth = 255
+depth = 259
 Thonk Tank (Red) placed a Round piece at column 6 after 180ms
 W.RRW..
 r.wwW..
@@ -339,7 +339,7 @@ R.RwwRW
 
 Thonk Tank (Red) turn
 21
-depth = 543
+depth = 541
 Thonk Tank (Red) placed a Round piece at column 6 after 180ms
 W.RRW..
 r.wwW.r

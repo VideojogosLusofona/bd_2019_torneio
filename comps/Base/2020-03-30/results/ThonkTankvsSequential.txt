@@ -13,7 +13,7 @@
 .......
 
 Thonk Tank (White) turn
-7369
+7355
 depth = 3
 Thonk Tank (White) placed a Round piece at column 3 after 180ms
 .......
@@ -33,7 +33,7 @@ Sequential (Red) placed a Round piece at column 0 after 0ms
 r..w...
 
 Thonk Tank (White) turn
-6735
+6751
 depth = 3
 Thonk Tank (White) placed a Round piece at column 1 after 180ms
 .......

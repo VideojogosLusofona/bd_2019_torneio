@@ -13,7 +13,7 @@
 .......
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+MinimaxD2 (White) placed a Round piece at column 5 after 2ms
 .......
 .......
 .......
@@ -42,7 +42,7 @@ MinimaxD2 (White) placed a Round piece at column 5 after 3ms
 .....w.
 
 Thonk Tank (Red) turn
-6864
+6843
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 3 after 180ms
 .......
@@ -62,7 +62,7 @@ MinimaxD2 (White) placed a Round piece at column 5 after 3ms
 ...R.w.
 
 Thonk Tank (Red) turn
-6496
+6454
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 0 after 180ms
 .......
@@ -82,7 +82,7 @@ MinimaxD2 (White) placed a Round piece at column 5 after 3ms
 R..R.w.
 
 Thonk Tank (Red) turn
-6488
+6519
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 5 after 180ms
 .....R.
@@ -102,7 +102,7 @@ MinimaxD2 (White) placed a Round piece at column 3 after 2ms
 R..R.w.
 
 Thonk Tank (Red) turn
-5735
+5751
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 2 after 180ms
 .....R.
@@ -122,7 +122,7 @@ MinimaxD2 (White) placed a Round piece at column 1 after 2ms
 RwRR.w.
 
 Thonk Tank (Red) turn
-4624
+5581
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 2 after 180ms
 .....R.
@@ -133,7 +133,7 @@ Thonk Tank (Red) placed a Square piece at column 2 after 180ms
 RwRR.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 2 after 3ms
+MinimaxD2 (White) placed a Round piece at column 2 after 2ms
 .....R.
 .....w.
 .....w.
@@ -142,7 +142,7 @@ MinimaxD2 (White) placed a Round piece at column 2 after 3ms
 RwRR.w.
 
 Thonk Tank (Red) turn
-4597
+5491
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 4 after 180ms
 .....R.
@@ -153,7 +153,7 @@ Thonk Tank (Red) placed a Square piece at column 4 after 180ms
 RwRRRw.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 2 after 3ms
+MinimaxD2 (White) placed a Round piece at column 2 after 2ms
 .....R.
 .....w.
 ..w..w.
@@ -162,7 +162,7 @@ MinimaxD2 (White) placed a Round piece at column 2 after 3ms
 RwRRRw.
 
 Thonk Tank (Red) turn
-5479
+5696
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 3 after 180ms
 .....R.
@@ -173,7 +173,7 @@ Thonk Tank (Red) placed a Square piece at column 3 after 180ms
 RwRRRw.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 3 after 4ms
+MinimaxD2 (White) placed a Round piece at column 3 after 3ms
 .....R.
 .....w.
 ..ww.w.
@@ -182,7 +182,7 @@ MinimaxD2 (White) placed a Round piece at column 3 after 4ms
 RwRRRw.
 
 Thonk Tank (Red) turn
-4907
+5044
 depth = 3
 Thonk Tank (Red) placed a Square piece at column 0 after 180ms
 .....R.
@@ -202,7 +202,7 @@ R.Rw.R.
 RwRRRw.
 
 Thonk Tank (Red) turn
-4270
+4211
 depth = 5
 Thonk Tank (Red) placed a Round piece at column 2 after 180ms
 .....R.
@@ -222,7 +222,7 @@ R.Rw.R.
 RwRRRw.
 
 Thonk Tank (Red) turn
-3321
+3358
 depth = 8
 Thonk Tank (Red) placed a Round piece at column 0 after 180ms
 ...W.R.
@@ -242,7 +242,7 @@ R.Rw.R.
 RwRRRw.
 
 Thonk Tank (Red) turn
-2623
+2599
 depth = 8
 Thonk Tank (Red) placed a Round piece at column 0 after 180ms
 ...W.R.
@@ -323,7 +323,7 @@ RwRRRwW
 
 Thonk Tank (Red) turn
 66
-depth = 123
+depth = 129
 Thonk Tank (Red) placed a Round piece at column 1 after 180ms
 ..WW.Rr
 r.rw.wW
@@ -343,7 +343,7 @@ RwRRRwW
 
 Thonk Tank (Red) turn
 35
-depth = 185
+depth = 188
 Thonk Tank (Red) placed a Square piece at column 4 after 180ms
 ..WW.Rr
 r.rw.wW
