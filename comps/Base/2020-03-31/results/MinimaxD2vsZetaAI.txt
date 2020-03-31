@@ -1,0 +1,241 @@
+=> MinimaxD2 (White) vs ZetaAI (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+.......
+.......
+.......
+.....w.
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 6 after 33ms
+.......
+.......
+.......
+.......
+.......
+.....wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+.......
+.......
+.....w.
+.....wR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 6 after 31ms
+.......
+.......
+.......
+.......
+.....wR
+.....wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+.......
+.....w.
+.....wR
+.....wR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 5 after 45ms
+.......
+.......
+.....R.
+.....w.
+.....wR
+.....wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.......
+.....w.
+.....R.
+.....w.
+.....wR
+.....wR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 6 after 29ms
+.......
+.....w.
+.....R.
+.....wR
+.....wR
+.....wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 6 after 3ms
+.......
+.....w.
+.....Rw
+.....wR
+.....wR
+.....wR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 6 after 23ms
+.......
+.....wR
+.....Rw
+.....wR
+.....wR
+.....wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.....w.
+.....wR
+.....Rw
+.....wR
+.....wR
+.....wR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 6 after 16ms
+.....wR
+.....wR
+.....Rw
+.....wR
+.....wR
+.....wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 2ms
+.....wR
+.....wR
+.....Rw
+.....wR
+.....wR
+.w...wR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 1 after 14ms
+.....wR
+.....wR
+.....Rw
+.....wR
+.R...wR
+.w...wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 1ms
+.....wR
+.....wR
+.....Rw
+.w...wR
+.R...wR
+.w...wR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 1 after 11ms
+.....wR
+.....wR
+.R...Rw
+.w...wR
+.R...wR
+.w...wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 2ms
+.....wR
+.w...wR
+.R...Rw
+.w...wR
+.R...wR
+.w...wR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 3 after 13ms
+.....wR
+.w...wR
+.R...Rw
+.w...wR
+.R...wR
+.w.R.wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 2ms
+.w...wR
+.w...wR
+.R...Rw
+.w...wR
+.R...wR
+.w.R.wR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 3 after 6ms
+.w...wR
+.w...wR
+.R...Rw
+.w...wR
+.R.R.wR
+.w.R.wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 4 after 0ms
+.w...wR
+.w...wR
+.R...Rw
+.w...wR
+.R.R.wR
+.w.RWwR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 3 after 4ms
+.w...wR
+.w...wR
+.R...Rw
+.w.R.wR
+.R.R.wR
+.w.RWwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 4 after 0ms
+.w...wR
+.w...wR
+.R...Rw
+.w.R.wR
+.R.RWwR
+.w.RWwR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Round piece at column 0 after 0ms
+.w...wR
+.w...wR
+.R...Rw
+.w.R.wR
+.R.RWwR
+rw.RWwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 4 after 0ms
+.w...wR
+.w...wR
+.R...Rw
+.w.RWwR
+.R.RWwR
+rw.RWwR
+
+Winner is ZetaAI (Red)
+Solution=(1,3)(2,4)(3,5)(4,6)
