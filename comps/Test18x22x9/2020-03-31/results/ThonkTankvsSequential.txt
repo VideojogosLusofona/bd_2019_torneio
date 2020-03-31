@@ -25,7 +25,7 @@
 ......................
 
 Thonk Tank (White) turn
-4907
+4864
 depth = 2
 Thonk Tank (White) placed a Round piece at column 8 after 495ms
 ......................
@@ -113,7 +113,7 @@ Sequential (Red) placed a Round piece at column 1 after 0ms
 rr......w.............
 
 Thonk Tank (White) turn
-4604
+4690
 depth = 2
 Thonk Tank (White) placed a Round piece at column 8 after 496ms
 ......................
@@ -157,9 +157,9 @@ Sequential (Red) placed a Round piece at column 2 after 0ms
 rrr.....w.............
 
 Thonk Tank (White) turn
-4562
+4518
 depth = 2
-Thonk Tank (White) placed a Round piece at column 8 after 496ms
+Thonk Tank (White) placed a Round piece at column 8 after 495ms
 ......................
 ......................
 ......................
@@ -247,7 +247,7 @@ rrrrr...w.............
 Thonk Tank (White) turn
 4649
 depth = 2
-Thonk Tank (White) placed a Round piece at column 8 after 497ms
+Thonk Tank (White) placed a Round piece at column 8 after 495ms
 ......................
 ......................
 ......................
@@ -289,7 +289,7 @@ Sequential (Red) placed a Round piece at column 5 after 0ms
 rrrrrr..w.............
 
 Thonk Tank (White) turn
-4649
+4606
 depth = 2
 Thonk Tank (White) placed a Round piece at column 8 after 496ms
 ......................

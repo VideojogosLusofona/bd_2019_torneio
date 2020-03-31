@@ -13,7 +13,7 @@
 .......
 
 Thonk Tank (White) turn
-7514
+7339
 depth = 3
 Thonk Tank (White) placed a Round piece at column 3 after 180ms
 .......
@@ -34,7 +34,7 @@ BigBrainD3 (Red) placed a Square piece at column 3 after 13ms
 ...w...
 
 Thonk Tank (White) turn
-7058
+7037
 depth = 3
 Thonk Tank (White) placed a Round piece at column 2 after 180ms
 .......

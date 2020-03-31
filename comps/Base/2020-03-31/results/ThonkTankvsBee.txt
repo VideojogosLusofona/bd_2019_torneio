@@ -13,7 +13,7 @@
 .......
 
 Thonk Tank (White) turn
-7474
+7440
 depth = 3
 Thonk Tank (White) placed a Round piece at column 3 after 180ms
 .......
@@ -24,7 +24,7 @@ Thonk Tank (White) placed a Round piece at column 3 after 180ms
 ...w...
 
 Bee (Red) turn
-Iterations: 10297
+Iterations: 10498
 Bee (Red) placed a Square piece at column 3 after 174ms
 .......
 .......
@@ -45,7 +45,7 @@ Thonk Tank (White) placed a Round piece at column 2 after 180ms
 ..ww...
 
 Bee (Red) turn
-Iterations: 16388
+Iterations: 16633
 Bee (Red) placed a Square piece at column 3 after 172ms
 .......
 .......
@@ -55,7 +55,7 @@ Bee (Red) placed a Square piece at column 3 after 172ms
 ..ww...
 
 Thonk Tank (White) turn
-7362
+7161
 depth = 4
 Thonk Tank (White) placed a Square piece at column 1 after 180ms
 .......
@@ -66,7 +66,7 @@ Thonk Tank (White) placed a Square piece at column 1 after 180ms
 .Www...
 
 Bee (Red) turn
-Iterations: 15339
+Iterations: 15513
 Bee (Red) placed a Square piece at column 3 after 172ms
 .......
 .......

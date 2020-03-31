@@ -22,7 +22,7 @@ Sequential (White) placed a Round piece at column 0 after 0ms
 w......
 
 Bee (Red) turn
-Iterations: 15093
+Iterations: 16871
 Bee (Red) placed a Square piece at column 3 after 172ms
 .......
 .......
@@ -41,7 +41,7 @@ Sequential (White) placed a Round piece at column 1 after 0ms
 ww.R...
 
 Bee (Red) turn
-Iterations: 16038
+Iterations: 16353
 Bee (Red) placed a Square piece at column 3 after 172ms
 .......
 .......
@@ -60,7 +60,7 @@ Sequential (White) placed a Round piece at column 2 after 0ms
 wwwR...
 
 Bee (Red) turn
-Iterations: 10744
+Iterations: 10962
 Bee (Red) placed a Square piece at column 3 after 173ms
 .......
 .......
@@ -79,8 +79,8 @@ Sequential (White) placed a Round piece at column 3 after 0ms
 wwwR...
 
 Bee (Red) turn
-Iterations: 9733
-Bee (Red) placed a Square piece at column 3 after 174ms
+Iterations: 10002
+Bee (Red) placed a Square piece at column 3 after 173ms
 .......
 ...R...
 ...w...
@@ -98,7 +98,7 @@ Sequential (White) placed a Round piece at column 4 after 0ms
 wwwRw..
 
 Bee (Red) turn
-Iterations: 8463
+Iterations: 9132
 Bee (Red) placed a Square piece at column 3 after 173ms
 ...R...
 ...R...
@@ -117,7 +117,7 @@ Sequential (White) placed a Round piece at column 5 after 0ms
 wwwRww.
 
 Bee (Red) turn
-Iterations: 7968
+Iterations: 9842
 Bee (Red) placed a Square piece at column 4 after 173ms
 ...R...
 ...R...
@@ -136,7 +136,7 @@ Sequential (White) placed a Round piece at column 6 after 0ms
 wwwRwww
 
 Bee (Red) turn
-Iterations: 10597
+Iterations: 10888
 Bee (Red) placed a Square piece at column 4 after 172ms
 ...R...
 ...R...
@@ -155,7 +155,7 @@ w..RR..
 wwwRwww
 
 Bee (Red) turn
-Iterations: 9546
+Iterations: 9972
 Bee (Red) placed a Square piece at column 4 after 172ms
 ...R...
 ...R...
@@ -174,7 +174,7 @@ ww.RR..
 wwwRwww
 
 Bee (Red) turn
-Iterations: 10222
+Iterations: 10791
 Bee (Red) placed a Round piece at column 4 after 171ms
 ...R...
 ...Rr..

@@ -13,7 +13,7 @@
 .......
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Round piece at column 3 after 32ms
+ZetaAI (White) placed a Round piece at column 3 after 31ms
 .......
 .......
 .......
@@ -42,7 +42,7 @@ ZetaAI (White) placed a Round piece at column 3 after 30ms
 
 NegamaxABH01D3 (Red) turn
 Did 623 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 3 after 13ms
+NegamaxABH01D3 (Red) placed a Square piece at column 3 after 11ms
 .......
 .......
 ...R...
@@ -61,7 +61,7 @@ ZetaAI (White) placed a Round piece at column 6 after 36ms
 
 NegamaxABH01D3 (Red) turn
 Did 677 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 6 after 15ms
+NegamaxABH01D3 (Red) placed a Square piece at column 6 after 13ms
 .......
 .......
 ...R...
@@ -70,7 +70,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 6 after 15ms
 ...w..w
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Round piece at column 5 after 40ms
+ZetaAI (White) placed a Round piece at column 5 after 39ms
 .......
 .......
 ...R...
@@ -89,7 +89,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 4 after 15ms
 ...wRww
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Round piece at column 3 after 26ms
+ZetaAI (White) placed a Round piece at column 3 after 25ms
 .......
 ...w...
 ...R...
@@ -99,7 +99,7 @@ ZetaAI (White) placed a Round piece at column 3 after 26ms
 
 NegamaxABH01D3 (Red) turn
 Did 992 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 4 after 22ms
+NegamaxABH01D3 (Red) placed a Square piece at column 4 after 20ms
 .......
 ...w...
 ...R...
@@ -108,7 +108,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 4 after 22ms
 ...wRww
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Round piece at column 5 after 41ms
+ZetaAI (White) placed a Round piece at column 5 after 39ms
 .......
 ...w...
 ...R...
@@ -118,7 +118,7 @@ ZetaAI (White) placed a Round piece at column 5 after 41ms
 
 NegamaxABH01D3 (Red) turn
 Did 773 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 4 after 18ms
+NegamaxABH01D3 (Red) placed a Square piece at column 4 after 16ms
 .......
 ...w...
 ...R...
@@ -156,7 +156,7 @@ R..wRww
 
 NegamaxABH01D3 (Red) turn
 Did 928 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 5 after 20ms
+NegamaxABH01D3 (Red) placed a Square piece at column 5 after 19ms
 .......
 ...w...
 ...RwR.
@@ -194,21 +194,59 @@ R.wwRww
 
 NegamaxABH01D3 (Red) turn
 Did 203 total evals and ended up playing randomly
-NegamaxABH01D3 (Red) placed a Round piece at column 6 after 4ms
+NegamaxABH01D3 (Red) placed a Round piece at column 0 after 4ms
 .......
 ...wR..
 ...RwR.
-...wRwr
-..wRRwR
+...wRw.
+r.wRRwR
 R.wwRww
 
 ZetaAI (White) turn
-ZetaAI (White) placed a Square piece at column 1 after 2ms
+ZetaAI (White) placed a Square piece at column 0 after 2ms
 .......
 ...wR..
 ...RwR.
-...wRwr
-..wRRwR
+W..wRw.
+r.wRRwR
+R.wwRww
+
+NegamaxABH01D3 (Red) turn
+Did 209 total evals and ended up playing randomly
+NegamaxABH01D3 (Red) placed a Round piece at column 4 after 4ms
+....r..
+...wR..
+...RwR.
+W..wRw.
+r.wRRwR
+R.wwRww
+
+ZetaAI (White) turn
+ZetaAI (White) placed a Square piece at column 0 after 1ms
+....r..
+...wR..
+W..RwR.
+W..wRw.
+r.wRRwR
+R.wwRww
+
+NegamaxABH01D3 (Red) turn
+Did 82 total evals and ended up playing randomly
+NegamaxABH01D3 (Red) placed a Square piece at column 5 after 1ms
+....r..
+...wRR.
+W..RwR.
+W..wRw.
+r.wRRwR
+R.wwRww
+
+ZetaAI (White) turn
+ZetaAI (White) placed a Square piece at column 1 after 1ms
+....r..
+...wRR.
+W..RwR.
+W..wRw.
+r.wRRwR
 RWwwRww
 
 Winner is ZetaAI (White)

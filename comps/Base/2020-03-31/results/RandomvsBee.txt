@@ -22,8 +22,8 @@ Random (White) placed a Round piece at column 5 after 0ms
 .....w.
 
 Bee (Red) turn
-Iterations: 16717
-Bee (Red) placed a Square piece at column 5 after 172ms
+Iterations: 11502
+Bee (Red) placed a Square piece at column 5 after 174ms
 .......
 .......
 .......
@@ -32,61 +32,51 @@ Bee (Red) placed a Square piece at column 5 after 172ms
 .....w.
 
 Random (White) turn
-Random (White) placed a Square piece at column 4 after 0ms
+Random (White) placed a Square piece at column 2 after 0ms
 .......
 .......
 .......
 .......
 .....R.
-....Ww.
+..W..w.
 
 Bee (Red) turn
-Iterations: 15688
-Bee (Red) placed a Square piece at column 4 after 172ms
+Iterations: 11173
+Bee (Red) placed a Square piece at column 5 after 173ms
 .......
 .......
 .......
-.......
-....RR.
-....Ww.
+.....R.
+.....R.
+..W..w.
 
 Random (White) turn
-Random (White) placed a Square piece at column 1 after 0ms
+Random (White) placed a Square piece at column 3 after 0ms
 .......
 .......
 .......
-.......
-....RR.
-.W..Ww.
+.....R.
+.....R.
+..WW.w.
 
 Bee (Red) turn
-Iterations: 15268
-Bee (Red) placed a Square piece at column 4 after 172ms
+Iterations: 10298
+Bee (Red) placed a Square piece at column 5 after 173ms
 .......
 .......
-.......
-....R..
-....RR.
-.W..Ww.
+.....R.
+.....R.
+.....R.
+..WW.w.
 
 Random (White) turn
-Random (White) placed a Square piece at column 0 after 0ms
+Random (White) placed a Square piece at column 5 after 0ms
 .......
-.......
-.......
-....R..
-....RR.
-WW..Ww.
-
-Bee (Red) turn
-Iterations: 14201
-Bee (Red) placed a Square piece at column 4 after 172ms
-.......
-.......
-....R..
-....R..
-....RR.
-WW..Ww.
+.....W.
+.....R.
+.....R.
+.....R.
+..WW.w.
 
 Winner is Bee (Red)
-Solution=(0,4)(1,4)(2,4)(3,4)
+Solution=(1,5)(2,5)(3,5)(4,5)

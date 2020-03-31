@@ -13,7 +13,7 @@
 .......
 
 GLaDOS2019 (White) turn
-GLaDOS2019 (White) placed a Round piece at column 3 after 2ms
+GLaDOS2019 (White) placed a Round piece at column 3 after 4ms
 .......
 .......
 .......
@@ -22,7 +22,7 @@ GLaDOS2019 (White) placed a Round piece at column 3 after 2ms
 ...w...
 
 ZetaAI (Red) turn
-ZetaAI (Red) placed a Square piece at column 4 after 31ms
+ZetaAI (Red) placed a Square piece at column 4 after 32ms
 .......
 .......
 .......
@@ -76,7 +76,7 @@ GLaDOS2019 (White) placed a Round piece at column 4 after 2ms
 ...wR..
 
 ZetaAI (Red) turn
-ZetaAI (Red) placed a Square piece at column 3 after 35ms
+ZetaAI (Red) placed a Square piece at column 3 after 34ms
 .......
 .......
 ...Rw..
@@ -94,7 +94,7 @@ GLaDOS2019 (White) placed a Round piece at column 3 after 2ms
 ...wR..
 
 ZetaAI (Red) turn
-ZetaAI (Red) placed a Square piece at column 3 after 35ms
+ZetaAI (Red) placed a Square piece at column 3 after 33ms
 ...R...
 ...w...
 ...Rw..
@@ -130,7 +130,7 @@ GLaDOS2019 (White) placed a Round piece at column 4 after 2ms
 ...wRR.
 
 ZetaAI (Red) turn
-ZetaAI (Red) placed a Square piece at column 6 after 19ms
+ZetaAI (Red) placed a Square piece at column 6 after 18ms
 ...Rw..
 ...ww..
 ...Rw..
@@ -184,7 +184,7 @@ GLaDOS2019 (White) placed a Round piece at column 5 after 1ms
 ...wRRR
 
 ZetaAI (Red) turn
-ZetaAI (Red) placed a Square piece at column 6 after 12ms
+ZetaAI (Red) placed a Square piece at column 6 after 10ms
 ...Rw..
 ...www.
 ...RwR.

@@ -34,7 +34,7 @@ ZetaAI (White) placed a Round piece at column 8 after 134ms
 ........w...
 
 Thonk Tank (Red) turn
-5103
+5117
 depth = 2
 Thonk Tank (Red) placed a Square piece at column 5 after 270ms
 ............

@@ -19,7 +19,7 @@
 ............
 
 Thonk Tank (White) turn
-5241
+5114
 depth = 2
 Thonk Tank (White) placed a Round piece at column 6 after 270ms
 ............
@@ -37,7 +37,7 @@ Thonk Tank (White) placed a Round piece at column 6 after 270ms
 
 NegamaxABH01D3 (Red) turn
 Did 1536 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 6 after 78ms
+NegamaxABH01D3 (Red) placed a Square piece at column 6 after 77ms
 ............
 ............
 ............
@@ -52,7 +52,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 6 after 78ms
 ......w.....
 
 Thonk Tank (White) turn
-5167
+5154
 depth = 2
 Thonk Tank (White) placed a Round piece at column 0 after 270ms
 ............
@@ -70,7 +70,7 @@ w.....w.....
 
 NegamaxABH01D3 (Red) turn
 Did 1973 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 0 after 103ms
+NegamaxABH01D3 (Red) placed a Square piece at column 0 after 102ms
 ............
 ............
 ............
@@ -85,7 +85,7 @@ R.....R.....
 w.....w.....
 
 Thonk Tank (White) turn
-4836
+4860
 depth = 2
 Thonk Tank (White) placed a Round piece at column 1 after 270ms
 ............
@@ -118,7 +118,7 @@ RR....R.....
 ww....w.....
 
 Thonk Tank (White) turn
-4795
+4840
 depth = 2
 Thonk Tank (White) placed a Round piece at column 2 after 270ms
 ............
@@ -136,7 +136,7 @@ www...w.....
 
 NegamaxABH01D3 (Red) turn
 Did 1349 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 2 after 73ms
+NegamaxABH01D3 (Red) placed a Square piece at column 2 after 72ms
 ............
 ............
 ............
@@ -151,7 +151,7 @@ RRR...R.....
 www...w.....
 
 Thonk Tank (White) turn
-4841
+4855
 depth = 2
 Thonk Tank (White) placed a Round piece at column 3 after 270ms
 ............
@@ -169,7 +169,7 @@ wwww..w.....
 
 NegamaxABH01D3 (Red) turn
 Did 1554 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 3 after 85ms
+NegamaxABH01D3 (Red) placed a Square piece at column 3 after 84ms
 ............
 ............
 ............
@@ -184,7 +184,7 @@ RRRR..R.....
 wwww..w.....
 
 Thonk Tank (White) turn
-5030
+5070
 depth = 3
 Thonk Tank (White) placed a Round piece at column 5 after 270ms
 ............
@@ -217,7 +217,7 @@ RRRR..R.....
 wwwwRww.....
 
 Thonk Tank (White) turn
-4724
+4775
 depth = 2
 Thonk Tank (White) placed a Round piece at column 4 after 270ms
 ............
@@ -250,7 +250,7 @@ RRRRw.R.....
 wwwwRww.....
 
 Thonk Tank (White) turn
-4427
+4462
 depth = 2
 Thonk Tank (White) placed a Round piece at column 5 after 270ms
 ............
@@ -283,7 +283,7 @@ RRRRwwR.....
 wwwwRww.....
 
 Thonk Tank (White) turn
-4389
+4408
 depth = 2
 Thonk Tank (White) placed a Round piece at column 3 after 270ms
 ............
@@ -301,7 +301,7 @@ wwwwRww.....
 
 NegamaxABH01D3 (Red) turn
 Did 2056 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 5 after 119ms
+NegamaxABH01D3 (Red) placed a Square piece at column 5 after 120ms
 ............
 ............
 ............
@@ -334,7 +334,7 @@ wwwwRww....w
 
 NegamaxABH01D3 (Red) turn
 Did 2291 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 7 after 136ms
+NegamaxABH01D3 (Red) placed a Square piece at column 7 after 137ms
 ............
 ............
 ............
@@ -367,7 +367,7 @@ wwwwRwwR...w
 
 NegamaxABH01D3 (Red) turn
 Did 1856 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 11 after 112ms
+NegamaxABH01D3 (Red) placed a Square piece at column 11 after 113ms
 ............
 ............
 ............
@@ -400,7 +400,7 @@ wwwwRwwR...w
 
 NegamaxABH01D3 (Red) turn
 Did 2029 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 4 after 124ms
+NegamaxABH01D3 (Red) placed a Square piece at column 4 after 126ms
 ............
 ............
 ............
@@ -433,7 +433,7 @@ wwwwRwwRw..w
 
 NegamaxABH01D3 (Red) turn
 Did 2208 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 6 after 138ms
+NegamaxABH01D3 (Red) placed a Square piece at column 6 after 140ms
 ............
 ............
 ............
@@ -448,7 +448,7 @@ RRRRwwRw...w
 wwwwRwwRw..w
 
 Thonk Tank (White) turn
-3945
+3900
 depth = 2
 Thonk Tank (White) placed a Round piece at column 8 after 270ms
 ............
@@ -466,7 +466,7 @@ wwwwRwwRw..w
 
 NegamaxABH01D3 (Red) turn
 Did 3195 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 7 after 203ms
+NegamaxABH01D3 (Red) placed a Square piece at column 7 after 206ms
 ............
 ............
 ............
@@ -481,7 +481,7 @@ RRRRwwRww..w
 wwwwRwwRw..w
 
 Thonk Tank (White) turn
-3939
+3925
 depth = 2
 Thonk Tank (White) placed a Round piece at column 8 after 270ms
 ............
@@ -499,7 +499,7 @@ wwwwRwwRw..w
 
 NegamaxABH01D3 (Red) turn
 Did 2874 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 8 after 185ms
+NegamaxABH01D3 (Red) placed a Square piece at column 8 after 188ms
 ............
 ............
 ............
@@ -514,7 +514,7 @@ RRRRwwRww..w
 wwwwRwwRw..w
 
 Thonk Tank (White) turn
-4040
+4008
 depth = 2
 Thonk Tank (White) placed a Round piece at column 10 after 270ms
 ............
@@ -532,7 +532,7 @@ wwwwRwwRw.ww
 
 NegamaxABH01D3 (Red) turn
 Did 2604 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 4 after 171ms
+NegamaxABH01D3 (Red) placed a Square piece at column 4 after 172ms
 ............
 ............
 ............
@@ -565,7 +565,7 @@ wwwwRwwRw.ww
 
 NegamaxABH01D3 (Red) turn
 Did 2244 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 3 after 148ms
+NegamaxABH01D3 (Red) placed a Square piece at column 3 after 151ms
 ............
 ............
 ............
@@ -580,7 +580,7 @@ RRRRwwRww.ww
 wwwwRwwRw.ww
 
 Thonk Tank (White) turn
-3906
+3844
 depth = 2
 Thonk Tank (White) placed a Round piece at column 10 after 270ms
 ............
@@ -598,7 +598,7 @@ wwwwRwwRw.ww
 
 NegamaxABH01D3 (Red) turn
 Did 2688 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 6 after 178ms
+NegamaxABH01D3 (Red) placed a Square piece at column 6 after 183ms
 ............
 ............
 ............
@@ -613,7 +613,7 @@ RRRRwwRww.ww
 wwwwRwwRw.ww
 
 Thonk Tank (White) turn
-3642
+3596
 depth = 3
 Thonk Tank (White) placed a Round piece at column 7 after 270ms
 ............
@@ -631,7 +631,7 @@ wwwwRwwRw.ww
 
 NegamaxABH01D3 (Red) turn
 Did 2738 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 6 after 183ms
+NegamaxABH01D3 (Red) placed a Square piece at column 6 after 188ms
 ............
 ............
 ............
@@ -646,7 +646,7 @@ RRRRwwRww.ww
 wwwwRwwRw.ww
 
 Thonk Tank (White) turn
-3958
+3922
 depth = 2
 Thonk Tank (White) placed a Round piece at column 10 after 270ms
 ............
@@ -664,7 +664,7 @@ wwwwRwwRw.ww
 
 NegamaxABH01D3 (Red) turn
 Did 3294 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 10 after 224ms
+NegamaxABH01D3 (Red) placed a Square piece at column 10 after 232ms
 ............
 ............
 ............
@@ -679,7 +679,7 @@ RRRRwwRww.ww
 wwwwRwwRw.ww
 
 Thonk Tank (White) turn
-3689
+3657
 depth = 2
 Thonk Tank (White) placed a Round piece at column 8 after 270ms
 ............
@@ -697,7 +697,7 @@ wwwwRwwRw.ww
 
 NegamaxABH01D3 (Red) turn
 Did 2298 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 3 after 159ms
+NegamaxABH01D3 (Red) placed a Square piece at column 3 after 165ms
 ............
 ............
 ............
@@ -712,7 +712,7 @@ RRRRwwRww.ww
 wwwwRwwRw.ww
 
 Thonk Tank (White) turn
-3693
+3675
 depth = 2
 Thonk Tank (White) placed a Round piece at column 0 after 270ms
 ............
@@ -730,7 +730,7 @@ wwwwRwwRw.ww
 
 NegamaxABH01D3 (Red) turn
 Did 2515 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 7 after 176ms
+NegamaxABH01D3 (Red) placed a Square piece at column 7 after 183ms
 ............
 ............
 ............
@@ -745,7 +745,7 @@ RRRRwwRww.ww
 wwwwRwwRw.ww
 
 Thonk Tank (White) turn
-3721
+3661
 depth = 2
 Thonk Tank (White) placed a Round piece at column 7 after 270ms
 ............
@@ -763,7 +763,7 @@ wwwwRwwRw.ww
 
 NegamaxABH01D3 (Red) turn
 Did 2437 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 5 after 174ms
+NegamaxABH01D3 (Red) placed a Square piece at column 5 after 181ms
 ............
 ............
 ............
@@ -778,7 +778,7 @@ RRRRwwRww.ww
 wwwwRwwRw.ww
 
 Thonk Tank (White) turn
-3735
+3680
 depth = 2
 Thonk Tank (White) placed a Round piece at column 3 after 270ms
 ............
@@ -811,7 +811,7 @@ RRRRwwRww.ww
 wwwwRwwRw.ww
 
 Thonk Tank (White) turn
-3628
+3567
 depth = 2
 Thonk Tank (White) placed a Round piece at column 4 after 270ms
 ............
@@ -844,9 +844,9 @@ RRRRwwRww.ww
 wwwwRwwRw.ww
 
 Thonk Tank (White) turn
-3558
+3501
 depth = 2
-Thonk Tank (White) placed a Round piece at column 3 after 270ms
+Thonk Tank (White) placed a Round piece at column 3 after 271ms
 ............
 ............
 ............
@@ -862,7 +862,7 @@ wwwwRwwRw.ww
 
 NegamaxABH01D3 (Red) turn
 Did 2426 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 7 after 189ms
+NegamaxABH01D3 (Red) placed a Square piece at column 7 after 190ms
 ............
 ............
 ............
@@ -877,7 +877,7 @@ RRRRwwRww.ww
 wwwwRwwRw.ww
 
 Thonk Tank (White) turn
-3493
+3413
 depth = 2
 Thonk Tank (White) placed a Round piece at column 0 after 270ms
 ............
@@ -895,7 +895,7 @@ wwwwRwwRw.ww
 
 NegamaxABH01D3 (Red) turn
 Did 1995 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 0 after 153ms
+NegamaxABH01D3 (Red) placed a Square piece at column 0 after 159ms
 ............
 ............
 ............
@@ -910,7 +910,7 @@ RRRRwwRww.ww
 wwwwRwwRw.ww
 
 Thonk Tank (White) turn
-3793
+3739
 depth = 2
 Thonk Tank (White) placed a Round piece at column 0 after 270ms
 ............
@@ -928,7 +928,7 @@ wwwwRwwRw.ww
 
 NegamaxABH01D3 (Red) turn
 Did 2698 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 4 after 209ms
+NegamaxABH01D3 (Red) placed a Square piece at column 4 after 219ms
 ............
 ............
 ............
@@ -943,7 +943,7 @@ RRRRwwRww.ww
 wwwwRwwRw.ww
 
 Thonk Tank (White) turn
-3761
+3658
 depth = 2
 Thonk Tank (White) placed a Round piece at column 4 after 270ms
 ............
@@ -961,7 +961,7 @@ wwwwRwwRw.ww
 
 NegamaxABH01D3 (Red) turn
 Did 2707 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 3 after 214ms
+NegamaxABH01D3 (Red) placed a Square piece at column 3 after 223ms
 ............
 ............
 ............
@@ -976,7 +976,7 @@ RRRRwwRww.ww
 wwwwRwwRw.ww
 
 Thonk Tank (White) turn
-3711
+3636
 depth = 2
 Thonk Tank (White) placed a Round piece at column 0 after 270ms
 ............
@@ -994,7 +994,7 @@ wwwwRwwRw.ww
 
 NegamaxABH01D3 (Red) turn
 Did 2025 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 0 after 162ms
+NegamaxABH01D3 (Red) placed a Square piece at column 0 after 170ms
 ............
 ............
 ............
@@ -1009,9 +1009,9 @@ RRRRwwRww.ww
 wwwwRwwRw.ww
 
 Thonk Tank (White) turn
-3798
+3683
 depth = 2
-Thonk Tank (White) placed a Round piece at column 3 after 271ms
+Thonk Tank (White) placed a Round piece at column 3 after 270ms
 ............
 ............
 ............
@@ -1027,7 +1027,7 @@ wwwwRwwRw.ww
 
 NegamaxABH01D3 (Red) turn
 Did 2774 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 7 after 227ms
+NegamaxABH01D3 (Red) placed a Square piece at column 7 after 237ms
 ............
 ............
 ............
@@ -1042,7 +1042,7 @@ RRRRwwRww.ww
 wwwwRwwRw.ww
 
 Thonk Tank (White) turn
-3292
+3233
 depth = 2
 Thonk Tank (White) placed a Round piece at column 3 after 270ms
 ............
@@ -1060,7 +1060,7 @@ wwwwRwwRw.ww
 
 NegamaxABH01D3 (Red) turn
 Did 2833 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 7 after 237ms
+NegamaxABH01D3 (Red) placed a Square piece at column 7 after 247ms
 ............
 ............
 ...w........
@@ -1075,7 +1075,7 @@ RRRRwwRww.ww
 wwwwRwwRw.ww
 
 Thonk Tank (White) turn
-3343
+3208
 depth = 2
 Thonk Tank (White) placed a Round piece at column 7 after 270ms
 ............
@@ -1093,7 +1093,7 @@ wwwwRwwRw.ww
 
 NegamaxABH01D3 (Red) turn
 Did 2628 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 4 after 227ms
+NegamaxABH01D3 (Red) placed a Square piece at column 4 after 234ms
 ............
 ............
 ...wR..w....
@@ -1108,9 +1108,9 @@ RRRRwwRww.ww
 wwwwRwwRw.ww
 
 Thonk Tank (White) turn
-3201
+3140
 depth = 2
-Thonk Tank (White) placed a Round piece at column 4 after 270ms
+Thonk Tank (White) placed a Round piece at column 4 after 271ms
 ............
 ....w.......
 ...wR..w....
@@ -1126,7 +1126,7 @@ wwwwRwwRw.ww
 
 NegamaxABH01D3 (Red) turn
 Did 2888 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 10 after 250ms
+NegamaxABH01D3 (Red) placed a Square piece at column 10 after 260ms
 ............
 ....w.......
 ...wR..w....
@@ -1141,9 +1141,9 @@ RRRRwwRww.ww
 wwwwRwwRw.ww
 
 Thonk Tank (White) turn
-3336
+3280
 depth = 2
-Thonk Tank (White) placed a Round piece at column 0 after 270ms
+Thonk Tank (White) placed a Round piece at column 0 after 271ms
 ............
 ....w.......
 ...wR..w....
@@ -1159,7 +1159,7 @@ wwwwRwwRw.ww
 
 NegamaxABH01D3 (Red) turn
 Did 968 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 6 after 83ms
+NegamaxABH01D3 (Red) placed a Square piece at column 6 after 87ms
 ............
 ....w.......
 ...wR..w....

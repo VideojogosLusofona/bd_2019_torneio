@@ -194,7 +194,7 @@ NegamaxABH01D3 (White) placed a Round piece at column 0 after 0ms
 ww.wRwR
 
 ZetaAI (Red) turn
-ZetaAI (Red) placed a Round piece at column 0 after 8ms
+ZetaAI (Red) placed a Round piece at column 0 after 7ms
 ...RR..
 ...wR..
 ...Rww.
@@ -213,7 +213,7 @@ r..Rww.
 ww.wRwR
 
 ZetaAI (Red) turn
-ZetaAI (Red) placed a Round piece at column 0 after 7ms
+ZetaAI (Red) placed a Round piece at column 0 after 6ms
 ...RR..
 ...wR..
 r..Rww.

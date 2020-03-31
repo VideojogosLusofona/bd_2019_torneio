@@ -25,7 +25,7 @@
 ......................
 
 Thonk Tank (White) turn
-4907
+4864
 depth = 2
 Thonk Tank (White) placed a Round piece at column 8 after 495ms
 ......................
