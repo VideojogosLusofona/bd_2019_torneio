@@ -1,0 +1,169 @@
+=> UwU (White) vs ZetaAI (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+UwU (White) turn
+UwU (White) placed a Round piece at column 3 after 8ms
+.......
+.......
+.......
+.......
+.......
+...w...
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 4 after 30ms
+.......
+.......
+.......
+.......
+.......
+...wR..
+
+UwU (White) turn
+UwU (White) placed a Round piece at column 3 after 7ms
+.......
+.......
+.......
+.......
+...w...
+...wR..
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 4 after 31ms
+.......
+.......
+.......
+.......
+...wR..
+...wR..
+
+UwU (White) turn
+UwU (White) placed a Round piece at column 4 after 9ms
+.......
+.......
+.......
+....w..
+...wR..
+...wR..
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 4 after 35ms
+.......
+.......
+....R..
+....w..
+...wR..
+...wR..
+
+UwU (White) turn
+UwU (White) placed a Round piece at column 4 after 10ms
+.......
+....w..
+....R..
+....w..
+...wR..
+...wR..
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 4 after 29ms
+....R..
+....w..
+....R..
+....w..
+...wR..
+...wR..
+
+UwU (White) turn
+UwU (White) placed a Round piece at column 2 after 7ms
+....R..
+....w..
+....R..
+....w..
+...wR..
+..wwR..
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 2 after 15ms
+....R..
+....w..
+....R..
+....w..
+..RwR..
+..wwR..
+
+UwU (White) turn
+UwU (White) placed a Round piece at column 1 after 12ms
+....R..
+....w..
+....R..
+....w..
+..RwR..
+.wwwR..
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 0 after 3ms
+....R..
+....w..
+....R..
+....w..
+..RwR..
+RwwwR..
+
+UwU (White) turn
+UwU (White) placed a Round piece at column 2 after 8ms
+....R..
+....w..
+....R..
+..w.w..
+..RwR..
+RwwwR..
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 1 after 16ms
+....R..
+....w..
+....R..
+..w.w..
+.RRwR..
+RwwwR..
+
+UwU (White) turn
+UwU (White) placed a Round piece at column 3 after 4ms
+....R..
+....w..
+....R..
+..www..
+.RRwR..
+RwwwR..
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Round piece at column 0 after 7ms
+....R..
+....w..
+....R..
+..www..
+rRRwR..
+RwwwR..
+
+UwU (White) turn
+UwU (White) placed a Round piece at column 3 after 0ms
+....R..
+....w..
+...wR..
+..www..
+rRRwR..
+RwwwR..
+
+Winner is UwU (White)
+Solution=(0,3)(1,3)(2,3)(3,3)

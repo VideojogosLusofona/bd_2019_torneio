@@ -1,0 +1,268 @@
+=> GLaDOS2019 (White) vs ZetaAI (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+GLaDOS2019 (White) turn
+GLaDOS2019 (White) placed a Round piece at column 3 after 4ms
+.......
+.......
+.......
+.......
+.......
+...w...
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 4 after 33ms
+.......
+.......
+.......
+.......
+.......
+...wR..
+
+GLaDOS2019 (White) turn
+GLaDOS2019 (White) placed a Round piece at column 4 after 2ms
+.......
+.......
+.......
+.......
+....w..
+...wR..
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 4 after 28ms
+.......
+.......
+.......
+....R..
+....w..
+...wR..
+
+GLaDOS2019 (White) turn
+GLaDOS2019 (White) placed a Round piece at column 3 after 2ms
+.......
+.......
+.......
+....R..
+...ww..
+...wR..
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 3 after 23ms
+.......
+.......
+.......
+...RR..
+...ww..
+...wR..
+
+GLaDOS2019 (White) turn
+GLaDOS2019 (White) placed a Round piece at column 4 after 2ms
+.......
+.......
+....w..
+...RR..
+...ww..
+...wR..
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 3 after 35ms
+.......
+.......
+...Rw..
+...RR..
+...ww..
+...wR..
+
+GLaDOS2019 (White) turn
+GLaDOS2019 (White) placed a Round piece at column 3 after 2ms
+.......
+...w...
+...Rw..
+...RR..
+...ww..
+...wR..
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 3 after 34ms
+...R...
+...w...
+...Rw..
+...RR..
+...ww..
+...wR..
+
+GLaDOS2019 (White) turn
+GLaDOS2019 (White) placed a Round piece at column 4 after 2ms
+...R...
+...ww..
+...Rw..
+...RR..
+...ww..
+...wR..
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 5 after 21ms
+...R...
+...ww..
+...Rw..
+...RR..
+...ww..
+...wRR.
+
+GLaDOS2019 (White) turn
+GLaDOS2019 (White) placed a Round piece at column 4 after 2ms
+...Rw..
+...ww..
+...Rw..
+...RR..
+...ww..
+...wRR.
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 6 after 19ms
+...Rw..
+...ww..
+...Rw..
+...RR..
+...ww..
+...wRRR
+
+GLaDOS2019 (White) turn
+GLaDOS2019 (White) placed a Round piece at column 5 after 1ms
+...Rw..
+...ww..
+...Rw..
+...RR..
+...www.
+...wRRR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 6 after 13ms
+...Rw..
+...ww..
+...Rw..
+...RR..
+...wwwR
+...wRRR
+
+GLaDOS2019 (White) turn
+GLaDOS2019 (White) placed a Round piece at column 5 after 1ms
+...Rw..
+...ww..
+...Rw..
+...RRw.
+...wwwR
+...wRRR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 5 after 14ms
+...Rw..
+...ww..
+...RwR.
+...RRw.
+...wwwR
+...wRRR
+
+GLaDOS2019 (White) turn
+GLaDOS2019 (White) placed a Round piece at column 5 after 1ms
+...Rw..
+...www.
+...RwR.
+...RRw.
+...wwwR
+...wRRR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 6 after 11ms
+...Rw..
+...www.
+...RwR.
+...RRwR
+...wwwR
+...wRRR
+
+GLaDOS2019 (White) turn
+GLaDOS2019 (White) placed a Square piece at column 0 after 1ms
+...Rw..
+...www.
+...RwR.
+...RRwR
+...wwwR
+W..wRRR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Round piece at column 0 after 3ms
+...Rw..
+...www.
+...RwR.
+...RRwR
+r..wwwR
+W..wRRR
+
+GLaDOS2019 (White) turn
+GLaDOS2019 (White) placed a Square piece at column 0 after 1ms
+...Rw..
+...www.
+...RwR.
+W..RRwR
+r..wwwR
+W..wRRR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Round piece at column 0 after 3ms
+...Rw..
+...www.
+r..RwR.
+W..RRwR
+r..wwwR
+W..wRRR
+
+GLaDOS2019 (White) turn
+GLaDOS2019 (White) placed a Square piece at column 0 after 1ms
+...Rw..
+W..www.
+r..RwR.
+W..RRwR
+r..wwwR
+W..wRRR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Round piece at column 0 after 2ms
+r..Rw..
+W..www.
+r..RwR.
+W..RRwR
+r..wwwR
+W..wRRR
+
+GLaDOS2019 (White) turn
+GLaDOS2019 (White) placed a Square piece at column 1 after 0ms
+r..Rw..
+W..www.
+r..RwR.
+W..RRwR
+r..wwwR
+WW.wRRR
+
+ZetaAI (Red) turn
+ZetaAI (Red) placed a Square piece at column 6 after 1ms
+r..Rw..
+W..www.
+r..RwRR
+W..RRwR
+r..wwwR
+WW.wRRR
+
+Winner is ZetaAI (Red)
+Solution=(0,6)(1,6)(2,6)(3,6)
