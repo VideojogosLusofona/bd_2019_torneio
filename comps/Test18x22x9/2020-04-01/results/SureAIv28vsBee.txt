@@ -26,7 +26,7 @@
 
 SureAIv28 (White) turn
 depth = 3
-Did 2140 evals
+Did 2142 evals
 SureAIv28 (White) placed a Round piece at column 10 after 536ms
 ......................
 ......................
@@ -48,7 +48,7 @@ SureAIv28 (White) placed a Round piece at column 10 after 536ms
 ..........w...........
 
 Bee (Red) turn
-Iterations: 8339
+Iterations: 8317
 Bee (Red) loses match! Reason: Time limit expired
 ......................
 ......................

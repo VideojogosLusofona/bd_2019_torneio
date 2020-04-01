@@ -13,118 +13,213 @@
 .......
 
 Random (White) turn
-Random (White) placed a Square piece at column 2 after 0ms
+Random (White) placed a Round piece at column 6 after 0ms
 .......
 .......
 .......
 .......
 .......
-..W....
+......w
 
 NegamaxABH01D3 (Red) turn
-Did 667 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 4 after 12ms
+Did 786 total evals
+NegamaxABH01D3 (Red) placed a Square piece at column 6 after 14ms
 .......
 .......
 .......
 .......
-.......
-..W.R..
+......R
+......w
 
 Random (White) turn
-Random (White) placed a Round piece at column 0 after 0ms
+Random (White) placed a Round piece at column 2 after 0ms
 .......
 .......
 .......
 .......
-.......
-w.W.R..
+......R
+..w...w
 
 NegamaxABH01D3 (Red) turn
-Did 400 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 3 after 12ms
+Did 589 total evals
+NegamaxABH01D3 (Red) placed a Square piece at column 2 after 11ms
 .......
 .......
 .......
 .......
-.......
-w.WRR..
+..R...R
+..w...w
 
 Random (White) turn
-Random (White) placed a Square piece at column 0 after 0ms
+Random (White) placed a Round piece at column 5 after 0ms
 .......
 .......
 .......
 .......
-W......
-w.WRR..
+..R...R
+..w..ww
 
 NegamaxABH01D3 (Red) turn
-Did 72 total evals
-NegamaxABH01D3 (Red) placed a Round piece at column 0 after 1ms
+Did 842 total evals
+NegamaxABH01D3 (Red) placed a Square piece at column 5 after 16ms
 .......
 .......
 .......
-r......
-W......
-w.WRR..
+.......
+..R..RR
+..w..ww
+
+Random (White) turn
+Random (White) placed a Square piece at column 3 after 0ms
+.......
+.......
+.......
+.......
+..R..RR
+..wW.ww
+
+NegamaxABH01D3 (Red) turn
+Did 967 total evals
+NegamaxABH01D3 (Red) placed a Square piece at column 4 after 19ms
+.......
+.......
+.......
+.......
+..R..RR
+..wWRww
 
 Random (White) turn
 Random (White) placed a Round piece at column 4 after 0ms
 .......
 .......
 .......
-r......
-W...w..
-w.WRR..
+.......
+..R.wRR
+..wWRww
 
 NegamaxABH01D3 (Red) turn
-Did 72 total evals
-NegamaxABH01D3 (Red) placed a Round piece at column 0 after 1ms
+Did 722 total evals
+NegamaxABH01D3 (Red) placed a Square piece at column 4 after 15ms
 .......
 .......
-r......
-r......
-W...w..
-w.WRR..
+.......
+....R..
+..R.wRR
+..wWRww
 
 Random (White) turn
-Random (White) placed a Round piece at column 3 after 0ms
+Random (White) placed a Square piece at column 4 after 0ms
 .......
 .......
-r......
-r......
-W..ww..
-w.WRR..
+....W..
+....R..
+..R.wRR
+..wWRww
 
 NegamaxABH01D3 (Red) turn
-Did 32 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 0 after 0ms
+Did 754 total evals
+NegamaxABH01D3 (Red) placed a Square piece at column 5 after 16ms
 .......
-R......
-r......
-r......
-W..ww..
-w.WRR..
+.......
+....W..
+....RR.
+..R.wRR
+..wWRww
+
+Random (White) turn
+Random (White) placed a Square piece at column 5 after 0ms
+.......
+.......
+....WW.
+....RR.
+..R.wRR
+..wWRww
+
+NegamaxABH01D3 (Red) turn
+Did 1415 total evals
+NegamaxABH01D3 (Red) placed a Square piece at column 4 after 30ms
+.......
+....R..
+....WW.
+....RR.
+..R.wRR
+..wWRww
 
 Random (White) turn
 Random (White) placed a Square piece at column 6 after 0ms
 .......
-R......
-r......
-r......
-W..ww..
-w.WRR.W
+....R..
+....WW.
+....RRW
+..R.wRR
+..wWRww
+
+NegamaxABH01D3 (Red) turn
+Did 132 total evals
+NegamaxABH01D3 (Red) placed a Round piece at column 0 after 2ms
+.......
+....R..
+....WW.
+....RRW
+..R.wRR
+r.wWRww
+
+Random (White) turn
+Random (White) placed a Square piece at column 3 after 0ms
+.......
+....R..
+....WW.
+....RRW
+..RWwRR
+r.wWRww
+
+NegamaxABH01D3 (Red) turn
+Did 106 total evals
+NegamaxABH01D3 (Red) placed a Round piece at column 0 after 2ms
+.......
+....R..
+....WW.
+....RRW
+r.RWwRR
+r.wWRww
+
+Random (White) turn
+Random (White) placed a Round piece at column 4 after 0ms
+....w..
+....R..
+....WW.
+....RRW
+r.RWwRR
+r.wWRww
+
+NegamaxABH01D3 (Red) turn
+Did 40 total evals
+NegamaxABH01D3 (Red) placed a Square piece at column 0 after 0ms
+....w..
+....R..
+....WW.
+R...RRW
+r.RWwRR
+r.wWRww
+
+Random (White) turn
+Random (White) placed a Round piece at column 3 after 0ms
+....w..
+....R..
+....WW.
+R..wRRW
+r.RWwRR
+r.wWRww
 
 NegamaxABH01D3 (Red) turn
 Did 2 total evals
 NegamaxABH01D3 (Red) placed a Round piece at column 0 after 0ms
-r......
-R......
-r......
-r......
-W..ww..
-w.WRR.W
+....w..
+....R..
+r...WW.
+R..wRRW
+r.RWwRR
+r.wWRww
 
 Winner is NegamaxABH01D3 (Red)
-Solution=(2,0)(3,0)(4,0)(5,0)
+Solution=(0,0)(1,0)(2,0)(3,0)

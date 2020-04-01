@@ -13,7 +13,7 @@
 .......
 
 Thonk Tank V3 (White) turn
-6415
+6445
 depth = 3
 Thonk Tank V3 (White) placed a Round piece at column 3 after 180ms
 .......
@@ -53,7 +53,7 @@ UwU (Red) placed a Square piece at column 2 after 9ms
 ..ww...
 
 Thonk Tank V3 (White) turn
-5761
+5573
 depth = 5
 Thonk Tank V3 (White) placed a Square piece at column 4 after 180ms
 .......

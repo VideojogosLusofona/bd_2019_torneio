@@ -13,7 +13,7 @@
 .......
 
 Bee (White) turn
-Iterations: 10233
+Iterations: 10446
 Bee (White) placed a Round piece at column 2 after 175ms
 .......
 .......
@@ -24,7 +24,7 @@ Bee (White) placed a Round piece at column 2 after 175ms
 
 BigBrainD3 (Red) turn
 Heuristic: ShapeHeuristic Color: Red numEvals: 688
-BigBrainD3 (Red) placed a Square piece at column 2 after 13ms
+BigBrainD3 (Red) placed a Square piece at column 2 after 10ms
 .......
 .......
 .......
@@ -33,7 +33,7 @@ BigBrainD3 (Red) placed a Square piece at column 2 after 13ms
 ..w....
 
 Bee (White) turn
-Iterations: 10300
+Iterations: 10238
 Bee (White) placed a Round piece at column 2 after 174ms
 .......
 .......
@@ -44,7 +44,7 @@ Bee (White) placed a Round piece at column 2 after 174ms
 
 BigBrainD3 (Red) turn
 Heuristic: ShapeHeuristic Color: Red numEvals: 835
-BigBrainD3 (Red) placed a Square piece at column 2 after 13ms
+BigBrainD3 (Red) placed a Square piece at column 2 after 14ms
 .......
 .......
 ..R....
@@ -53,7 +53,7 @@ BigBrainD3 (Red) placed a Square piece at column 2 after 13ms
 ..w....
 
 Bee (White) turn
-Iterations: 10359
+Iterations: 10352
 Bee (White) placed a Round piece at column 2 after 174ms
 .......
 ..w....
@@ -64,7 +64,7 @@ Bee (White) placed a Round piece at column 2 after 174ms
 
 BigBrainD3 (Red) turn
 Heuristic: ShapeHeuristic Color: Red numEvals: 639
-BigBrainD3 (Red) placed a Square piece at column 2 after 14ms
+BigBrainD3 (Red) placed a Square piece at column 2 after 10ms
 ..R....
 ..w....
 ..R....
@@ -73,7 +73,7 @@ BigBrainD3 (Red) placed a Square piece at column 2 after 14ms
 ..w....
 
 Bee (White) turn
-Iterations: 11660
+Iterations: 11648
 Bee (White) placed a Round piece at column 4 after 173ms
 ..R....
 ..w....
@@ -84,7 +84,7 @@ Bee (White) placed a Round piece at column 4 after 173ms
 
 BigBrainD3 (Red) turn
 Heuristic: ShapeHeuristic Color: Red numEvals: 617
-BigBrainD3 (Red) placed a Square piece at column 4 after 11ms
+BigBrainD3 (Red) placed a Square piece at column 4 after 10ms
 ..R....
 ..w....
 ..R....
@@ -93,7 +93,7 @@ BigBrainD3 (Red) placed a Square piece at column 4 after 11ms
 ..w.w..
 
 Bee (White) turn
-Iterations: 11576
+Iterations: 11704
 Bee (White) placed a Round piece at column 4 after 173ms
 ..R....
 ..w....
@@ -104,7 +104,7 @@ Bee (White) placed a Round piece at column 4 after 173ms
 
 BigBrainD3 (Red) turn
 Heuristic: ShapeHeuristic Color: Red numEvals: 774
-BigBrainD3 (Red) placed a Square piece at column 4 after 14ms
+BigBrainD3 (Red) placed a Square piece at column 4 after 13ms
 ..R....
 ..w....
 ..R.R..
@@ -113,7 +113,7 @@ BigBrainD3 (Red) placed a Square piece at column 4 after 14ms
 ..w.w..
 
 Bee (White) turn
-Iterations: 11718
+Iterations: 11782
 Bee (White) placed a Round piece at column 4 after 172ms
 ..R....
 ..w.w..
@@ -133,8 +133,8 @@ BigBrainD3 (Red) placed a Square piece at column 4 after 8ms
 ..w.w..
 
 Bee (White) turn
-Iterations: 11782
-Bee (White) placed a Round piece at column 5 after 172ms
+Iterations: 11888
+Bee (White) placed a Round piece at column 5 after 171ms
 ..R.R..
 ..w.w..
 ..R.R..
@@ -153,7 +153,7 @@ BigBrainD3 (Red) placed a Square piece at column 3 after 4ms
 ..wRww.
 
 Bee (White) turn
-Iterations: 11206
+Iterations: 11297
 Bee (White) placed a Round piece at column 5 after 172ms
 ..R.R..
 ..w.w..
@@ -164,7 +164,7 @@ Bee (White) placed a Round piece at column 5 after 172ms
 
 BigBrainD3 (Red) turn
 Heuristic: ShapeHeuristic Color: Red numEvals: 435
-BigBrainD3 (Red) placed a Square piece at column 3 after 9ms
+BigBrainD3 (Red) placed a Square piece at column 3 after 7ms
 ..R.R..
 ..w.w..
 ..R.R..
@@ -173,7 +173,7 @@ BigBrainD3 (Red) placed a Square piece at column 3 after 9ms
 ..wRww.
 
 Bee (White) turn
-Iterations: 10769
+Iterations: 10814
 Bee (White) placed a Round piece at column 5 after 172ms
 ..R.R..
 ..w.w..

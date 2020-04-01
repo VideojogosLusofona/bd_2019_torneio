@@ -26,7 +26,7 @@
 
 SureAIv28 (White) turn
 depth = 3
-Did 2144 evals
+Did 2142 evals
 SureAIv28 (White) placed a Round piece at column 10 after 536ms
 ......................
 ......................
@@ -48,7 +48,7 @@ SureAIv28 (White) placed a Round piece at column 10 after 536ms
 ..........w...........
 
 BigBrainD3 (Red) turn
-Heuristic: ShapeHeuristic Color: Red numEvals: 5810
+Heuristic: ShapeHeuristic Color: Red numEvals: 5800
 BigBrainD3 (Red) loses match! Reason: Time limit expired
 ......................
 ......................

@@ -19,7 +19,7 @@
 ............
 
 Thonk Tank V3 (White) turn
-4516
+4534
 depth = 2
 Thonk Tank V3 (White) placed a Round piece at column 5 after 270ms
 ............
@@ -115,7 +115,7 @@ w.r.........
 rrw..w......
 
 Thonk Tank V3 (White) turn
-4075
+4092
 depth = 2
 Thonk Tank V3 (White) placed a Round piece at column 5 after 270ms
 ............
@@ -147,7 +147,7 @@ w.r..w......
 rrwr.w......
 
 Thonk Tank V3 (White) turn
-4292
+4308
 depth = 2
 Thonk Tank V3 (White) placed a Round piece at column 4 after 270ms
 ............

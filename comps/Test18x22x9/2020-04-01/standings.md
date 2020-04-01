@@ -1,6 +1,6 @@
 # Standings
 
-Last update: Wed, 01 Apr 2020 02:53:24 GMT
+Last update: Wed, 01 Apr 2020 18:26:30 GMT
 
 ## Configuration
 
@@ -21,14 +21,14 @@ Last update: Wed, 01 Apr 2020 02:53:24 GMT
 | 2 | GLaDOS2019 | 57 |
 | 3 | Thonk Tank V3 | 57 |
 | 4 | MinimaxD2 | 42 |
-| 5 | UwU | 42 |
-| 6 | BlessAID2 | 39 |
-| 7 | Sequential | 33 |
-| 8 | Random | 27 |
-| 9 | NegamaxABH01D3 | 9 |
-| 10 | Bee | 9 |
-| 11 | BigBrainD3 | 9 |
-| 12 | ZetaAI | 9 |
+| 5 | ZetaAI_pack2 | 39 |
+| 6 | UwU | 36 |
+| 7 | BlessAID2 | 36 |
+| 8 | Sequential | 27 |
+| 9 | Random | 21 |
+| 10 | NegamaxABH01D3 | 6 |
+| 11 | Bee | 6 |
+| 12 | BigBrainD3 | 6 |
 
 ## Results
 
@@ -44,8 +44,8 @@ _Winner, if any, shown in bold_
 | `Bee` | **`Random`** | [+](results/BeevsRandom.txt) |
 | **`Sequential`** | `BigBrainD3` | [+](results/SequentialvsBigBrainD3.txt) |
 | `BigBrainD3` | **`Sequential`** | [+](results/BigBrainD3vsSequential.txt) |
-| **`GLaDOS2019`** | `ZetaAI` | [+](results/GLaDOS2019vsZetaAI.txt) |
-| `ZetaAI` | **`GLaDOS2019`** | [+](results/ZetaAIvsGLaDOS2019.txt) |
+| **`GLaDOS2019`** | `ZetaAI_pack2` | [+](results/GLaDOS2019vsZetaAI_pack2.txt) |
+| `ZetaAI_pack2` | **`GLaDOS2019`** | [+](results/ZetaAI_pack2vsGLaDOS2019.txt) |
 | **`SureAIv28`** | `Thonk Tank V3` | [+](results/SureAIv28vsThonkTankV3.txt) |
 | `Thonk Tank V3` | **`SureAIv28`** | [+](results/ThonkTankV3vsSureAIv28.txt) |
 | **`MinimaxD2`** | `BlessAID2` | [+](results/MinimaxD2vsBlessAID2.txt) |
@@ -54,8 +54,8 @@ _Winner, if any, shown in bold_
 | `Bee` | **`UwU`** | [+](results/BeevsUwU.txt) |
 | `NegamaxABH01D3` | **`BigBrainD3`** | [+](results/NegamaxABH01D3vsBigBrainD3.txt) |
 | `BigBrainD3` | **`NegamaxABH01D3`** | [+](results/BigBrainD3vsNegamaxABH01D3.txt) |
-| **`Random`** | `ZetaAI` | [+](results/RandomvsZetaAI.txt) |
-| `ZetaAI` | **`Random`** | [+](results/ZetaAIvsRandom.txt) |
+| `Random` | **`ZetaAI_pack2`** | [+](results/RandomvsZetaAI_pack2.txt) |
+| **`ZetaAI_pack2`** | `Random` | [+](results/ZetaAI_pack2vsRandom.txt) |
 | `Sequential` | **`Thonk Tank V3`** | [+](results/SequentialvsThonkTankV3.txt) |
 | **`Thonk Tank V3`** | `Sequential` | [+](results/ThonkTankV3vsSequential.txt) |
 | `GLaDOS2019` | **`SureAIv28`** | [+](results/GLaDOS2019vsSureAIv28.txt) |
@@ -64,8 +64,8 @@ _Winner, if any, shown in bold_
 | `Bee` | **`MinimaxD2`** | [+](results/BeevsMinimaxD2.txt) |
 | **`BlessAID2`** | `BigBrainD3` | [+](results/BlessAID2vsBigBrainD3.txt) |
 | `BigBrainD3` | **`BlessAID2`** | [+](results/BigBrainD3vsBlessAID2.txt) |
-| **`UwU`** | `ZetaAI` | [+](results/UwUvsZetaAI.txt) |
-| `ZetaAI` | **`UwU`** | [+](results/ZetaAIvsUwU.txt) |
+| `UwU` | **`ZetaAI_pack2`** | [+](results/UwUvsZetaAI_pack2.txt) |
+| **`ZetaAI_pack2`** | `UwU` | [+](results/ZetaAI_pack2vsUwU.txt) |
 | `NegamaxABH01D3` | **`Thonk Tank V3`** | [+](results/NegamaxABH01D3vsThonkTankV3.txt) |
 | **`Thonk Tank V3`** | `NegamaxABH01D3` | [+](results/ThonkTankV3vsNegamaxABH01D3.txt) |
 | `Random` | **`SureAIv28`** | [+](results/RandomvsSureAIv28.txt) |
@@ -74,8 +74,8 @@ _Winner, if any, shown in bold_
 | **`GLaDOS2019`** | `Sequential` | [+](results/GLaDOS2019vsSequential.txt) |
 | **`MinimaxD2`** | `BigBrainD3` | [+](results/MinimaxD2vsBigBrainD3.txt) |
 | `BigBrainD3` | **`MinimaxD2`** | [+](results/BigBrainD3vsMinimaxD2.txt) |
-| `Bee` | **`ZetaAI`** | [+](results/BeevsZetaAI.txt) |
-| `ZetaAI` | **`Bee`** | [+](results/ZetaAIvsBee.txt) |
+| `Bee` | **`ZetaAI_pack2`** | [+](results/BeevsZetaAI_pack2.txt) |
+| **`ZetaAI_pack2`** | `Bee` | [+](results/ZetaAI_pack2vsBee.txt) |
 | `BlessAID2` | **`Thonk Tank V3`** | [+](results/BlessAID2vsThonkTankV3.txt) |
 | **`Thonk Tank V3`** | `BlessAID2` | [+](results/ThonkTankV3vsBlessAID2.txt) |
 | `UwU` | **`SureAIv28`** | [+](results/UwUvsSureAIv28.txt) |
@@ -84,8 +84,8 @@ _Winner, if any, shown in bold_
 | **`GLaDOS2019`** | `NegamaxABH01D3` | [+](results/GLaDOS2019vsNegamaxABH01D3.txt) |
 | **`Random`** | `Sequential` | [+](results/RandomvsSequential.txt) |
 | **`Sequential`** | `Random` | [+](results/SequentialvsRandom.txt) |
-| **`MinimaxD2`** | `ZetaAI` | [+](results/MinimaxD2vsZetaAI.txt) |
-| `ZetaAI` | **`MinimaxD2`** | [+](results/ZetaAIvsMinimaxD2.txt) |
+| **`MinimaxD2`** | `ZetaAI_pack2` | [+](results/MinimaxD2vsZetaAI_pack2.txt) |
+| `ZetaAI_pack2` | **`MinimaxD2`** | [+](results/ZetaAI_pack2vsMinimaxD2.txt) |
 | `BigBrainD3` | **`Thonk Tank V3`** | [+](results/BigBrainD3vsThonkTankV3.txt) |
 | **`Thonk Tank V3`** | `BigBrainD3` | [+](results/ThonkTankV3vsBigBrainD3.txt) |
 | `Bee` | **`SureAIv28`** | [+](results/BeevsSureAIv28.txt) |
@@ -98,8 +98,8 @@ _Winner, if any, shown in bold_
 | **`Random`** | `NegamaxABH01D3` | [+](results/RandomvsNegamaxABH01D3.txt) |
 | `MinimaxD2` | **`Thonk Tank V3`** | [+](results/MinimaxD2vsThonkTankV3.txt) |
 | **`Thonk Tank V3`** | `MinimaxD2` | [+](results/ThonkTankV3vsMinimaxD2.txt) |
-| `ZetaAI` | **`SureAIv28`** | [+](results/ZetaAIvsSureAIv28.txt) |
-| **`SureAIv28`** | `ZetaAI` | [+](results/SureAIv28vsZetaAI.txt) |
+| `ZetaAI_pack2` | **`SureAIv28`** | [+](results/ZetaAI_pack2vsSureAIv28.txt) |
+| **`SureAIv28`** | `ZetaAI_pack2` | [+](results/SureAIv28vsZetaAI_pack2.txt) |
 | `BigBrainD3` | **`GLaDOS2019`** | [+](results/BigBrainD3vsGLaDOS2019.txt) |
 | **`GLaDOS2019`** | `BigBrainD3` | [+](results/GLaDOS2019vsBigBrainD3.txt) |
 | `Bee` | **`Sequential`** | [+](results/BeevsSequential.txt) |
@@ -112,8 +112,8 @@ _Winner, if any, shown in bold_
 | **`SureAIv28`** | `MinimaxD2` | [+](results/SureAIv28vsMinimaxD2.txt) |
 | **`Thonk Tank V3`** | `GLaDOS2019` | [+](results/ThonkTankV3vsGLaDOS2019.txt) |
 | **`GLaDOS2019`** | `Thonk Tank V3` | [+](results/GLaDOS2019vsThonkTankV3.txt) |
-| `ZetaAI` | **`Sequential`** | [+](results/ZetaAIvsSequential.txt) |
-| **`Sequential`** | `ZetaAI` | [+](results/SequentialvsZetaAI.txt) |
+| **`ZetaAI_pack2`** | `Sequential` | [+](results/ZetaAI_pack2vsSequential.txt) |
+| `Sequential` | **`ZetaAI_pack2`** | [+](results/SequentialvsZetaAI_pack2.txt) |
 | `BigBrainD3` | **`Random`** | [+](results/BigBrainD3vsRandom.txt) |
 | **`Random`** | `BigBrainD3` | [+](results/RandomvsBigBrainD3.txt) |
 | `Bee` | **`NegamaxABH01D3`** | [+](results/BeevsNegamaxABH01D3.txt) |
@@ -126,8 +126,8 @@ _Winner, if any, shown in bold_
 | `Sequential` | **`SureAIv28`** | [+](results/SequentialvsSureAIv28.txt) |
 | **`Thonk Tank V3`** | `Random` | [+](results/ThonkTankV3vsRandom.txt) |
 | `Random` | **`Thonk Tank V3`** | [+](results/RandomvsThonkTankV3.txt) |
-| `ZetaAI` | **`NegamaxABH01D3`** | [+](results/ZetaAIvsNegamaxABH01D3.txt) |
-| `NegamaxABH01D3` | **`ZetaAI`** | [+](results/NegamaxABH01D3vsZetaAI.txt) |
+| **`ZetaAI_pack2`** | `NegamaxABH01D3` | [+](results/ZetaAI_pack2vsNegamaxABH01D3.txt) |
+| `NegamaxABH01D3` | **`ZetaAI_pack2`** | [+](results/NegamaxABH01D3vsZetaAI_pack2.txt) |
 | `BigBrainD3` | **`UwU`** | [+](results/BigBrainD3vsUwU.txt) |
 | **`UwU`** | `BigBrainD3` | [+](results/UwUvsBigBrainD3.txt) |
 | `Bee` | **`BlessAID2`** | [+](results/BeevsBlessAID2.txt) |
@@ -140,8 +140,8 @@ _Winner, if any, shown in bold_
 | `NegamaxABH01D3` | **`SureAIv28`** | [+](results/NegamaxABH01D3vsSureAIv28.txt) |
 | **`Thonk Tank V3`** | `UwU` | [+](results/ThonkTankV3vsUwU.txt) |
 | `UwU` | **`Thonk Tank V3`** | [+](results/UwUvsThonkTankV3.txt) |
-| `ZetaAI` | **`BlessAID2`** | [+](results/ZetaAIvsBlessAID2.txt) |
-| **`BlessAID2`** | `ZetaAI` | [+](results/BlessAID2vsZetaAI.txt) |
+| `ZetaAI_pack2` | **`BlessAID2`** | [+](results/ZetaAI_pack2vsBlessAID2.txt) |
+| `BlessAID2` | **`ZetaAI_pack2`** | [+](results/BlessAID2vsZetaAI_pack2.txt) |
 | `BigBrainD3` | **`Bee`** | [+](results/BigBrainD3vsBee.txt) |
 | `Bee` | **`BigBrainD3`** | [+](results/BeevsBigBrainD3.txt) |
 | **`MinimaxD2`** | `Random` | [+](results/MinimaxD2vsRandom.txt) |
@@ -154,8 +154,8 @@ _Winner, if any, shown in bold_
 | `BlessAID2` | **`SureAIv28`** | [+](results/BlessAID2vsSureAIv28.txt) |
 | **`Thonk Tank V3`** | `Bee` | [+](results/ThonkTankV3vsBee.txt) |
 | `Bee` | **`Thonk Tank V3`** | [+](results/BeevsThonkTankV3.txt) |
-| `ZetaAI` | **`BigBrainD3`** | [+](results/ZetaAIvsBigBrainD3.txt) |
-| `BigBrainD3` | **`ZetaAI`** | [+](results/BigBrainD3vsZetaAI.txt) |
+| **`ZetaAI_pack2`** | `BigBrainD3` | [+](results/ZetaAI_pack2vsBigBrainD3.txt) |
+| `BigBrainD3` | **`ZetaAI_pack2`** | [+](results/BigBrainD3vsZetaAI_pack2.txt) |
 | **`MinimaxD2`** | `NegamaxABH01D3` | [+](results/MinimaxD2vsNegamaxABH01D3.txt) |
 | `NegamaxABH01D3` | **`MinimaxD2`** | [+](results/NegamaxABH01D3vsMinimaxD2.txt) |
 | `Random` | **`UwU`** | [+](results/RandomvsUwU.txt) |
@@ -166,8 +166,8 @@ _Winner, if any, shown in bold_
 | `Bee` | **`GLaDOS2019`** | [+](results/BeevsGLaDOS2019.txt) |
 | **`SureAIv28`** | `BigBrainD3` | [+](results/SureAIv28vsBigBrainD3.txt) |
 | `BigBrainD3` | **`SureAIv28`** | [+](results/BigBrainD3vsSureAIv28.txt) |
-| **`Thonk Tank V3`** | `ZetaAI` | [+](results/ThonkTankV3vsZetaAI.txt) |
-| `ZetaAI` | **`Thonk Tank V3`** | [+](results/ZetaAIvsThonkTankV3.txt) |
+| **`Thonk Tank V3`** | `ZetaAI_pack2` | [+](results/ThonkTankV3vsZetaAI_pack2.txt) |
+| `ZetaAI_pack2` | **`Thonk Tank V3`** | [+](results/ZetaAI_pack2vsThonkTankV3.txt) |
 
 ## Previous days
 

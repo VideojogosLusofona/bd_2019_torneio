@@ -26,7 +26,7 @@
 
 SureAIv28 (White) turn
 depth = 3
-Did 2143 evals
+Did 2140 evals
 SureAIv28 (White) placed a Round piece at column 10 after 536ms
 ......................
 ......................

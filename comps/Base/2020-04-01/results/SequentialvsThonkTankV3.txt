@@ -13,7 +13,7 @@
 .......
 
 Sequential (White) turn
-Sequential (White) placed a Round piece at column 0 after 5ms
+Sequential (White) placed a Round piece at column 0 after 0ms
 .......
 .......
 .......
@@ -22,7 +22,7 @@ Sequential (White) placed a Round piece at column 0 after 5ms
 w......
 
 Thonk Tank V3 (Red) turn
-6091
+5751
 depth = 3
 Thonk Tank V3 (Red) placed a Square piece at column 3 after 180ms
 .......
@@ -33,7 +33,7 @@ Thonk Tank V3 (Red) placed a Square piece at column 3 after 180ms
 w..R...
 
 Sequential (White) turn
-Sequential (White) placed a Round piece at column 1 after 1ms
+Sequential (White) placed a Round piece at column 1 after 0ms
 .......
 .......
 .......
@@ -42,9 +42,9 @@ Sequential (White) placed a Round piece at column 1 after 1ms
 ww.R...
 
 Thonk Tank V3 (Red) turn
-5631
+5687
 depth = 3
-Thonk Tank V3 (Red) placed a Square piece at column 3 after 180ms
+Thonk Tank V3 (Red) placed a Square piece at column 3 after 182ms
 .......
 .......
 .......
@@ -62,7 +62,7 @@ Sequential (White) placed a Round piece at column 2 after 0ms
 wwwR...
 
 Thonk Tank V3 (Red) turn
-5440
+5452
 depth = 3
 Thonk Tank V3 (Red) placed a Square piece at column 3 after 180ms
 .......
@@ -82,7 +82,7 @@ Sequential (White) placed a Round piece at column 3 after 0ms
 wwwR...
 
 Thonk Tank V3 (Red) turn
-5169
+5148
 depth = 3
 Thonk Tank V3 (Red) placed a Square piece at column 2 after 180ms
 .......
@@ -102,7 +102,7 @@ Sequential (White) placed a Round piece at column 4 after 0ms
 wwwRw..
 
 Thonk Tank V3 (Red) turn
-5346
+5365
 depth = 3
 Thonk Tank V3 (Red) placed a Square piece at column 1 after 180ms
 .......
@@ -123,7 +123,7 @@ wwwRww.
 
 Thonk Tank V3 (Red) turn
 14
-depth = 1014
+depth = 1008
 Thonk Tank V3 (Red) placed a Round piece at column 4 after 180ms
 .......
 .......

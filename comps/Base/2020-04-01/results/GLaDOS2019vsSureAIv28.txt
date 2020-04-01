@@ -13,7 +13,7 @@
 .......
 
 GLaDOS2019 (White) turn
-GLaDOS2019 (White) placed a Round piece at column 3 after 4ms
+GLaDOS2019 (White) placed a Round piece at column 3 after 3ms
 .......
 .......
 .......
@@ -23,7 +23,7 @@ GLaDOS2019 (White) placed a Round piece at column 3 after 4ms
 
 SureAIv28 (Red) turn
 depth = 5
-Did 4700 evals
+Did 4656 evals
 SureAIv28 (Red) placed a Square piece at column 3 after 186ms
 .......
 .......
@@ -33,7 +33,7 @@ SureAIv28 (Red) placed a Square piece at column 3 after 186ms
 ...w...
 
 GLaDOS2019 (White) turn
-GLaDOS2019 (White) placed a Round piece at column 0 after 2ms
+GLaDOS2019 (White) placed a Round piece at column 0 after 4ms
 .......
 .......
 .......
@@ -43,7 +43,7 @@ w..w...
 
 SureAIv28 (Red) turn
 depth = 5
-Did 4178 evals
+Did 4200 evals
 SureAIv28 (Red) placed a Square piece at column 5 after 186ms
 .......
 .......
@@ -63,7 +63,7 @@ ww.w.R.
 
 SureAIv28 (Red) turn
 depth = 5
-Did 3963 evals
+Did 3939 evals
 SureAIv28 (Red) placed a Square piece at column 2 after 186ms
 .......
 .......
@@ -83,7 +83,7 @@ wwRw.R.
 
 SureAIv28 (Red) turn
 depth = 5
-Did 3647 evals
+Did 3603 evals
 SureAIv28 (Red) placed a Square piece at column 2 after 186ms
 .......
 .......
@@ -103,7 +103,7 @@ wwRw.R.
 
 SureAIv28 (Red) turn
 depth = 5
-Did 3424 evals
+Did 3433 evals
 SureAIv28 (Red) placed a Square piece at column 2 after 186ms
 .......
 .......
@@ -113,7 +113,7 @@ w.wR...
 wwRw.R.
 
 GLaDOS2019 (White) turn
-GLaDOS2019 (White) placed a Round piece at column 1 after 3ms
+GLaDOS2019 (White) placed a Round piece at column 1 after 2ms
 .......
 .......
 ..R....
@@ -123,7 +123,7 @@ wwRw.R.
 
 SureAIv28 (Red) turn
 depth = 5
-Did 3865 evals
+Did 3776 evals
 SureAIv28 (Red) placed a Square piece at column 2 after 186ms
 .......
 ..R....
@@ -143,7 +143,7 @@ wwRw.R.
 
 SureAIv28 (Red) turn
 depth = 6
-Did 3096 evals
+Did 3114 evals
 SureAIv28 (Red) placed a Square piece at column 1 after 186ms
 ..w....
 ..R....
@@ -163,7 +163,7 @@ wwRw.R.
 
 SureAIv28 (Red) turn
 depth = 6
-Did 3232 evals
+Did 3208 evals
 SureAIv28 (Red) placed a Square piece at column 1 after 186ms
 ..w....
 ..R....
@@ -183,7 +183,7 @@ wwRwwR.
 
 SureAIv28 (Red) turn
 depth = 7
-Did 3185 evals
+Did 3168 evals
 SureAIv28 (Red) placed a Square piece at column 3 after 186ms
 ..w....
 ..R....
@@ -203,7 +203,7 @@ wwRwwR.
 
 SureAIv28 (Red) turn
 depth = 9
-Did 3166 evals
+Did 3162 evals
 SureAIv28 (Red) placed a Square piece at column 4 after 186ms
 ..w....
 ..R....
@@ -222,8 +222,8 @@ wwwRw..
 wwRwwR.
 
 SureAIv28 (Red) turn
-depth = 80
-Did 5507 evals
+depth = 81
+Did 5525 evals
 SureAIv28 (Red) placed a Square piece at column 4 after 186ms
 ..w....
 ..R....

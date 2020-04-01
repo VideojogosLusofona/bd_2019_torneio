@@ -14,7 +14,7 @@
 
 SureAIv28 (White) turn
 depth = 6
-Did 4943 evals
+Did 4960 evals
 SureAIv28 (White) placed a Round piece at column 3 after 186ms
 .......
 .......
@@ -35,7 +35,7 @@ BigBrainD3 (Red) placed a Square piece at column 3 after 12ms
 
 SureAIv28 (White) turn
 depth = 5
-Did 4666 evals
+Did 4639 evals
 SureAIv28 (White) placed a Round piece at column 3 after 186ms
 .......
 .......
@@ -46,7 +46,7 @@ SureAIv28 (White) placed a Round piece at column 3 after 186ms
 
 BigBrainD3 (Red) turn
 Heuristic: ShapeHeuristic Color: Red numEvals: 1171
-BigBrainD3 (Red) placed a Square piece at column 3 after 18ms
+BigBrainD3 (Red) placed a Square piece at column 3 after 20ms
 .......
 .......
 ...R...
@@ -56,7 +56,7 @@ BigBrainD3 (Red) placed a Square piece at column 3 after 18ms
 
 SureAIv28 (White) turn
 depth = 5
-Did 4328 evals
+Did 4299 evals
 SureAIv28 (White) placed a Round piece at column 2 after 186ms
 .......
 .......
@@ -67,7 +67,7 @@ SureAIv28 (White) placed a Round piece at column 2 after 186ms
 
 BigBrainD3 (Red) turn
 Heuristic: ShapeHeuristic Color: Red numEvals: 777
-BigBrainD3 (Red) placed a Square piece at column 3 after 12ms
+BigBrainD3 (Red) placed a Square piece at column 3 after 14ms
 .......
 ...R...
 ...R...
@@ -77,7 +77,7 @@ BigBrainD3 (Red) placed a Square piece at column 3 after 12ms
 
 SureAIv28 (White) turn
 depth = 6
-Did 3896 evals
+Did 3865 evals
 SureAIv28 (White) placed a Round piece at column 4 after 186ms
 .......
 ...R...

@@ -14,7 +14,7 @@
 
 SureAIv28 (White) turn
 depth = 6
-Did 5004 evals
+Did 4922 evals
 SureAIv28 (White) placed a Round piece at column 3 after 186ms
 .......
 .......
@@ -34,7 +34,7 @@ MinimaxD2 (Red) placed a Square piece at column 3 after 3ms
 
 SureAIv28 (White) turn
 depth = 5
-Did 4635 evals
+Did 4631 evals
 SureAIv28 (White) placed a Round piece at column 3 after 186ms
 .......
 .......
@@ -54,7 +54,7 @@ MinimaxD2 (Red) placed a Square piece at column 3 after 3ms
 
 SureAIv28 (White) turn
 depth = 5
-Did 4334 evals
+Did 4296 evals
 SureAIv28 (White) placed a Round piece at column 2 after 186ms
 .......
 .......
@@ -74,7 +74,7 @@ MinimaxD2 (Red) placed a Square piece at column 3 after 3ms
 
 SureAIv28 (White) turn
 depth = 6
-Did 3871 evals
+Did 3833 evals
 SureAIv28 (White) placed a Round piece at column 4 after 186ms
 .......
 ...R...
@@ -94,7 +94,7 @@ MinimaxD2 (Red) placed a Square piece at column 6 after 2ms
 
 SureAIv28 (White) turn
 depth = 6
-Did 4312 evals
+Did 4299 evals
 SureAIv28 (White) placed a Round piece at column 0 after 186ms
 .......
 ...R...
@@ -114,7 +114,7 @@ w.www.R
 
 SureAIv28 (White) turn
 depth = 7
-Did 4076 evals
+Did 4050 evals
 SureAIv28 (White) placed a Round piece at column 2 after 186ms
 .......
 ...R...
@@ -134,7 +134,7 @@ w.www.R
 
 SureAIv28 (White) turn
 depth = 7
-Did 3617 evals
+Did 3592 evals
 SureAIv28 (White) placed a Round piece at column 1 after 186ms
 .......
 ...R...

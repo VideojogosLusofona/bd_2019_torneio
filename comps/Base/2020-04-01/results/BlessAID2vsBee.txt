@@ -22,7 +22,7 @@ BlessAID2 (White) placed a Round piece at column 3 after 0ms
 ...w...
 
 Bee (Red) turn
-Iterations: 10546
+Iterations: 10588
 Bee (Red) placed a Square piece at column 3 after 174ms
 .......
 .......
@@ -41,7 +41,7 @@ BlessAID2 (White) placed a Round piece at column 3 after 0ms
 ...w...
 
 Bee (Red) turn
-Iterations: 10226
+Iterations: 10325
 Bee (Red) placed a Square piece at column 3 after 174ms
 .......
 .......
@@ -60,8 +60,8 @@ BlessAID2 (White) placed a Round piece at column 3 after 0ms
 ...w...
 
 Bee (Red) turn
-Iterations: 10469
-Bee (Red) placed a Square piece at column 3 after 173ms
+Iterations: 10466
+Bee (Red) placed a Square piece at column 3 after 174ms
 ...R...
 ...w...
 ...R...
@@ -79,7 +79,7 @@ BlessAID2 (White) placed a Round piece at column 4 after 0ms
 ...ww..
 
 Bee (Red) turn
-Iterations: 14066
+Iterations: 13949
 Bee (Red) placed a Square piece at column 4 after 173ms
 ...R...
 ...w...
@@ -98,7 +98,7 @@ BlessAID2 (White) placed a Round piece at column 4 after 0ms
 ...ww..
 
 Bee (Red) turn
-Iterations: 9705
+Iterations: 9629
 Bee (Red) placed a Square piece at column 4 after 172ms
 ...R...
 ...w...
@@ -117,7 +117,7 @@ BlessAID2 (White) placed a Round piece at column 4 after 0ms
 ...ww..
 
 Bee (Red) turn
-Iterations: 10186
+Iterations: 10159
 Bee (Red) placed a Square piece at column 4 after 172ms
 ...RR..
 ...ww..
@@ -136,7 +136,7 @@ BlessAID2 (White) placed a Round piece at column 2 after 0ms
 ..www..
 
 Bee (Red) turn
-Iterations: 11675
+Iterations: 11753
 Bee (Red) placed a Square piece at column 2 after 171ms
 ...RR..
 ...ww..

@@ -23,7 +23,7 @@ NegamaxABH01D3 (White) placed a Round piece at column 3 after 13ms
 ...w...
 
 Bee (Red) turn
-Iterations: 10522
+Iterations: 10540
 Bee (Red) placed a Square piece at column 3 after 174ms
 .......
 .......
@@ -34,7 +34,7 @@ Bee (Red) placed a Square piece at column 3 after 174ms
 
 NegamaxABH01D3 (White) turn
 Did 710 total evals
-NegamaxABH01D3 (White) placed a Round piece at column 3 after 14ms
+NegamaxABH01D3 (White) placed a Round piece at column 3 after 13ms
 .......
 .......
 .......
@@ -43,7 +43,7 @@ NegamaxABH01D3 (White) placed a Round piece at column 3 after 14ms
 ...w...
 
 Bee (Red) turn
-Iterations: 10343
+Iterations: 10375
 Bee (Red) placed a Square piece at column 3 after 174ms
 .......
 .......
@@ -63,7 +63,7 @@ NegamaxABH01D3 (White) placed a Round piece at column 5 after 14ms
 ...w.w.
 
 Bee (Red) turn
-Iterations: 16086
+Iterations: 15978
 Bee (Red) placed a Square piece at column 5 after 172ms
 .......
 .......
@@ -74,7 +74,7 @@ Bee (Red) placed a Square piece at column 5 after 172ms
 
 NegamaxABH01D3 (White) turn
 Did 654 total evals
-NegamaxABH01D3 (White) placed a Round piece at column 4 after 14ms
+NegamaxABH01D3 (White) placed a Round piece at column 4 after 13ms
 .......
 .......
 ...R...
@@ -83,7 +83,7 @@ NegamaxABH01D3 (White) placed a Round piece at column 4 after 14ms
 ...www.
 
 Bee (Red) turn
-Iterations: 9914
+Iterations: 9843
 Bee (Red) placed a Square piece at column 4 after 174ms
 .......
 .......
@@ -103,7 +103,7 @@ NegamaxABH01D3 (White) placed a Round piece at column 0 after 1ms
 w..www.
 
 Bee (Red) turn
-Iterations: 10126
+Iterations: 10212
 Bee (Red) placed a Square piece at column 6 after 174ms
 .......
 .......

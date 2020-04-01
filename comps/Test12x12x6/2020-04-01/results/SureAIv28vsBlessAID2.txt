@@ -20,7 +20,7 @@
 
 SureAIv28 (White) turn
 depth = 4
-Did 2508 evals
+Did 2487 evals
 SureAIv28 (White) placed a Round piece at column 3 after 286ms
 ............
 ............
@@ -52,7 +52,7 @@ BlessAID2 (Red) placed a Square piece at column 3 after 1ms
 
 SureAIv28 (White) turn
 depth = 4
-Did 2196 evals
+Did 2198 evals
 SureAIv28 (White) placed a Round piece at column 8 after 286ms
 ............
 ............
@@ -84,7 +84,7 @@ BlessAID2 (Red) placed a Square piece at column 3 after 1ms
 
 SureAIv28 (White) turn
 depth = 4
-Did 2023 evals
+Did 2055 evals
 SureAIv28 (White) placed a Round piece at column 6 after 286ms
 ............
 ............
@@ -116,7 +116,7 @@ BlessAID2 (Red) placed a Square piece at column 3 after 2ms
 
 SureAIv28 (White) turn
 depth = 4
-Did 2166 evals
+Did 2169 evals
 SureAIv28 (White) placed a Round piece at column 6 after 286ms
 ............
 ............
@@ -148,7 +148,7 @@ BlessAID2 (Red) placed a Square piece at column 3 after 2ms
 
 SureAIv28 (White) turn
 depth = 4
-Did 1950 evals
+Did 1955 evals
 SureAIv28 (White) placed a Round piece at column 6 after 286ms
 ............
 ............
@@ -180,7 +180,7 @@ BlessAID2 (Red) placed a Square piece at column 3 after 2ms
 
 SureAIv28 (White) turn
 depth = 3
-Did 2960 evals
+Did 3001 evals
 SureAIv28 (White) placed a Round piece at column 3 after 286ms
 ............
 ............
@@ -212,7 +212,7 @@ BlessAID2 (Red) placed a Square piece at column 3 after 2ms
 
 SureAIv28 (White) turn
 depth = 4
-Did 1483 evals
+Did 1491 evals
 SureAIv28 (White) placed a Round piece at column 5 after 286ms
 ............
 ............
@@ -244,7 +244,7 @@ BlessAID2 (Red) placed a Square piece at column 3 after 2ms
 
 SureAIv28 (White) turn
 depth = 4
-Did 1521 evals
+Did 1529 evals
 SureAIv28 (White) placed a Round piece at column 4 after 286ms
 ............
 ............
@@ -276,7 +276,7 @@ BlessAID2 (Red) placed a Square piece at column 3 after 2ms
 
 SureAIv28 (White) turn
 depth = 4
-Did 1383 evals
+Did 1389 evals
 SureAIv28 (White) placed a Round piece at column 7 after 286ms
 ............
 ............

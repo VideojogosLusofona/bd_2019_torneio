@@ -13,7 +13,7 @@
 .......
 
 UwU (White) turn
-UwU (White) placed a Round piece at column 3 after 7ms
+UwU (White) placed a Round piece at column 3 after 10ms
 .......
 .......
 .......
@@ -22,8 +22,8 @@ UwU (White) placed a Round piece at column 3 after 7ms
 ...w...
 
 Bee (Red) turn
-Iterations: 10462
-Bee (Red) placed a Square piece at column 3 after 174ms
+Iterations: 7474
+Bee (Red) placed a Square piece at column 3 after 177ms
 .......
 .......
 .......
@@ -41,8 +41,8 @@ UwU (White) placed a Round piece at column 2 after 13ms
 ..ww...
 
 Bee (Red) turn
-Iterations: 16815
-Bee (Red) placed a Square piece at column 3 after 172ms
+Iterations: 11495
+Bee (Red) placed a Square piece at column 3 after 173ms
 .......
 .......
 .......
@@ -51,7 +51,7 @@ Bee (Red) placed a Square piece at column 3 after 172ms
 ..ww...
 
 UwU (White) turn
-UwU (White) placed a Round piece at column 4 after 5ms
+UwU (White) placed a Round piece at column 4 after 7ms
 .......
 .......
 .......
@@ -60,8 +60,8 @@ UwU (White) placed a Round piece at column 4 after 5ms
 ..www..
 
 Bee (Red) turn
-Iterations: 14347
-Bee (Red) placed a Square piece at column 3 after 173ms
+Iterations: 11125
+Bee (Red) placed a Square piece at column 3 after 175ms
 .......
 .......
 ...R...
@@ -70,7 +70,7 @@ Bee (Red) placed a Square piece at column 3 after 173ms
 ..www..
 
 UwU (White) turn
-UwU (White) placed a Round piece at column 3 after 2ms
+UwU (White) placed a Round piece at column 3 after 3ms
 .......
 ...w...
 ...R...
@@ -79,8 +79,8 @@ UwU (White) placed a Round piece at column 3 after 2ms
 ..www..
 
 Bee (Red) turn
-Iterations: 14595
-Bee (Red) placed a Square piece at column 3 after 173ms
+Iterations: 11057
+Bee (Red) placed a Square piece at column 3 after 174ms
 ...R...
 ...w...
 ...R...
@@ -89,7 +89,7 @@ Bee (Red) placed a Square piece at column 3 after 173ms
 ..www..
 
 UwU (White) turn
-UwU (White) placed a Round piece at column 4 after 1ms
+UwU (White) placed a Round piece at column 4 after 2ms
 ...R...
 ...w...
 ...R...
@@ -98,8 +98,8 @@ UwU (White) placed a Round piece at column 4 after 1ms
 ..www..
 
 Bee (Red) turn
-Iterations: 11499
-Bee (Red) placed a Square piece at column 4 after 172ms
+Iterations: 8069
+Bee (Red) placed a Square piece at column 4 after 173ms
 ...R...
 ...w...
 ...R...
@@ -117,8 +117,8 @@ UwU (White) placed a Round piece at column 4 after 2ms
 ..www..
 
 Bee (Red) turn
-Iterations: 11292
-Bee (Red) placed a Square piece at column 4 after 172ms
+Iterations: 7976
+Bee (Red) placed a Square piece at column 4 after 173ms
 ...R...
 ...wR..
 ...Rw..
@@ -127,7 +127,7 @@ Bee (Red) placed a Square piece at column 4 after 172ms
 ..www..
 
 UwU (White) turn
-UwU (White) placed a Round piece at column 4 after 1ms
+UwU (White) placed a Round piece at column 4 after 2ms
 ...Rw..
 ...wR..
 ...Rw..
@@ -136,8 +136,8 @@ UwU (White) placed a Round piece at column 4 after 1ms
 ..www..
 
 Bee (Red) turn
-Iterations: 11525
-Bee (Red) placed a Square piece at column 5 after 171ms
+Iterations: 7964
+Bee (Red) placed a Square piece at column 5 after 172ms
 ...Rw..
 ...wR..
 ...Rw..
@@ -146,7 +146,7 @@ Bee (Red) placed a Square piece at column 5 after 171ms
 ..wwwR.
 
 UwU (White) turn
-UwU (White) placed a Round piece at column 1 after 2ms
+UwU (White) placed a Round piece at column 1 after 3ms
 ...Rw..
 ...wR..
 ...Rw..

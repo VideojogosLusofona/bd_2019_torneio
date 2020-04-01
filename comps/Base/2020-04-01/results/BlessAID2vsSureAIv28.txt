@@ -23,7 +23,7 @@ BlessAID2 (White) placed a Round piece at column 3 after 0ms
 
 SureAIv28 (Red) turn
 depth = 5
-Did 4803 evals
+Did 4731 evals
 SureAIv28 (Red) placed a Square piece at column 3 after 186ms
 .......
 .......
@@ -43,7 +43,7 @@ BlessAID2 (White) placed a Round piece at column 3 after 0ms
 
 SureAIv28 (Red) turn
 depth = 5
-Did 4523 evals
+Did 4420 evals
 SureAIv28 (Red) placed a Square piece at column 0 after 186ms
 .......
 .......
@@ -63,7 +63,7 @@ R..w...
 
 SureAIv28 (Red) turn
 depth = 5
-Did 4248 evals
+Did 4201 evals
 SureAIv28 (Red) placed a Square piece at column 1 after 186ms
 .......
 .......
@@ -83,7 +83,7 @@ RR.w...
 
 SureAIv28 (Red) turn
 depth = 4
-Did 4267 evals
+Did 3620 evals
 SureAIv28 (Red) placed a Square piece at column 3 after 186ms
 ...R...
 ...w...
@@ -103,7 +103,7 @@ RR.w...
 
 SureAIv28 (Red) turn
 depth = 5
-Did 3660 evals
+Did 3580 evals
 SureAIv28 (Red) placed a Square piece at column 4 after 186ms
 ...R...
 ...w...
@@ -123,7 +123,7 @@ RR.wR..
 
 SureAIv28 (Red) turn
 depth = 5
-Did 3672 evals
+Did 3644 evals
 SureAIv28 (Red) placed a Square piece at column 0 after 186ms
 ...R...
 ...w...
@@ -143,7 +143,7 @@ RR.wR..
 
 SureAIv28 (Red) turn
 depth = 5
-Did 3361 evals
+Did 3363 evals
 SureAIv28 (Red) placed a Square piece at column 5 after 186ms
 ...R...
 w..w...
@@ -163,7 +163,7 @@ RR.wRR.
 
 SureAIv28 (Red) turn
 depth = 6
-Did 3183 evals
+Did 3218 evals
 SureAIv28 (Red) placed a Square piece at column 6 after 186ms
 w..R...
 w..w...
@@ -183,7 +183,7 @@ RR.wRRR
 
 SureAIv28 (Red) turn
 depth = 6
-Did 2702 evals
+Did 3152 evals
 SureAIv28 (Red) placed a Square piece at column 4 after 186ms
 w..R...
 w..w...
@@ -203,7 +203,7 @@ RR.wRRR
 
 SureAIv28 (Red) turn
 depth = 9
-Did 3692 evals
+Did 3712 evals
 SureAIv28 (Red) placed a Square piece at column 4 after 186ms
 w..R...
 w..w...
@@ -223,7 +223,7 @@ RR.wRRR
 
 SureAIv28 (Red) turn
 depth = 39
-Did 5299 evals
+Did 5323 evals
 SureAIv28 (Red) placed a Square piece at column 1 after 186ms
 w..R...
 wR.w...
@@ -242,8 +242,8 @@ ww.RR..
 RRWwRRR
 
 SureAIv28 (Red) turn
-depth = 81
-Did 5881 evals
+depth = 80
+Did 5838 evals
 SureAIv28 (Red) placed a Round piece at column 4 after 186ms
 w..R...
 wR.w...

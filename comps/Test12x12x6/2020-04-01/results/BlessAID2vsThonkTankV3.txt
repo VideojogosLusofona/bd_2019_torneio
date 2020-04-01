@@ -34,7 +34,7 @@ BlessAID2 (White) placed a Round piece at column 6 after 1ms
 ......w.....
 
 Thonk Tank V3 (Red) turn
-4430
+4447
 depth = 2
 Thonk Tank V3 (Red) placed a Square piece at column 5 after 270ms
 ............
@@ -51,7 +51,7 @@ Thonk Tank V3 (Red) placed a Square piece at column 5 after 270ms
 .....Rw.....
 
 BlessAID2 (White) turn
-BlessAID2 (White) placed a Round piece at column 6 after 2ms
+BlessAID2 (White) placed a Round piece at column 6 after 1ms
 ............
 ............
 ............
@@ -66,7 +66,7 @@ BlessAID2 (White) placed a Round piece at column 6 after 2ms
 .....Rw.....
 
 Thonk Tank V3 (Red) turn
-4225
+4261
 depth = 2
 Thonk Tank V3 (Red) placed a Square piece at column 5 after 270ms
 ............
@@ -98,7 +98,7 @@ BlessAID2 (White) placed a Round piece at column 6 after 2ms
 .....Rw.....
 
 Thonk Tank V3 (Red) turn
-4096
+4114
 depth = 2
 Thonk Tank V3 (Red) placed a Square piece at column 5 after 270ms
 ............
@@ -162,7 +162,7 @@ BlessAID2 (White) placed a Round piece at column 6 after 2ms
 .....Rw.....
 
 Thonk Tank V3 (Red) turn
-3631
+3725
 depth = 2
 Thonk Tank V3 (Red) placed a Square piece at column 6 after 270ms
 ............
@@ -194,7 +194,7 @@ BlessAID2 (White) placed a Round piece at column 6 after 2ms
 .....Rw.....
 
 Thonk Tank V3 (Red) turn
-3695
+3812
 depth = 2
 Thonk Tank V3 (Red) placed a Square piece at column 5 after 270ms
 ............
@@ -226,7 +226,7 @@ BlessAID2 (White) placed a Round piece at column 6 after 2ms
 .....Rw.....
 
 Thonk Tank V3 (Red) turn
-4000
+3976
 depth = 3
 Thonk Tank V3 (Red) placed a Round piece at column 5 after 270ms
 ............

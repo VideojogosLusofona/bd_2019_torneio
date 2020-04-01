@@ -13,7 +13,7 @@
 .......
 
 Thonk Tank V3 (White) turn
-6387
+4108
 depth = 3
 Thonk Tank V3 (White) placed a Round piece at column 3 after 180ms
 .......
@@ -25,7 +25,7 @@ Thonk Tank V3 (White) placed a Round piece at column 3 after 180ms
 
 SureAIv28 (Red) turn
 depth = 5
-Did 4758 evals
+Did 3262 evals
 SureAIv28 (Red) placed a Square piece at column 3 after 186ms
 .......
 .......
@@ -35,7 +35,7 @@ SureAIv28 (Red) placed a Square piece at column 3 after 186ms
 ...w...
 
 Thonk Tank V3 (White) turn
-5790
+3771
 depth = 3
 Thonk Tank V3 (White) placed a Round piece at column 2 after 180ms
 .......
@@ -47,7 +47,7 @@ Thonk Tank V3 (White) placed a Round piece at column 2 after 180ms
 
 SureAIv28 (Red) turn
 depth = 5
-Did 4548 evals
+Did 2912 evals
 SureAIv28 (Red) placed a Square piece at column 1 after 186ms
 .......
 .......
@@ -57,7 +57,7 @@ SureAIv28 (Red) placed a Square piece at column 1 after 186ms
 .Rww...
 
 Thonk Tank V3 (White) turn
-6258
+3969
 depth = 3
 Thonk Tank V3 (White) placed a Round piece at column 0 after 180ms
 .......
@@ -69,7 +69,7 @@ wRww...
 
 SureAIv28 (Red) turn
 depth = 5
-Did 3831 evals
+Did 2484 evals
 SureAIv28 (Red) placed a Square piece at column 2 after 186ms
 .......
 .......
@@ -79,7 +79,7 @@ SureAIv28 (Red) placed a Square piece at column 2 after 186ms
 wRww...
 
 Thonk Tank V3 (White) turn
-5849
+3898
 depth = 3
 Thonk Tank V3 (White) placed a Round piece at column 5 after 180ms
 .......
@@ -90,8 +90,8 @@ Thonk Tank V3 (White) placed a Round piece at column 5 after 180ms
 wRww.w.
 
 SureAIv28 (Red) turn
-depth = 6
-Did 3447 evals
+depth = 5
+Did 2232 evals
 SureAIv28 (Red) placed a Square piece at column 4 after 186ms
 .......
 .......
@@ -101,7 +101,7 @@ SureAIv28 (Red) placed a Square piece at column 4 after 186ms
 wRwwRw.
 
 Thonk Tank V3 (White) turn
-5916
+3627
 depth = 3
 Thonk Tank V3 (White) placed a Round piece at column 0 after 180ms
 .......
@@ -112,8 +112,8 @@ w.RR...
 wRwwRw.
 
 SureAIv28 (Red) turn
-depth = 6
-Did 3165 evals
+depth = 5
+Did 1924 evals
 SureAIv28 (Red) placed a Square piece at column 4 after 186ms
 .......
 .......
@@ -123,7 +123,7 @@ w.RRR..
 wRwwRw.
 
 Thonk Tank V3 (White) turn
-5305
+3299
 depth = 5
 Thonk Tank V3 (White) loses match! Reason: Thinker unable to perform move
 .......

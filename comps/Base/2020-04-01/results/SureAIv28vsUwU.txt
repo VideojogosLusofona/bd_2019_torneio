@@ -14,7 +14,7 @@
 
 SureAIv28 (White) turn
 depth = 6
-Did 4957 evals
+Did 4939 evals
 SureAIv28 (White) placed a Round piece at column 3 after 186ms
 .......
 .......
@@ -34,7 +34,7 @@ UwU (Red) placed a Square piece at column 3 after 7ms
 
 SureAIv28 (White) turn
 depth = 5
-Did 4657 evals
+Did 4623 evals
 SureAIv28 (White) placed a Round piece at column 3 after 186ms
 .......
 .......
@@ -54,7 +54,7 @@ UwU (Red) placed a Square piece at column 3 after 7ms
 
 SureAIv28 (White) turn
 depth = 5
-Did 4301 evals
+Did 4291 evals
 SureAIv28 (White) placed a Round piece at column 2 after 186ms
 .......
 .......
@@ -74,7 +74,7 @@ UwU (Red) placed a Square piece at column 3 after 8ms
 
 SureAIv28 (White) turn
 depth = 6
-Did 3891 evals
+Did 3869 evals
 SureAIv28 (White) placed a Round piece at column 4 after 186ms
 .......
 ...R...

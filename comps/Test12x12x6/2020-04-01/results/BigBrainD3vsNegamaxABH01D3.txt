@@ -20,7 +20,7 @@
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 2996
-BigBrainD3 (White) placed a Round piece at column 6 after 121ms
+BigBrainD3 (White) placed a Round piece at column 6 after 120ms
 ............
 ............
 ............
@@ -68,7 +68,7 @@ BigBrainD3 (White) placed a Round piece at column 6 after 156ms
 
 NegamaxABH01D3 (Red) turn
 Did 1508 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 6 after 79ms
+NegamaxABH01D3 (Red) placed a Square piece at column 6 after 78ms
 ............
 ............
 ............
@@ -84,7 +84,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 6 after 79ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 4483
-BigBrainD3 (White) placed a Round piece at column 6 after 191ms
+BigBrainD3 (White) placed a Round piece at column 6 after 194ms
 ............
 ............
 ............
@@ -132,7 +132,7 @@ BigBrainD3 (White) placed a Round piece at column 6 after 234ms
 
 NegamaxABH01D3 (Red) turn
 Did 1610 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 6 after 87ms
+NegamaxABH01D3 (Red) placed a Square piece at column 6 after 86ms
 ............
 ............
 ............
@@ -148,7 +148,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 6 after 87ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 5241
-BigBrainD3 (White) placed a Round piece at column 6 after 237ms
+BigBrainD3 (White) placed a Round piece at column 6 after 234ms
 ............
 ............
 ............
@@ -164,7 +164,7 @@ BigBrainD3 (White) placed a Round piece at column 6 after 237ms
 
 NegamaxABH01D3 (Red) turn
 Did 1548 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 6 after 86ms
+NegamaxABH01D3 (Red) placed a Square piece at column 6 after 85ms
 ............
 ............
 ......R.....
@@ -180,7 +180,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 6 after 86ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 4783
-BigBrainD3 (White) placed a Round piece at column 6 after 220ms
+BigBrainD3 (White) placed a Round piece at column 6 after 219ms
 ............
 ......w.....
 ......R.....
@@ -196,7 +196,7 @@ BigBrainD3 (White) placed a Round piece at column 6 after 220ms
 
 NegamaxABH01D3 (Red) turn
 Did 1669 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 5 after 94ms
+NegamaxABH01D3 (Red) placed a Square piece at column 5 after 93ms
 ............
 ......w.....
 ......R.....
@@ -228,7 +228,7 @@ BigBrainD3 (White) placed a Round piece at column 6 after 155ms
 
 NegamaxABH01D3 (Red) turn
 Did 1236 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 3 after 71ms
+NegamaxABH01D3 (Red) placed a Square piece at column 3 after 70ms
 ......w.....
 ......w.....
 ......R.....
@@ -276,7 +276,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 5 after 64ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 2829
-BigBrainD3 (White) placed a Round piece at column 5 after 139ms
+BigBrainD3 (White) placed a Round piece at column 5 after 138ms
 ......w.....
 ......w.....
 ......R.....
@@ -308,7 +308,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 5 after 59ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 3254
-BigBrainD3 (White) placed a Round piece at column 5 after 163ms
+BigBrainD3 (White) placed a Round piece at column 5 after 162ms
 ......w.....
 ......w.....
 ......R.....
@@ -340,7 +340,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 5 after 57ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 3595
-BigBrainD3 (White) placed a Round piece at column 5 after 182ms
+BigBrainD3 (White) placed a Round piece at column 5 after 181ms
 ......w.....
 ......w.....
 ......R.....
@@ -372,7 +372,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 7 after 62ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 3496
-BigBrainD3 (White) placed a Round piece at column 5 after 182ms
+BigBrainD3 (White) placed a Round piece at column 5 after 179ms
 ......w.....
 ......w.....
 ......R.....
@@ -388,7 +388,7 @@ BigBrainD3 (White) placed a Round piece at column 5 after 182ms
 
 NegamaxABH01D3 (Red) turn
 Did 949 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 1 after 59ms
+NegamaxABH01D3 (Red) placed a Square piece at column 1 after 58ms
 ......w.....
 ......w.....
 ......R.....
@@ -500,7 +500,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 7 after 77ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 3562
-BigBrainD3 (White) placed a Round piece at column 7 after 190ms
+BigBrainD3 (White) placed a Round piece at column 7 after 208ms
 ......w.....
 .....Rw.....
 .....wR.....
@@ -516,7 +516,7 @@ BigBrainD3 (White) placed a Round piece at column 7 after 190ms
 
 NegamaxABH01D3 (Red) turn
 Did 1075 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 7 after 76ms
+NegamaxABH01D3 (Red) placed a Square piece at column 7 after 86ms
 ......w.....
 .....Rw.....
 .....wR.....
@@ -532,7 +532,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 7 after 76ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 3973
-BigBrainD3 (White) placed a Round piece at column 7 after 216ms
+BigBrainD3 (White) placed a Round piece at column 7 after 229ms
 ......w.....
 .....Rw.....
 .....wR.....
@@ -548,7 +548,7 @@ BigBrainD3 (White) placed a Round piece at column 7 after 216ms
 
 NegamaxABH01D3 (Red) turn
 Did 876 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 7 after 56ms
+NegamaxABH01D3 (Red) placed a Square piece at column 7 after 57ms
 ......w.....
 .....Rw.....
 .....wR.....
@@ -564,7 +564,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 7 after 56ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 3523
-BigBrainD3 (White) placed a Round piece at column 7 after 193ms
+BigBrainD3 (White) placed a Round piece at column 7 after 191ms
 ......w.....
 .....Rw.....
 .....wRw....
@@ -596,7 +596,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 9 after 62ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 2864
-BigBrainD3 (White) placed a Round piece at column 7 after 158ms
+BigBrainD3 (White) placed a Round piece at column 7 after 157ms
 ......w.....
 .....Rww....
 .....wRw....
@@ -628,7 +628,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 11 after 62ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 2389
-BigBrainD3 (White) placed a Round piece at column 3 after 133ms
+BigBrainD3 (White) placed a Round piece at column 3 after 132ms
 ......w.....
 .....Rww....
 .....wRw....
@@ -644,7 +644,7 @@ BigBrainD3 (White) placed a Round piece at column 3 after 133ms
 
 NegamaxABH01D3 (Red) turn
 Did 942 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 3 after 63ms
+NegamaxABH01D3 (Red) placed a Square piece at column 3 after 64ms
 ......w.....
 .....Rww....
 .....wRw....
@@ -676,7 +676,7 @@ BigBrainD3 (White) placed a Round piece at column 3 after 104ms
 
 NegamaxABH01D3 (Red) turn
 Did 928 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 3 after 64ms
+NegamaxABH01D3 (Red) placed a Square piece at column 3 after 65ms
 ......w.....
 .....Rww....
 .....wRw....
@@ -708,7 +708,7 @@ BigBrainD3 (White) placed a Round piece at column 3 after 117ms
 
 NegamaxABH01D3 (Red) turn
 Did 929 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 3 after 65ms
+NegamaxABH01D3 (Red) placed a Square piece at column 3 after 67ms
 ......w.....
 .....Rww....
 .....wRw....
@@ -724,7 +724,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 3 after 65ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 2021
-BigBrainD3 (White) placed a Round piece at column 3 after 122ms
+BigBrainD3 (White) placed a Round piece at column 3 after 123ms
 ......w.....
 .....Rww....
 .....wRw....
@@ -740,7 +740,7 @@ BigBrainD3 (White) placed a Round piece at column 3 after 122ms
 
 NegamaxABH01D3 (Red) turn
 Did 921 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 3 after 65ms
+NegamaxABH01D3 (Red) placed a Square piece at column 3 after 67ms
 ......w.....
 .....Rww....
 .....wRw....
@@ -772,7 +772,7 @@ BigBrainD3 (White) placed a Round piece at column 3 after 111ms
 
 NegamaxABH01D3 (Red) turn
 Did 775 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 1 after 55ms
+NegamaxABH01D3 (Red) placed a Square piece at column 1 after 57ms
 ......w.....
 .....Rww....
 ...w.wRw....
@@ -788,7 +788,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 1 after 55ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 1650
-BigBrainD3 (White) placed a Round piece at column 3 after 101ms
+BigBrainD3 (White) placed a Round piece at column 3 after 102ms
 ......w.....
 ...w.Rww....
 ...w.wRw....
@@ -804,7 +804,7 @@ BigBrainD3 (White) placed a Round piece at column 3 after 101ms
 
 NegamaxABH01D3 (Red) turn
 Did 1026 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 1 after 75ms
+NegamaxABH01D3 (Red) placed a Square piece at column 1 after 77ms
 ......w.....
 ...w.Rww....
 ...w.wRw....
@@ -820,7 +820,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 1 after 75ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 1913
-BigBrainD3 (White) placed a Round piece at column 9 after 119ms
+BigBrainD3 (White) placed a Round piece at column 9 after 120ms
 ......w.....
 ...w.Rww....
 ...w.wRw....
@@ -836,7 +836,7 @@ BigBrainD3 (White) placed a Round piece at column 9 after 119ms
 
 NegamaxABH01D3 (Red) turn
 Did 1045 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 9 after 77ms
+NegamaxABH01D3 (Red) placed a Square piece at column 9 after 79ms
 ......w.....
 ...w.Rww....
 ...w.wRw....
@@ -852,7 +852,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 9 after 77ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 2383
-BigBrainD3 (White) placed a Round piece at column 9 after 150ms
+BigBrainD3 (White) placed a Round piece at column 9 after 151ms
 ......w.....
 ...w.Rww....
 ...w.wRw....
@@ -868,7 +868,7 @@ BigBrainD3 (White) placed a Round piece at column 9 after 150ms
 
 NegamaxABH01D3 (Red) turn
 Did 1045 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 9 after 78ms
+NegamaxABH01D3 (Red) placed a Square piece at column 9 after 80ms
 ......w.....
 ...w.Rww....
 ...w.wRw....
@@ -884,7 +884,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 9 after 78ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 3145
-BigBrainD3 (White) placed a Round piece at column 9 after 201ms
+BigBrainD3 (White) placed a Round piece at column 9 after 202ms
 ......w.....
 ...w.Rww....
 ...w.wRw....
@@ -932,7 +932,7 @@ BigBrainD3 (White) placed a Round piece at column 9 after 214ms
 
 NegamaxABH01D3 (Red) turn
 Did 1069 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 9 after 79ms
+NegamaxABH01D3 (Red) placed a Square piece at column 9 after 81ms
 ......w.....
 ...w.Rww....
 ...w.wRw....
@@ -948,7 +948,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 9 after 79ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 2800
-BigBrainD3 (White) placed a Round piece at column 9 after 178ms
+BigBrainD3 (White) placed a Round piece at column 9 after 177ms
 ......w.....
 ...w.Rww....
 ...w.wRw.w..
@@ -964,7 +964,7 @@ BigBrainD3 (White) placed a Round piece at column 9 after 178ms
 
 NegamaxABH01D3 (Red) turn
 Did 1054 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 9 after 77ms
+NegamaxABH01D3 (Red) placed a Square piece at column 9 after 79ms
 ......w.....
 ...w.Rww.R..
 ...w.wRw.w..
@@ -996,7 +996,7 @@ BigBrainD3 (White) placed a Round piece at column 1 after 108ms
 
 NegamaxABH01D3 (Red) turn
 Did 883 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 1 after 65ms
+NegamaxABH01D3 (Red) placed a Square piece at column 1 after 66ms
 ......w.....
 ...w.Rww.R..
 ...w.wRw.w..
@@ -1012,7 +1012,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 1 after 65ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 1183
-BigBrainD3 (White) placed a Round piece at column 5 after 75ms
+BigBrainD3 (White) placed a Round piece at column 5 after 74ms
 .....ww.....
 ...w.Rww.R..
 ...w.wRw.w..
@@ -1028,7 +1028,7 @@ BigBrainD3 (White) placed a Round piece at column 5 after 75ms
 
 NegamaxABH01D3 (Red) turn
 Did 689 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 1 after 50ms
+NegamaxABH01D3 (Red) placed a Square piece at column 1 after 52ms
 .....ww.....
 ...w.Rww.R..
 ...w.wRw.w..
@@ -1060,7 +1060,7 @@ BigBrainD3 (White) placed a Round piece at column 1 after 56ms
 
 NegamaxABH01D3 (Red) turn
 Did 861 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 1 after 65ms
+NegamaxABH01D3 (Red) placed a Square piece at column 1 after 67ms
 .....ww.....
 ...w.Rww.R..
 ...w.wRw.w..
@@ -1076,7 +1076,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 1 after 65ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 1294
-BigBrainD3 (White) placed a Round piece at column 7 after 86ms
+BigBrainD3 (White) placed a Round piece at column 7 after 85ms
 .....www....
 ...w.Rww.R..
 ...w.wRw.w..
@@ -1092,7 +1092,7 @@ BigBrainD3 (White) placed a Round piece at column 7 after 86ms
 
 NegamaxABH01D3 (Red) turn
 Did 909 total evals
-NegamaxABH01D3 (Red) placed a Square piece at column 2 after 70ms
+NegamaxABH01D3 (Red) placed a Square piece at column 2 after 72ms
 .....www....
 ...w.Rww.R..
 ...w.wRw.w..
@@ -1108,7 +1108,7 @@ NegamaxABH01D3 (Red) placed a Square piece at column 2 after 70ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 727
-BigBrainD3 (White) placed a Round piece at column 1 after 49ms
+BigBrainD3 (White) placed a Round piece at column 1 after 48ms
 .....www....
 ...w.Rww.R..
 ...w.wRw.w..

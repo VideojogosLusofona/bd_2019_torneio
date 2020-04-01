@@ -14,7 +14,7 @@
 
 SureAIv28 (White) turn
 depth = 6
-Did 4948 evals
+Did 4907 evals
 SureAIv28 (White) placed a Round piece at column 3 after 186ms
 .......
 .......
@@ -24,7 +24,7 @@ SureAIv28 (White) placed a Round piece at column 3 after 186ms
 ...w...
 
 Bee (Red) turn
-Iterations: 10585
+Iterations: 10522
 Bee (Red) placed a Square piece at column 3 after 174ms
 .......
 .......
@@ -35,7 +35,7 @@ Bee (Red) placed a Square piece at column 3 after 174ms
 
 SureAIv28 (White) turn
 depth = 5
-Did 4653 evals
+Did 4620 evals
 SureAIv28 (White) placed a Round piece at column 3 after 186ms
 .......
 .......
@@ -45,7 +45,7 @@ SureAIv28 (White) placed a Round piece at column 3 after 186ms
 ...w...
 
 Bee (Red) turn
-Iterations: 10299
+Iterations: 10282
 Bee (Red) placed a Square piece at column 3 after 174ms
 .......
 .......
@@ -56,7 +56,7 @@ Bee (Red) placed a Square piece at column 3 after 174ms
 
 SureAIv28 (White) turn
 depth = 5
-Did 4289 evals
+Did 4296 evals
 SureAIv28 (White) placed a Round piece at column 2 after 186ms
 .......
 .......
@@ -66,8 +66,8 @@ SureAIv28 (White) placed a Round piece at column 2 after 186ms
 ..ww...
 
 Bee (Red) turn
-Iterations: 9601
-Bee (Red) placed a Square piece at column 3 after 173ms
+Iterations: 9726
+Bee (Red) placed a Square piece at column 3 after 174ms
 .......
 ...R...
 ...R...
@@ -77,7 +77,7 @@ Bee (Red) placed a Square piece at column 3 after 173ms
 
 SureAIv28 (White) turn
 depth = 6
-Did 3889 evals
+Did 3869 evals
 SureAIv28 (White) placed a Round piece at column 4 after 186ms
 .......
 ...R...
@@ -87,8 +87,8 @@ SureAIv28 (White) placed a Round piece at column 4 after 186ms
 ..www..
 
 Bee (Red) turn
-Iterations: 14595
-Bee (Red) placed a Square piece at column 3 after 173ms
+Iterations: 14688
+Bee (Red) placed a Square piece at column 3 after 172ms
 ...R...
 ...R...
 ...R...
@@ -98,7 +98,7 @@ Bee (Red) placed a Square piece at column 3 after 173ms
 
 SureAIv28 (White) turn
 depth = 7
-Did 4288 evals
+Did 4249 evals
 SureAIv28 (White) placed a Round piece at column 6 after 186ms
 ...R...
 ...R...
@@ -108,7 +108,7 @@ SureAIv28 (White) placed a Round piece at column 6 after 186ms
 ..www.w
 
 Bee (Red) turn
-Iterations: 8920
+Iterations: 11563
 Bee (Red) placed a Square piece at column 5 after 172ms
 ...R...
 ...R...
@@ -119,7 +119,7 @@ Bee (Red) placed a Square piece at column 5 after 172ms
 
 SureAIv28 (White) turn
 depth = 6
-Did 3794 evals
+Did 3784 evals
 SureAIv28 (White) placed a Round piece at column 1 after 186ms
 ...R...
 ...R...

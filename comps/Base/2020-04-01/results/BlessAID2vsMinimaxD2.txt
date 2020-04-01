@@ -22,7 +22,7 @@ BlessAID2 (White) placed a Round piece at column 3 after 0ms
 ...w...
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Square piece at column 3 after 3ms
+MinimaxD2 (Red) placed a Square piece at column 3 after 4ms
 .......
 .......
 .......
@@ -40,7 +40,7 @@ BlessAID2 (White) placed a Round piece at column 3 after 0ms
 ...w...
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Square piece at column 3 after 3ms
+MinimaxD2 (Red) placed a Square piece at column 3 after 4ms
 .......
 .......
 ...R...
@@ -58,7 +58,7 @@ BlessAID2 (White) placed a Round piece at column 3 after 0ms
 ...w...
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Square piece at column 3 after 3ms
+MinimaxD2 (Red) placed a Square piece at column 3 after 5ms
 ...R...
 ...w...
 ...R...
@@ -76,7 +76,7 @@ BlessAID2 (White) placed a Round piece at column 4 after 0ms
 ...ww..
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Square piece at column 4 after 2ms
+MinimaxD2 (Red) placed a Square piece at column 4 after 3ms
 ...R...
 ...w...
 ...R...
@@ -94,7 +94,7 @@ BlessAID2 (White) placed a Round piece at column 4 after 0ms
 ...ww..
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Square piece at column 4 after 2ms
+MinimaxD2 (Red) placed a Square piece at column 4 after 4ms
 ...R...
 ...w...
 ...RR..
@@ -112,7 +112,7 @@ BlessAID2 (White) placed a Round piece at column 4 after 0ms
 ...ww..
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Square piece at column 4 after 2ms
+MinimaxD2 (Red) placed a Square piece at column 4 after 3ms
 ...RR..
 ...ww..
 ...RR..
@@ -130,7 +130,7 @@ BlessAID2 (White) placed a Round piece at column 2 after 0ms
 ..www..
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Square piece at column 6 after 1ms
+MinimaxD2 (Red) placed a Square piece at column 6 after 2ms
 ...RR..
 ...ww..
 ...RR..

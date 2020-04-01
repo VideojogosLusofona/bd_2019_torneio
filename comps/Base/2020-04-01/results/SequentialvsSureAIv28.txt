@@ -23,7 +23,7 @@ w......
 
 SureAIv28 (Red) turn
 depth = 5
-Did 4630 evals
+Did 4228 evals
 SureAIv28 (Red) placed a Square piece at column 5 after 186ms
 .......
 .......
@@ -43,7 +43,7 @@ ww...R.
 
 SureAIv28 (Red) turn
 depth = 5
-Did 4258 evals
+Did 4035 evals
 SureAIv28 (Red) placed a Square piece at column 3 after 186ms
 .......
 .......
@@ -63,7 +63,7 @@ wwwR.R.
 
 SureAIv28 (Red) turn
 depth = 5
-Did 4161 evals
+Did 4170 evals
 SureAIv28 (Red) placed a Square piece at column 3 after 186ms
 .......
 .......
@@ -103,7 +103,7 @@ wwwRwR.
 
 SureAIv28 (Red) turn
 depth = 6
-Did 3504 evals
+Did 3495 evals
 SureAIv28 (Red) placed a Square piece at column 1 after 186ms
 .......
 .......
@@ -123,7 +123,7 @@ wwwRwR.
 
 SureAIv28 (Red) turn
 depth = 7
-Did 3265 evals
+Did 3259 evals
 SureAIv28 (Red) placed a Square piece at column 4 after 186ms
 .......
 .......

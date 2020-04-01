@@ -20,7 +20,7 @@
 
 SureAIv28 (White) turn
 depth = 4
-Did 2513 evals
+Did 2515 evals
 SureAIv28 (White) placed a Round piece at column 3 after 286ms
 ............
 ............
@@ -36,7 +36,7 @@ SureAIv28 (White) placed a Round piece at column 3 after 286ms
 ...w........
 
 Bee (Red) turn
-Iterations: 8953
+Iterations: 9037
 Bee (Red) placed a Square piece at column 3 after 274ms
 ............
 ............
@@ -53,7 +53,7 @@ Bee (Red) placed a Square piece at column 3 after 274ms
 
 SureAIv28 (White) turn
 depth = 4
-Did 2202 evals
+Did 2200 evals
 SureAIv28 (White) placed a Round piece at column 8 after 286ms
 ............
 ............
@@ -69,7 +69,7 @@ SureAIv28 (White) placed a Round piece at column 8 after 286ms
 ...w....w...
 
 Bee (Red) turn
-Iterations: 8677
+Iterations: 8785
 Bee (Red) placed a Square piece at column 8 after 275ms
 ............
 ............
@@ -86,7 +86,7 @@ Bee (Red) placed a Square piece at column 8 after 275ms
 
 SureAIv28 (White) turn
 depth = 4
-Did 1862 evals
+Did 1860 evals
 SureAIv28 (White) placed a Round piece at column 6 after 286ms
 ............
 ............
@@ -102,7 +102,7 @@ SureAIv28 (White) placed a Round piece at column 6 after 286ms
 ...w..w.w...
 
 Bee (Red) turn
-Iterations: 5918
+Iterations: 5330
 Bee (Red) loses match! Reason: Time limit expired
 ............
 ............
