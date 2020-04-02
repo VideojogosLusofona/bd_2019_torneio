@@ -1,0 +1,253 @@
+=> MinimaxD2 (White) vs Bee (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+.......
+.......
+.......
+.....w.
+
+Bee (Red) turn
+Iterations: 14099
+Bee (Red) placed a Square piece at column 5 after 172ms
+.......
+.......
+.......
+.......
+.....R.
+.....w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+.......
+.....w.
+.....R.
+.....w.
+
+Bee (Red) turn
+Iterations: 14806
+Bee (Red) placed a Square piece at column 5 after 172ms
+.......
+.......
+.....R.
+.....w.
+.....R.
+.....w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.......
+.....w.
+.....R.
+.....w.
+.....R.
+.....w.
+
+Bee (Red) turn
+Iterations: 14763
+Bee (Red) placed a Square piece at column 5 after 172ms
+.....R.
+.....w.
+.....R.
+.....w.
+.....R.
+.....w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 2ms
+.....R.
+.....w.
+.....R.
+.....w.
+.....R.
+.w...w.
+
+Bee (Red) turn
+Iterations: 14701
+Bee (Red) placed a Square piece at column 4 after 171ms
+.....R.
+.....w.
+.....R.
+.....w.
+.....R.
+.w..Rw.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 2ms
+.....R.
+.....w.
+.....R.
+.....w.
+.w...R.
+.w..Rw.
+
+Bee (Red) turn
+Iterations: 10373
+Bee (Red) placed a Square piece at column 4 after 172ms
+.....R.
+.....w.
+.....R.
+.....w.
+.w..RR.
+.w..Rw.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 4 after 2ms
+.....R.
+.....w.
+.....R.
+....ww.
+.w..RR.
+.w..Rw.
+
+Bee (Red) turn
+Iterations: 8536
+Bee (Red) placed a Square piece at column 4 after 172ms
+.....R.
+.....w.
+....RR.
+....ww.
+.w..RR.
+.w..Rw.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 4 after 2ms
+.....R.
+....ww.
+....RR.
+....ww.
+.w..RR.
+.w..Rw.
+
+Bee (Red) turn
+Iterations: 8609
+Bee (Red) placed a Square piece at column 4 after 172ms
+....RR.
+....ww.
+....RR.
+....ww.
+.w..RR.
+.w..Rw.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 2ms
+....RR.
+....ww.
+....RR.
+.w..ww.
+.w..RR.
+.w..Rw.
+
+Bee (Red) turn
+Iterations: 9356
+Bee (Red) placed a Square piece at column 1 after 172ms
+....RR.
+....ww.
+.R..RR.
+.w..ww.
+.w..RR.
+.w..Rw.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 2ms
+....RR.
+.w..ww.
+.R..RR.
+.w..ww.
+.w..RR.
+.w..Rw.
+
+Bee (Red) turn
+Iterations: 9672
+Bee (Red) placed a Square piece at column 1 after 172ms
+.R..RR.
+.w..ww.
+.R..RR.
+.w..ww.
+.w..RR.
+.w..Rw.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 2 after 1ms
+.R..RR.
+.w..ww.
+.R..RR.
+.w..ww.
+.w..RR.
+.ww.Rw.
+
+Bee (Red) turn
+Iterations: 9656
+Bee (Red) placed a Square piece at column 2 after 171ms
+.R..RR.
+.w..ww.
+.R..RR.
+.w..ww.
+.wR.RR.
+.ww.Rw.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 6 after 0ms
+.R..RR.
+.w..ww.
+.R..RR.
+.w..ww.
+.wR.RR.
+.ww.RwW
+
+Bee (Red) turn
+Iterations: 8572
+Bee (Red) placed a Square piece at column 6 after 171ms
+.R..RR.
+.w..ww.
+.R..RR.
+.w..ww.
+.wR.RRR
+.ww.RwW
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 6 after 0ms
+.R..RR.
+.w..ww.
+.R..RR.
+.w..wwW
+.wR.RRR
+.ww.RwW
+
+Bee (Red) turn
+Iterations: 8541
+Bee (Red) placed a Round piece at column 3 after 171ms
+.R..RR.
+.w..ww.
+.R..RR.
+.w..wwW
+.wR.RRR
+.wwrRwW
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 6 after 6ms
+.R..RR.
+.w..ww.
+.R..RRW
+.w..wwW
+.wR.RRR
+.wwrRwW
+
+Winner is Bee (Red)
+Solution=(0,6)(1,6)(2,6)(3,6)
