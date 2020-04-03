@@ -1,0 +1,854 @@
+=> MinimaxD2 (White) vs Sure AI (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+............
+............
+............
+............
+............
+............
+............
+............
+............
+............
+............
+............
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 9 after 22ms
+............
+............
+............
+............
+............
+............
+............
+............
+............
+............
+............
+.........w..
+
+Sure AI (Red) turn
+depth = 4
+Did 2379 evals
+Sure AI (Red) placed a Square piece at column 8 after 286ms
+............
+............
+............
+............
+............
+............
+............
+............
+............
+............
+............
+........Rw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 9 after 23ms
+............
+............
+............
+............
+............
+............
+............
+............
+............
+............
+.........w..
+........Rw..
+
+Sure AI (Red) turn
+depth = 4
+Did 2251 evals
+Sure AI (Red) placed a Square piece at column 5 after 286ms
+............
+............
+............
+............
+............
+............
+............
+............
+............
+............
+.........w..
+.....R..Rw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 9 after 24ms
+............
+............
+............
+............
+............
+............
+............
+............
+............
+.........w..
+.........w..
+.....R..Rw..
+
+Sure AI (Red) turn
+depth = 4
+Did 1910 evals
+Sure AI (Red) placed a Square piece at column 8 after 286ms
+............
+............
+............
+............
+............
+............
+............
+............
+............
+.........w..
+........Rw..
+.....R..Rw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 9 after 24ms
+............
+............
+............
+............
+............
+............
+............
+............
+.........w..
+.........w..
+........Rw..
+.....R..Rw..
+
+Sure AI (Red) turn
+depth = 4
+Did 1849 evals
+Sure AI (Red) placed a Square piece at column 4 after 286ms
+............
+............
+............
+............
+............
+............
+............
+............
+.........w..
+.........w..
+........Rw..
+....RR..Rw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 9 after 25ms
+............
+............
+............
+............
+............
+............
+............
+.........w..
+.........w..
+.........w..
+........Rw..
+....RR..Rw..
+
+Sure AI (Red) turn
+depth = 3
+Did 2688 evals
+Sure AI (Red) placed a Square piece at column 9 after 286ms
+............
+............
+............
+............
+............
+............
+.........R..
+.........w..
+.........w..
+.........w..
+........Rw..
+....RR..Rw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 9 after 26ms
+............
+............
+............
+............
+............
+.........w..
+.........R..
+.........w..
+.........w..
+.........w..
+........Rw..
+....RR..Rw..
+
+Sure AI (Red) turn
+depth = 4
+Did 1626 evals
+Sure AI (Red) placed a Square piece at column 3 after 286ms
+............
+............
+............
+............
+............
+.........w..
+.........R..
+.........w..
+.........w..
+.........w..
+........Rw..
+...RRR..Rw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 9 after 26ms
+............
+............
+............
+............
+.........w..
+.........w..
+.........R..
+.........w..
+.........w..
+.........w..
+........Rw..
+...RRR..Rw..
+
+Sure AI (Red) turn
+depth = 4
+Did 1707 evals
+Sure AI (Red) placed a Square piece at column 6 after 286ms
+............
+............
+............
+............
+.........w..
+.........w..
+.........R..
+.........w..
+.........w..
+.........w..
+........Rw..
+...RRRR.Rw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 7 after 25ms
+............
+............
+............
+............
+.........w..
+.........w..
+.........R..
+.........w..
+.........w..
+.........w..
+........Rw..
+...RRRRwRw..
+
+Sure AI (Red) turn
+depth = 4
+Did 1536 evals
+Sure AI (Red) placed a Square piece at column 3 after 286ms
+............
+............
+............
+............
+.........w..
+.........w..
+.........R..
+.........w..
+.........w..
+.........w..
+...R....Rw..
+...RRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 9 after 27ms
+............
+............
+............
+.........w..
+.........w..
+.........w..
+.........R..
+.........w..
+.........w..
+.........w..
+...R....Rw..
+...RRRRwRw..
+
+Sure AI (Red) turn
+depth = 4
+Did 1465 evals
+Sure AI (Red) placed a Square piece at column 3 after 286ms
+............
+............
+............
+.........w..
+.........w..
+.........w..
+.........R..
+.........w..
+.........w..
+...R.....w..
+...R....Rw..
+...RRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 9 after 28ms
+............
+............
+.........w..
+.........w..
+.........w..
+.........w..
+.........R..
+.........w..
+.........w..
+...R.....w..
+...R....Rw..
+...RRRRwRw..
+
+Sure AI (Red) turn
+depth = 4
+Did 1390 evals
+Sure AI (Red) placed a Square piece at column 2 after 286ms
+............
+............
+.........w..
+.........w..
+.........w..
+.........w..
+.........R..
+.........w..
+.........w..
+...R.....w..
+...R....Rw..
+..RRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 27ms
+............
+............
+.........w..
+.........w..
+.........w..
+.........w..
+.........R..
+.........w..
+.........w..
+...R.....w..
+...R....Rw..
+.wRRRRRwRw..
+
+Sure AI (Red) turn
+depth = 4
+Did 1388 evals
+Sure AI (Red) placed a Square piece at column 3 after 286ms
+............
+............
+.........w..
+.........w..
+.........w..
+.........w..
+.........R..
+.........w..
+...R.....w..
+...R.....w..
+...R....Rw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 3 after 29ms
+............
+............
+.........w..
+.........w..
+.........w..
+.........w..
+.........R..
+...w.....w..
+...R.....w..
+...R.....w..
+...R....Rw..
+.wRRRRRwRw..
+
+Sure AI (Red) turn
+depth = 3
+Did 1398 evals
+Sure AI (Red) placed a Square piece at column 6 after 286ms
+............
+............
+.........w..
+.........w..
+.........w..
+.........w..
+.........R..
+...w.....w..
+...R.....w..
+...R.....w..
+...R..R.Rw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 3 after 30ms
+............
+............
+.........w..
+.........w..
+.........w..
+.........w..
+...w.....R..
+...w.....w..
+...R.....w..
+...R.....w..
+...R..R.Rw..
+.wRRRRRwRw..
+
+Sure AI (Red) turn
+depth = 4
+Did 1330 evals
+Sure AI (Red) placed a Square piece at column 4 after 286ms
+............
+............
+.........w..
+.........w..
+.........w..
+.........w..
+...w.....R..
+...w.....w..
+...R.....w..
+...R.....w..
+...RR.R.Rw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 3 after 31ms
+............
+............
+.........w..
+.........w..
+.........w..
+...w.....w..
+...w.....R..
+...w.....w..
+...R.....w..
+...R.....w..
+...RR.R.Rw..
+.wRRRRRwRw..
+
+Sure AI (Red) turn
+depth = 4
+Did 1249 evals
+Sure AI (Red) placed a Square piece at column 5 after 286ms
+............
+............
+.........w..
+.........w..
+.........w..
+...w.....w..
+...w.....R..
+...w.....w..
+...R.....w..
+...R.....w..
+...RRRR.Rw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 7 after 29ms
+............
+............
+.........w..
+.........w..
+.........w..
+...w.....w..
+...w.....R..
+...w.....w..
+...R.....w..
+...R.....w..
+...RRRRwRw..
+.wRRRRRwRw..
+
+Sure AI (Red) turn
+depth = 3
+Did 1499 evals
+Sure AI (Red) placed a Square piece at column 2 after 286ms
+............
+............
+.........w..
+.........w..
+.........w..
+...w.....w..
+...w.....R..
+...w.....w..
+...R.....w..
+...R.....w..
+..RRRRRwRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 34ms
+............
+............
+.........w..
+.........w..
+.........w..
+...w.....w..
+...w.....R..
+...w.....w..
+...R.....w..
+...R.....w..
+.wRRRRRwRw..
+.wRRRRRwRw..
+
+Sure AI (Red) turn
+depth = 4
+Did 1188 evals
+Sure AI (Red) placed a Square piece at column 4 after 286ms
+............
+............
+.........w..
+.........w..
+.........w..
+...w.....w..
+...w.....R..
+...w.....w..
+...R.....w..
+...RR....w..
+.wRRRRRwRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 3 after 31ms
+............
+............
+.........w..
+.........w..
+...w.....w..
+...w.....w..
+...w.....R..
+...w.....w..
+...R.....w..
+...RR....w..
+.wRRRRRwRw..
+.wRRRRRwRw..
+
+Sure AI (Red) turn
+depth = 4
+Did 1072 evals
+Sure AI (Red) placed a Square piece at column 8 after 286ms
+............
+............
+.........w..
+.........w..
+...w.....w..
+...w.....w..
+...w.....R..
+...w.....w..
+...R.....w..
+...RR...Rw..
+.wRRRRRwRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 3 after 32ms
+............
+............
+.........w..
+...w.....w..
+...w.....w..
+...w.....w..
+...w.....R..
+...w.....w..
+...R.....w..
+...RR...Rw..
+.wRRRRRwRw..
+.wRRRRRwRw..
+
+Sure AI (Red) turn
+depth = 3
+Did 1502 evals
+Sure AI (Red) placed a Square piece at column 3 after 286ms
+............
+............
+...R.....w..
+...w.....w..
+...w.....w..
+...w.....w..
+...w.....R..
+...w.....w..
+...R.....w..
+...RR...Rw..
+.wRRRRRwRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 8 after 32ms
+............
+............
+...R.....w..
+...w.....w..
+...w.....w..
+...w.....w..
+...w.....R..
+...w.....w..
+...R....ww..
+...RR...Rw..
+.wRRRRRwRw..
+.wRRRRRwRw..
+
+Sure AI (Red) turn
+depth = 3
+Did 1076 evals
+Sure AI (Red) placed a Square piece at column 8 after 286ms
+............
+............
+...R.....w..
+...w.....w..
+...w.....w..
+...w.....w..
+...w.....R..
+...w....Rw..
+...R....ww..
+...RR...Rw..
+.wRRRRRwRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 8 after 34ms
+............
+............
+...R.....w..
+...w.....w..
+...w.....w..
+...w.....w..
+...w....wR..
+...w....Rw..
+...R....ww..
+...RR...Rw..
+.wRRRRRwRw..
+.wRRRRRwRw..
+
+Sure AI (Red) turn
+depth = 3
+Did 1050 evals
+Sure AI (Red) placed a Square piece at column 7 after 286ms
+............
+............
+...R.....w..
+...w.....w..
+...w.....w..
+...w.....w..
+...w....wR..
+...w....Rw..
+...R....ww..
+...RR..RRw..
+.wRRRRRwRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 8 after 34ms
+............
+............
+...R.....w..
+...w.....w..
+...w.....w..
+...w....ww..
+...w....wR..
+...w....Rw..
+...R....ww..
+...RR..RRw..
+.wRRRRRwRw..
+.wRRRRRwRw..
+
+Sure AI (Red) turn
+depth = 3
+Did 1005 evals
+Sure AI (Red) placed a Square piece at column 6 after 286ms
+............
+............
+...R.....w..
+...w.....w..
+...w.....w..
+...w....ww..
+...w....wR..
+...w....Rw..
+...R....ww..
+...RR.RRRw..
+.wRRRRRwRw..
+.wRRRRRwRw..
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 11 after 31ms
+............
+............
+...R.....w..
+...w.....w..
+...w.....w..
+...w....ww..
+...w....wR..
+...w....Rw..
+...R....ww..
+...RR.RRRw..
+.wRRRRRwRw..
+.wRRRRRwRw.W
+
+Sure AI (Red) turn
+depth = 4
+Did 1022 evals
+Sure AI (Red) placed a Square piece at column 6 after 286ms
+............
+............
+...R.....w..
+...w.....w..
+...w.....w..
+...w....ww..
+...w....wR..
+...w....Rw..
+...R..R.ww..
+...RR.RRRw..
+.wRRRRRwRw..
+.wRRRRRwRw.W
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 11 after 32ms
+............
+............
+...R.....w..
+...w.....w..
+...w.....w..
+...w....ww..
+...w....wR..
+...w....Rw..
+...R..R.ww..
+...RR.RRRw..
+.wRRRRRwRw.W
+.wRRRRRwRw.W
+
+Sure AI (Red) turn
+depth = 4
+Did 988 evals
+Sure AI (Red) placed a Square piece at column 2 after 286ms
+............
+............
+...R.....w..
+...w.....w..
+...w.....w..
+...w....ww..
+...w....wR..
+...w....Rw..
+...R..R.ww..
+..RRR.RRRw..
+.wRRRRRwRw.W
+.wRRRRRwRw.W
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 11 after 32ms
+............
+............
+...R.....w..
+...w.....w..
+...w.....w..
+...w....ww..
+...w....wR..
+...w....Rw..
+...R..R.ww..
+..RRR.RRRw.W
+.wRRRRRwRw.W
+.wRRRRRwRw.W
+
+Sure AI (Red) turn
+depth = 4
+Did 1038 evals
+Sure AI (Red) placed a Square piece at column 1 after 286ms
+............
+............
+...R.....w..
+...w.....w..
+...w.....w..
+...w....ww..
+...w....wR..
+...w....Rw..
+...R..R.ww..
+.RRRR.RRRw.W
+.wRRRRRwRw.W
+.wRRRRRwRw.W
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 11 after 32ms
+............
+............
+...R.....w..
+...w.....w..
+...w.....w..
+...w....ww..
+...w....wR..
+...w....Rw..
+...R..R.ww.W
+.RRRR.RRRw.W
+.wRRRRRwRw.W
+.wRRRRRwRw.W
+
+Sure AI (Red) turn
+depth = 4
+Did 932 evals
+Sure AI (Red) placed a Square piece at column 2 after 286ms
+............
+............
+...R.....w..
+...w.....w..
+...w.....w..
+...w....ww..
+...w....wR..
+...w....Rw..
+..RR..R.ww.W
+.RRRR.RRRw.W
+.wRRRRRwRw.W
+.wRRRRRwRw.W
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 11 after 32ms
+............
+............
+...R.....w..
+...w.....w..
+...w.....w..
+...w....ww..
+...w....wR..
+...w....Rw.W
+..RR..R.ww.W
+.RRRR.RRRw.W
+.wRRRRRwRw.W
+.wRRRRRwRw.W
+
+Sure AI (Red) turn
+depth = 4
+Did 1269 evals
+Sure AI (Red) placed a Square piece at column 5 after 286ms
+............
+............
+...R.....w..
+...w.....w..
+...w.....w..
+...w....ww..
+...w....wR..
+...w....Rw.W
+..RR..R.ww.W
+.RRRRRRRRw.W
+.wRRRRRwRw.W
+.wRRRRRwRw.W
+
+Winner is Sure AI (Red)
+Solution=(2,1)(2,2)(2,3)(2,4)(2,5)(2,6)

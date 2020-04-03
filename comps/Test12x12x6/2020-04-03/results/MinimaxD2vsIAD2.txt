@@ -19,7 +19,7 @@
 ............
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 9 after 30ms
+MinimaxD2 (White) placed a Round piece at column 9 after 22ms
 ............
 ............
 ............
@@ -49,7 +49,7 @@ IAD2 (Red) placed a Square piece at column 6 after 14ms
 ......R..w..
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 9 after 24ms
+MinimaxD2 (White) placed a Round piece at column 9 after 23ms
 ............
 ............
 ............
@@ -139,7 +139,7 @@ IAD2 (Red) placed a Round piece at column 6 after 17ms
 ......R..w..
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 6 after 26ms
+MinimaxD2 (White) placed a Round piece at column 6 after 25ms
 ............
 ............
 ............
@@ -199,7 +199,7 @@ IAD2 (Red) placed a Square piece at column 6 after 10ms
 ......R..w..
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 6 after 27ms
+MinimaxD2 (White) placed a Round piece at column 6 after 26ms
 ............
 ............
 ......w.....
@@ -229,7 +229,7 @@ IAD2 (Red) placed a Round piece at column 6 after 18ms
 ......R..w..
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 9 after 27ms
+MinimaxD2 (White) placed a Round piece at column 9 after 26ms
 ............
 ......r.....
 ......w.....
@@ -289,7 +289,7 @@ IAD2 (Red) placed a Square piece at column 9 after 19ms
 ......R..w..
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 9 after 24ms
+MinimaxD2 (White) placed a Round piece at column 9 after 23ms
 ......r.....
 ......r.....
 ......w.....
@@ -349,7 +349,7 @@ IAD2 (Red) placed a Round piece at column 5 after 12ms
 .....rR..w..
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 9 after 25ms
+MinimaxD2 (White) placed a Round piece at column 9 after 24ms
 ......r.....
 ......r.....
 ......w.....
@@ -544,7 +544,7 @@ MinimaxD2 (White) placed a Round piece at column 9 after 22ms
 .....rR..w..
 
 IAD2 (Red) turn
-IAD2 (Red) placed a Square piece at column 9 after 15ms
+IAD2 (Red) placed a Square piece at column 9 after 16ms
 .....rr..R..
 .....Rr..w..
 .....ww..w..
@@ -559,7 +559,7 @@ IAD2 (Red) placed a Square piece at column 9 after 15ms
 .....rR..w..
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 3 after 18ms
+MinimaxD2 (White) placed a Round piece at column 3 after 17ms
 .....rr..R..
 .....Rr..w..
 .....ww..w..
@@ -649,7 +649,7 @@ IAD2 (Red) placed a Square piece at column 7 after 11ms
 ...w.rRR.w..
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 7 after 18ms
+MinimaxD2 (White) placed a Round piece at column 7 after 19ms
 .....rr..R..
 .....Rr..w..
 .....ww..w..
@@ -739,7 +739,7 @@ IAD2 (Red) placed a Square piece at column 7 after 11ms
 ...w.rRR.w..
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 7 after 19ms
+MinimaxD2 (White) placed a Round piece at column 7 after 20ms
 .....rr..R..
 .....Rr..w..
 .....www.w..
@@ -799,7 +799,7 @@ IAD2 (Red) placed a Round piece at column 7 after 10ms
 ...w.rRR.w..
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 3 after 15ms
+MinimaxD2 (White) placed a Round piece at column 3 after 16ms
 .....rrr.R..
 .....RrR.w..
 .....www.w..
@@ -949,7 +949,7 @@ IAD2 (Red) placed a Square piece at column 8 after 11ms
 ...w.rRRRw..
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 8 after 16ms
+MinimaxD2 (White) placed a Round piece at column 8 after 17ms
 .....rrr.R..
 .....RrR.w..
 ...w.www.w..
@@ -1054,7 +1054,7 @@ MinimaxD2 (White) placed a Round piece at column 8 after 17ms
 ...w.rRRRw..
 
 IAD2 (Red) turn
-IAD2 (Red) placed a Round piece at column 8 after 7ms
+IAD2 (Red) placed a Round piece at column 8 after 8ms
 .....rrrrR..
 .....RrRww..
 ...w.wwwRw..
@@ -1114,7 +1114,7 @@ MinimaxD2 (White) placed a Square piece at column 11 after 5ms
 ...w.rRRRw.W
 
 IAD2 (Red) turn
-IAD2 (Red) placed a Round piece at column 4 after 4ms
+IAD2 (Red) placed a Round piece at column 4 after 5ms
 ...r.rrrrR..
 ...W.RrRww..
 ...w.wwwRw..
@@ -1234,7 +1234,7 @@ MinimaxD2 (White) placed a Square piece at column 10 after 5ms
 ...wrrRRRwWW
 
 IAD2 (Red) turn
-IAD2 (Red) placed a Square piece at column 4 after 4ms
+IAD2 (Red) placed a Square piece at column 4 after 5ms
 ...r.rrrrR..
 ...W.RrRww..
 ...w.wwwRw..
@@ -1264,7 +1264,7 @@ MinimaxD2 (White) placed a Square piece at column 4 after 5ms
 ...wrrRRRwWW
 
 IAD2 (Red) turn
-IAD2 (Red) placed a Round piece at column 4 after 4ms
+IAD2 (Red) placed a Round piece at column 4 after 5ms
 ...r.rrrrR..
 ...W.RrRww..
 ...w.wwwRw..
@@ -1369,7 +1369,7 @@ IAD2 (Red) placed a Square piece at column 2 after 3ms
 ..RwrrRRRwWW
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Square piece at column 10 after 3ms
+MinimaxD2 (White) placed a Square piece at column 10 after 4ms
 ...rWrrrrR..
 ...WrRrRww..
 ...wWwwwRw..
@@ -1429,7 +1429,7 @@ IAD2 (Red) placed a Round piece at column 2 after 3ms
 .WRwrrRRRwWW
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Square piece at column 10 after 3ms
+MinimaxD2 (White) placed a Square piece at column 10 after 4ms
 ...rWrrrrR..
 ...WrRrRww..
 ...wWwwwRw..
@@ -1444,7 +1444,7 @@ MinimaxD2 (White) placed a Square piece at column 10 after 3ms
 .WRwrrRRRwWW
 
 IAD2 (Red) turn
-IAD2 (Red) placed a Square piece at column 2 after 4ms
+IAD2 (Red) placed a Square piece at column 2 after 3ms
 ...rWrrrrR..
 ...WrRrRww..
 ...wWwwwRw..

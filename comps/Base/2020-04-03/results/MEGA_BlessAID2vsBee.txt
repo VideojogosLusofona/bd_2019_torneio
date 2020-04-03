@@ -1,0 +1,225 @@
+=> MEGA_BlessAID2 (White) vs Bee (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+.......
+.......
+.......
+.....w.
+
+Bee (Red) turn
+0
+Bee (Red) placed a Square piece at column 3 after 170ms
+.......
+.......
+.......
+.......
+.......
+...R.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+.......
+.......
+.....w.
+...R.w.
+
+Bee (Red) turn
+716
+Bee (Red) placed a Square piece at column 5 after 170ms
+.......
+.......
+.......
+.....R.
+.....w.
+...R.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+.....w.
+.....R.
+.....w.
+...R.w.
+
+Bee (Red) turn
+1832
+Bee (Red) placed a Square piece at column 4 after 170ms
+.......
+.......
+.....w.
+.....R.
+.....w.
+...RRw.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 5 after 2ms
+.......
+.....w.
+.....w.
+.....R.
+.....w.
+...RRw.
+
+Bee (Red) turn
+2910
+Bee (Red) placed a Square piece at column 0 after 170ms
+.......
+.....w.
+.....w.
+.....R.
+.....w.
+R..RRw.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Square piece at column 5 after 2ms
+.....W.
+.....w.
+.....w.
+.....R.
+.....w.
+R..RRw.
+
+Bee (Red) turn
+4402
+Bee (Red) placed a Round piece at column 0 after 170ms
+.....W.
+.....w.
+.....w.
+.....R.
+r....w.
+R..RRw.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 1 after 2ms
+.....W.
+.....w.
+.....w.
+.....R.
+r....w.
+Rw.RRw.
+
+Bee (Red) turn
+5566
+Bee (Red) placed a Round piece at column 0 after 170ms
+.....W.
+.....w.
+.....w.
+r....R.
+r....w.
+Rw.RRw.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Square piece at column 0 after 0ms
+.....W.
+.....w.
+W....w.
+r....R.
+r....w.
+Rw.RRw.
+
+Bee (Red) turn
+7428
+Bee (Red) placed a Square piece at column 0 after 170ms
+.....W.
+R....w.
+W....w.
+r....R.
+r....w.
+Rw.RRw.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 2 after 2ms
+.....W.
+R....w.
+W....w.
+r....R.
+r....w.
+RwwRRw.
+
+Bee (Red) turn
+9186
+Bee (Red) placed a Square piece at column 3 after 170ms
+.....W.
+R....w.
+W....w.
+r....R.
+r..R.w.
+RwwRRw.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 2 after 2ms
+.....W.
+R....w.
+W....w.
+r....R.
+r.wR.w.
+RwwRRw.
+
+Bee (Red) turn
+11609
+Bee (Red) placed a Round piece at column 0 after 170ms
+r....W.
+R....w.
+W....w.
+r....R.
+r.wR.w.
+RwwRRw.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Square piece at column 1 after 1ms
+r....W.
+R....w.
+W....w.
+r....R.
+rWwR.w.
+RwwRRw.
+
+Bee (Red) turn
+13557
+Bee (Red) placed a Round piece at column 1 after 170ms
+r....W.
+R....w.
+W....w.
+rr...R.
+rWwR.w.
+RwwRRw.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Square piece at column 1 after 1ms
+r....W.
+R....w.
+WW...w.
+rr...R.
+rWwR.w.
+RwwRRw.
+
+Bee (Red) turn
+15753
+Bee (Red) placed a Square piece at column 2 after 170ms
+r....W.
+R....w.
+WW...w.
+rrR..R.
+rWwR.w.
+RwwRRw.
+
+Winner is Bee (Red)
+Solution=(0,4)(1,3)(2,2)(3,1)

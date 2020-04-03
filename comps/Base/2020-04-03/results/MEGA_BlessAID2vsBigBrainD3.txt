@@ -1,0 +1,282 @@
+=> MEGA_BlessAID2 (White) vs BigBrainD3 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 5 after 2ms
+.......
+.......
+.......
+.......
+.......
+.....w.
+
+BigBrainD3 (Red) turn
+Heuristic: ShapeHeuristic Color: Red numEvals: 887
+BigBrainD3 (Red) placed a Square piece at column 3 after 13ms
+.......
+.......
+.......
+.......
+.......
+...R.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+.......
+.......
+.....w.
+...R.w.
+
+BigBrainD3 (Red) turn
+Heuristic: ShapeHeuristic Color: Red numEvals: 989
+BigBrainD3 (Red) placed a Square piece at column 3 after 15ms
+.......
+.......
+.......
+.......
+...R.w.
+...R.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+.......
+.....w.
+...R.w.
+...R.w.
+
+BigBrainD3 (Red) turn
+Heuristic: ShapeHeuristic Color: Red numEvals: 1085
+BigBrainD3 (Red) placed a Square piece at column 5 after 18ms
+.......
+.......
+.....R.
+.....w.
+...R.w.
+...R.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 5 after 3ms
+.......
+.....w.
+.....R.
+.....w.
+...R.w.
+...R.w.
+
+BigBrainD3 (Red) turn
+Heuristic: ShapeHeuristic Color: Red numEvals: 1137
+BigBrainD3 (Red) placed a Square piece at column 5 after 19ms
+.....R.
+.....w.
+.....R.
+.....w.
+...R.w.
+...R.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 1 after 2ms
+.....R.
+.....w.
+.....R.
+.....w.
+...R.w.
+.w.R.w.
+
+BigBrainD3 (Red) turn
+Heuristic: ShapeHeuristic Color: Red numEvals: 690
+BigBrainD3 (Red) placed a Square piece at column 1 after 12ms
+.....R.
+.....w.
+.....R.
+.....w.
+.R.R.w.
+.w.R.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 1 after 2ms
+.....R.
+.....w.
+.....R.
+.w...w.
+.R.R.w.
+.w.R.w.
+
+BigBrainD3 (Red) turn
+Heuristic: ShapeHeuristic Color: Red numEvals: 574
+BigBrainD3 (Red) placed a Square piece at column 1 after 10ms
+.....R.
+.....w.
+.R...R.
+.w...w.
+.R.R.w.
+.w.R.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 1 after 2ms
+.....R.
+.w...w.
+.R...R.
+.w...w.
+.R.R.w.
+.w.R.w.
+
+BigBrainD3 (Red) turn
+Heuristic: ShapeHeuristic Color: Red numEvals: 658
+BigBrainD3 (Red) placed a Square piece at column 1 after 12ms
+.R...R.
+.w...w.
+.R...R.
+.w...w.
+.R.R.w.
+.w.R.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 3 after 1ms
+.R...R.
+.w...w.
+.R...R.
+.w.w.w.
+.R.R.w.
+.w.R.w.
+
+BigBrainD3 (Red) turn
+Heuristic: ShapeHeuristic Color: Red numEvals: 456
+BigBrainD3 (Red) placed a Square piece at column 3 after 8ms
+.R...R.
+.w...w.
+.R.R.R.
+.w.w.w.
+.R.R.w.
+.w.R.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 3 after 2ms
+.R...R.
+.w.w.w.
+.R.R.R.
+.w.w.w.
+.R.R.w.
+.w.R.w.
+
+BigBrainD3 (Red) turn
+Heuristic: ShapeHeuristic Color: Red numEvals: 341
+BigBrainD3 (Red) placed a Square piece at column 3 after 6ms
+.R.R.R.
+.w.w.w.
+.R.R.R.
+.w.w.w.
+.R.R.w.
+.w.R.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Square piece at column 0 after 1ms
+.R.R.R.
+.w.w.w.
+.R.R.R.
+.w.w.w.
+.R.R.w.
+Ww.R.w.
+
+BigBrainD3 (Red) turn
+Heuristic: ShapeHeuristic Color: Red numEvals: 206
+BigBrainD3 (Red) placed a Square piece at column 2 after 4ms
+.R.R.R.
+.w.w.w.
+.R.R.R.
+.w.w.w.
+.R.R.w.
+WwRR.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 4 after 1ms
+.R.R.R.
+.w.w.w.
+.R.R.R.
+.w.w.w.
+.R.R.w.
+WwRRww.
+
+BigBrainD3 (Red) turn
+Heuristic: ShapeHeuristic Color: Red numEvals: 19
+BigBrainD3 (Red) placed a Round piece at column 0 after 0ms
+.R.R.R.
+.w.w.w.
+.R.R.R.
+.w.w.w.
+rR.R.w.
+WwRRww.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Square piece at column 6 after 0ms
+.R.R.R.
+.w.w.w.
+.R.R.R.
+.w.w.w.
+rR.R.w.
+WwRRwwW
+
+BigBrainD3 (Red) turn
+Heuristic: ShapeHeuristic Color: Red numEvals: 19
+BigBrainD3 (Red) placed a Round piece at column 0 after 0ms
+.R.R.R.
+.w.w.w.
+.R.R.R.
+rw.w.w.
+rR.R.w.
+WwRRwwW
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Square piece at column 2 after 0ms
+.R.R.R.
+.w.w.w.
+.R.R.R.
+rw.w.w.
+rRWR.w.
+WwRRwwW
+
+BigBrainD3 (Red) turn
+Heuristic: ShapeHeuristic Color: Red numEvals: 12
+BigBrainD3 (Red) placed a Round piece at column 0 after 0ms
+.R.R.R.
+.w.w.w.
+rR.R.R.
+rw.w.w.
+rRWR.w.
+WwRRwwW
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Square piece at column 6 after 0ms
+.R.R.R.
+.w.w.w.
+rR.R.R.
+rw.w.w.
+rRWR.wW
+WwRRwwW
+
+BigBrainD3 (Red) turn
+Heuristic: ShapeHeuristic Color: Red numEvals: 3
+BigBrainD3 (Red) placed a Square piece at column 0 after 0ms
+.R.R.R.
+Rw.w.w.
+rR.R.R.
+rw.w.w.
+rRWR.wW
+WwRRwwW
+
+Winner is BigBrainD3 (Red)
+Solution=(1,0)(2,0)(3,0)(4,0)

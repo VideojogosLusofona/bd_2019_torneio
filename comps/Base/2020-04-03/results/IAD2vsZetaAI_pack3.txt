@@ -22,7 +22,7 @@ IAD2 (White) placed a Round piece at column 3 after 1ms
 ...w...
 
 ZetaAI_pack3 (Red) turn
-ZetaAI_pack3 (Red) placed a Square piece at column 4 after 30ms
+ZetaAI_pack3 (Red) placed a Square piece at column 4 after 29ms
 .......
 .......
 .......
@@ -40,7 +40,7 @@ IAD2 (White) placed a Round piece at column 3 after 1ms
 ...wR..
 
 ZetaAI_pack3 (Red) turn
-ZetaAI_pack3 (Red) placed a Square piece at column 4 after 41ms
+ZetaAI_pack3 (Red) placed a Square piece at column 4 after 39ms
 .......
 .......
 .......
@@ -58,7 +58,7 @@ IAD2 (White) placed a Round piece at column 3 after 1ms
 ...wR..
 
 ZetaAI_pack3 (Red) turn
-ZetaAI_pack3 (Red) placed a Square piece at column 3 after 39ms
+ZetaAI_pack3 (Red) placed a Square piece at column 3 after 38ms
 .......
 .......
 ...R...
@@ -76,7 +76,7 @@ IAD2 (White) placed a Round piece at column 3 after 1ms
 ...wR..
 
 ZetaAI_pack3 (Red) turn
-ZetaAI_pack3 (Red) placed a Square piece at column 4 after 48ms
+ZetaAI_pack3 (Red) placed a Square piece at column 4 after 46ms
 .......
 ...w...
 ...R...
@@ -94,7 +94,7 @@ IAD2 (White) placed a Round piece at column 4 after 2ms
 ...wR..
 
 ZetaAI_pack3 (Red) turn
-ZetaAI_pack3 (Red) placed a Square piece at column 5 after 44ms
+ZetaAI_pack3 (Red) placed a Square piece at column 5 after 43ms
 .......
 ...w...
 ...Rw..
@@ -112,26 +112,26 @@ IAD2 (White) placed a Round piece at column 3 after 1ms
 ...wRR.
 
 ZetaAI_pack3 (Red) turn
-ZetaAI_pack3 (Red) placed a Square piece at column 0 after 53ms
-...w...
-...w...
-...Rw..
-...wR..
-...wR..
-R..wRR.
-
-IAD2 (White) turn
-IAD2 (White) placed a Round piece at column 4 after 1ms
-...w...
-...ww..
-...Rw..
-...wR..
-...wR..
-R..wRR.
-
-ZetaAI_pack3 (Red) turn
 ZetaAI_pack3 (Red) placed a Square piece at column 0 after 52ms
 ...w...
+...w...
+...Rw..
+...wR..
+...wR..
+R..wRR.
+
+IAD2 (White) turn
+IAD2 (White) placed a Round piece at column 4 after 1ms
+...w...
+...ww..
+...Rw..
+...wR..
+...wR..
+R..wRR.
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 0 after 51ms
+...w...
 ...ww..
 ...Rw..
 ...wR..
@@ -148,7 +148,7 @@ R..wR..
 R..wRR.
 
 ZetaAI_pack3 (Red) turn
-ZetaAI_pack3 (Red) placed a Square piece at column 0 after 25ms
+ZetaAI_pack3 (Red) placed a Square piece at column 0 after 24ms
 ...ww..
 ...ww..
 ...Rw..
@@ -166,7 +166,7 @@ R..wR..
 R..wRR.
 
 ZetaAI_pack3 (Red) turn
-ZetaAI_pack3 (Red) placed a Square piece at column 5 after 34ms
+ZetaAI_pack3 (Red) placed a Square piece at column 5 after 32ms
 ...ww..
 ...ww..
 w..Rw..

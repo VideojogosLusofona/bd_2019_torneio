@@ -1,0 +1,236 @@
+=> Sure AI (White) vs ZetaAI_pack3 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+Sure AI (White) turn
+depth = 6
+Did 4930 evals
+Sure AI (White) placed a Round piece at column 3 after 186ms
+.......
+.......
+.......
+.......
+.......
+...w...
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 4 after 29ms
+.......
+.......
+.......
+.......
+.......
+...wR..
+
+Sure AI (White) turn
+depth = 5
+Did 4279 evals
+Sure AI (White) placed a Round piece at column 4 after 186ms
+.......
+.......
+.......
+.......
+....w..
+...wR..
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 3 after 34ms
+.......
+.......
+.......
+.......
+...Rw..
+...wR..
+
+Sure AI (White) turn
+depth = 5
+Did 4017 evals
+Sure AI (White) placed a Round piece at column 4 after 186ms
+.......
+.......
+.......
+....w..
+...Rw..
+...wR..
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 3 after 40ms
+.......
+.......
+.......
+...Rw..
+...Rw..
+...wR..
+
+Sure AI (White) turn
+depth = 5
+Did 3629 evals
+Sure AI (White) placed a Round piece at column 3 after 186ms
+.......
+.......
+...w...
+...Rw..
+...Rw..
+...wR..
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 4 after 39ms
+.......
+.......
+...wR..
+...Rw..
+...Rw..
+...wR..
+
+Sure AI (White) turn
+depth = 5
+Did 3437 evals
+Sure AI (White) placed a Round piece at column 4 after 186ms
+.......
+....w..
+...wR..
+...Rw..
+...Rw..
+...wR..
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 3 after 51ms
+.......
+...Rw..
+...wR..
+...Rw..
+...Rw..
+...wR..
+
+Sure AI (White) turn
+depth = 6
+Did 3429 evals
+Sure AI (White) placed a Round piece at column 5 after 186ms
+.......
+...Rw..
+...wR..
+...Rw..
+...Rw..
+...wRw.
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 5 after 46ms
+.......
+...Rw..
+...wR..
+...Rw..
+...RwR.
+...wRw.
+
+Sure AI (White) turn
+depth = 6
+Did 3344 evals
+Sure AI (White) placed a Round piece at column 5 after 186ms
+.......
+...Rw..
+...wR..
+...Rww.
+...RwR.
+...wRw.
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 5 after 55ms
+.......
+...Rw..
+...wRR.
+...Rww.
+...RwR.
+...wRw.
+
+Sure AI (White) turn
+depth = 5
+Did 3306 evals
+Sure AI (White) placed a Round piece at column 5 after 186ms
+.......
+...Rww.
+...wRR.
+...Rww.
+...RwR.
+...wRw.
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 1 after 33ms
+.......
+...Rww.
+...wRR.
+...Rww.
+...RwR.
+.R.wRw.
+
+Sure AI (White) turn
+depth = 6
+Did 2702 evals
+Sure AI (White) placed a Round piece at column 5 after 186ms
+.....w.
+...Rww.
+...wRR.
+...Rww.
+...RwR.
+.R.wRw.
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 6 after 36ms
+.....w.
+...Rww.
+...wRR.
+...Rww.
+...RwR.
+.R.wRwR
+
+Sure AI (White) turn
+depth = 7
+Did 3451 evals
+Sure AI (White) placed a Round piece at column 6 after 186ms
+.....w.
+...Rww.
+...wRR.
+...Rww.
+...RwRw
+.R.wRwR
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Round piece at column 2 after 18ms
+.....w.
+...Rww.
+...wRR.
+...Rww.
+...RwRw
+.RrwRwR
+
+Sure AI (White) turn
+depth = 22
+Did 4401 evals
+Sure AI (White) placed a Square piece at column 6 after 186ms
+.....w.
+...Rww.
+...wRR.
+...RwwW
+...RwRw
+.RrwRwR
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Round piece at column 2 after 2ms
+.....w.
+...Rww.
+...wRR.
+...RwwW
+..rRwRw
+.RrwRwR
+
+Winner is ZetaAI_pack3 (Red)
+Solution=(0,1)(1,2)(2,3)(3,4)

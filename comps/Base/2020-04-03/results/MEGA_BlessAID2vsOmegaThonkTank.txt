@@ -1,0 +1,156 @@
+=> MEGA_BlessAID2 (White) vs Omega Thonk Tank (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 5 after 2ms
+.......
+.......
+.......
+.......
+.......
+.....w.
+
+Omega Thonk Tank (Red) turn
+6211
+depth = 3
+Omega Thonk Tank (Red) placed a Square piece at column 3 after 180ms
+.......
+.......
+.......
+.......
+.......
+...R.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+.......
+.......
+.....w.
+...R.w.
+
+Omega Thonk Tank (Red) turn
+5674
+depth = 3
+Omega Thonk Tank (Red) placed a Square piece at column 3 after 180ms
+.......
+.......
+.......
+.......
+...R.w.
+...R.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+.......
+.....w.
+...R.w.
+...R.w.
+
+Omega Thonk Tank (Red) turn
+5792
+depth = 3
+Omega Thonk Tank (Red) placed a Square piece at column 5 after 180ms
+.......
+.......
+.....R.
+.....w.
+...R.w.
+...R.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 5 after 3ms
+.......
+.....w.
+.....R.
+.....w.
+...R.w.
+...R.w.
+
+Omega Thonk Tank (Red) turn
+5091
+depth = 3
+Omega Thonk Tank (Red) placed a Square piece at column 3 after 180ms
+.......
+.....w.
+.....R.
+...R.w.
+...R.w.
+...R.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 3 after 1ms
+.......
+.....w.
+...w.R.
+...R.w.
+...R.w.
+...R.w.
+
+Omega Thonk Tank (Red) turn
+4823
+depth = 3
+Omega Thonk Tank (Red) placed a Square piece at column 2 after 180ms
+.......
+.....w.
+...w.R.
+...R.w.
+...R.w.
+..RR.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Square piece at column 5 after 2ms
+.....W.
+.....w.
+...w.R.
+...R.w.
+...R.w.
+..RR.w.
+
+Omega Thonk Tank (Red) turn
+4579
+depth = 4
+Omega Thonk Tank (Red) placed a Round piece at column 1 after 180ms
+.....W.
+.....w.
+...w.R.
+...R.w.
+...R.w.
+.rRR.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Square piece at column 6 after 0ms
+.....W.
+.....w.
+...w.R.
+...R.w.
+...R.w.
+.rRR.wW
+
+Omega Thonk Tank (Red) turn
+12
+depth = 1132
+Omega Thonk Tank (Red) placed a Round piece at column 4 after 180ms
+.....W.
+.....w.
+...w.R.
+...R.w.
+...R.w.
+.rRRrwW
+
+Winner is Omega Thonk Tank (Red)
+Solution=(0,1)(0,2)(0,3)(0,4)

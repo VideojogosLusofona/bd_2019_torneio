@@ -1,0 +1,205 @@
+=> MEGA_BlessAID2 (White) vs MinimaxD2 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 5 after 2ms
+.......
+.......
+.......
+.......
+.......
+.....w.
+
+MinimaxD2 (Red) turn
+MinimaxD2 (Red) placed a Square piece at column 5 after 3ms
+.......
+.......
+.......
+.......
+.....R.
+.....w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+.......
+.....w.
+.....R.
+.....w.
+
+MinimaxD2 (Red) turn
+MinimaxD2 (Red) placed a Square piece at column 5 after 3ms
+.......
+.......
+.....R.
+.....w.
+.....R.
+.....w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 5 after 3ms
+.......
+.....w.
+.....R.
+.....w.
+.....R.
+.....w.
+
+MinimaxD2 (Red) turn
+MinimaxD2 (Red) placed a Square piece at column 5 after 3ms
+.....R.
+.....w.
+.....R.
+.....w.
+.....R.
+.....w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 1 after 2ms
+.....R.
+.....w.
+.....R.
+.....w.
+.....R.
+.w...w.
+
+MinimaxD2 (Red) turn
+MinimaxD2 (Red) placed a Square piece at column 1 after 2ms
+.....R.
+.....w.
+.....R.
+.....w.
+.R...R.
+.w...w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 1 after 2ms
+.....R.
+.....w.
+.....R.
+.w...w.
+.R...R.
+.w...w.
+
+MinimaxD2 (Red) turn
+MinimaxD2 (Red) placed a Square piece at column 1 after 2ms
+.....R.
+.....w.
+.R...R.
+.w...w.
+.R...R.
+.w...w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 1 after 2ms
+.....R.
+.w...w.
+.R...R.
+.w...w.
+.R...R.
+.w...w.
+
+MinimaxD2 (Red) turn
+MinimaxD2 (Red) placed a Square piece at column 1 after 2ms
+.R...R.
+.w...w.
+.R...R.
+.w...w.
+.R...R.
+.w...w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 2 after 1ms
+.R...R.
+.w...w.
+.R...R.
+.w...w.
+.R...R.
+.ww..w.
+
+MinimaxD2 (Red) turn
+MinimaxD2 (Red) placed a Square piece at column 2 after 1ms
+.R...R.
+.w...w.
+.R...R.
+.w...w.
+.RR..R.
+.ww..w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 2 after 1ms
+.R...R.
+.w...w.
+.R...R.
+.ww..w.
+.RR..R.
+.ww..w.
+
+MinimaxD2 (Red) turn
+MinimaxD2 (Red) placed a Square piece at column 2 after 2ms
+.R...R.
+.w...w.
+.RR..R.
+.ww..w.
+.RR..R.
+.ww..w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 2 after 1ms
+.R...R.
+.ww..w.
+.RR..R.
+.ww..w.
+.RR..R.
+.ww..w.
+
+MinimaxD2 (Red) turn
+MinimaxD2 (Red) placed a Square piece at column 2 after 1ms
+.RR..R.
+.ww..w.
+.RR..R.
+.ww..w.
+.RR..R.
+.ww..w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 3 after 1ms
+.RR..R.
+.ww..w.
+.RR..R.
+.ww..w.
+.RR..R.
+.www.w.
+
+MinimaxD2 (Red) turn
+MinimaxD2 (Red) placed a Square piece at column 6 after 0ms
+.RR..R.
+.ww..w.
+.RR..R.
+.ww..w.
+.RR..R.
+.www.wR
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Square piece at column 0 after 0ms
+.RR..R.
+.ww..w.
+.RR..R.
+.ww..w.
+.RR..R.
+Wwww.wR
+
+Winner is MEGA_BlessAID2 (White)
+Solution=(0,0)(0,1)(0,2)(0,3)

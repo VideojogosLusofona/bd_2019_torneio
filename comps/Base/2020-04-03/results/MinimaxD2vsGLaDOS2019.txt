@@ -94,7 +94,7 @@ MinimaxD2 (White) placed a Round piece at column 3 after 3ms
 R..R.w.
 
 GLaDOS2019 (Red) turn
-GLaDOS2019 (Red) placed a Square piece at column 2 after 2ms
+GLaDOS2019 (Red) placed a Square piece at column 2 after 3ms
 .......
 .....w.
 .....w.
@@ -148,7 +148,7 @@ RwRR.w.
 RwRR.w.
 
 GLaDOS2019 (Red) turn
-GLaDOS2019 (Red) placed a Square piece at column 1 after 2ms
+GLaDOS2019 (Red) placed a Square piece at column 1 after 3ms
 .......
 .....w.
 ...w.w.
@@ -157,7 +157,7 @@ RwRR.w.
 RwRR.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 3 after 3ms
+MinimaxD2 (White) placed a Round piece at column 3 after 4ms
 .......
 ...w.w.
 ...w.w.

@@ -1,6 +1,6 @@
 # Standings
 
-Last update: Fri, 03 Apr 2020 03:10:03 GMT
+Last update: Fri, 03 Apr 2020 23:56:48 GMT
 
 ## Configuration
 
@@ -17,19 +17,18 @@ Last update: Fri, 03 Apr 2020 03:10:03 GMT
 
 | Pos. | AI Thinker | Points |
 |:----:| ---------- | -----: |
-| 1 | SureAIv28 | 63 |
-| 2 | IAD2 | 60 |
-| 3 | Thonk Tank V3 | 57 |
-| 4 | GLaDOS2019 | 54 |
-| 5 | UwU | 45 |
-| 6 | MinimaxD2 | 45 |
-| 7 | ZetaAI_pack3 | 42 |
-| 8 | BlessAID2 | 33 |
-| 9 | Sequential | 30 |
-| 10 | Random | 21 |
-| 11 | NegamaxABH01D3 | 6 |
-| 12 | Bee | 6 |
-| 13 | BigBrainD3 | 6 |
+| 1 | Sure AI | 60 |
+| 2 | IAD2 | 54 |
+| 3 | Omega Thonk Tank | 45 |
+| 4 | Bee | 43 |
+| 5 | GLaDOS2019 | 43 |
+| 6 | MinimaxD2 | 42 |
+| 7 | ZetaAI_pack3 | 33 |
+| 8 | UwU | 30 |
+| 9 | MEGA_BlessAID2 | 18 |
+| 10 | Random | 15 |
+| 11 | Sequential | 12 |
+| 12 | BigBrainD3 | 0 |
 
 ## Results
 
@@ -37,162 +36,138 @@ _Winner, if any, shown in bold_
 
 | White |   Red   | Details |
 | -----:|:------- | :-----: |
-| `NegamaxABH01D3` | **`IAD2`** | [+](results/NegamaxABH01D3vsIAD2.txt) |
-| **`IAD2`** | `NegamaxABH01D3` | [+](results/IAD2vsNegamaxABH01D3.txt) |
-| `Random` | **`UwU`** | [+](results/RandomvsUwU.txt) |
-| **`UwU`** | `Random` | [+](results/UwUvsRandom.txt) |
-| **`Sequential`** | `BlessAID2` | [+](results/SequentialvsBlessAID2.txt) |
-| **`BlessAID2`** | `Sequential` | [+](results/BlessAID2vsSequential.txt) |
-| **`GLaDOS2019`** | `Bee` | [+](results/GLaDOS2019vsBee.txt) |
-| `Bee` | **`GLaDOS2019`** | [+](results/BeevsGLaDOS2019.txt) |
-| **`SureAIv28`** | `BigBrainD3` | [+](results/SureAIv28vsBigBrainD3.txt) |
-| `BigBrainD3` | **`SureAIv28`** | [+](results/BigBrainD3vsSureAIv28.txt) |
-| **`Thonk Tank V3`** | `ZetaAI_pack3` | [+](results/ThonkTankV3vsZetaAI_pack3.txt) |
-| `ZetaAI_pack3` | **`Thonk Tank V3`** | [+](results/ZetaAI_pack3vsThonkTankV3.txt) |
-| **`MinimaxD2`** | `IAD2` | [+](results/MinimaxD2vsIAD2.txt) |
-| **`IAD2`** | `MinimaxD2` | [+](results/IAD2vsMinimaxD2.txt) |
-| `NegamaxABH01D3` | **`BlessAID2`** | [+](results/NegamaxABH01D3vsBlessAID2.txt) |
-| **`BlessAID2`** | `NegamaxABH01D3` | [+](results/BlessAID2vsNegamaxABH01D3.txt) |
-| **`Random`** | `Bee` | [+](results/RandomvsBee.txt) |
-| `Bee` | **`Random`** | [+](results/BeevsRandom.txt) |
+| `MinimaxD2` | **`Bee`** | [+](results/MinimaxD2vsBee.txt) |
+| `Bee` | **`MinimaxD2`** | [+](results/BeevsMinimaxD2.txt) |
+| `Random` | **`Omega Thonk Tank`** | [+](results/RandomvsOmegaThonkTank.txt) |
+| **`Omega Thonk Tank`** | `Random` | [+](results/OmegaThonkTankvsRandom.txt) |
+| `Sequential` | **`UwU`** | [+](results/SequentialvsUwU.txt) |
+| **`UwU`** | `Sequential` | [+](results/UwUvsSequential.txt) |
+| `GLaDOS2019` | **`Sure AI`** | [+](results/GLaDOS2019vsSureAI.txt) |
+| **`Sure AI`** | `GLaDOS2019` | [+](results/SureAIvsGLaDOS2019.txt) |
+| **`ZetaAI_pack3`** | `BigBrainD3` | [+](results/ZetaAI_pack3vsBigBrainD3.txt) |
+| `BigBrainD3` | **`ZetaAI_pack3`** | [+](results/BigBrainD3vsZetaAI_pack3.txt) |
+| **`IAD2`** | `MEGA_BlessAID2` | [+](results/IAD2vsMEGA_BlessAID2.txt) |
+| `MEGA_BlessAID2` | **`IAD2`** | [+](results/MEGA_BlessAID2vsIAD2.txt) |
+| `MinimaxD2` | **`Omega Thonk Tank`** | [+](results/MinimaxD2vsOmegaThonkTank.txt) |
+| **`Omega Thonk Tank`** | `MinimaxD2` | [+](results/OmegaThonkTankvsMinimaxD2.txt) |
+| **`Bee`** | `UwU` | [+](results/BeevsUwU.txt) |
+| `UwU` | **`Bee`** | [+](results/UwUvsBee.txt) |
+| `Random` | **`Sure AI`** | [+](results/RandomvsSureAI.txt) |
+| **`Sure AI`** | `Random` | [+](results/SureAIvsRandom.txt) |
 | **`Sequential`** | `BigBrainD3` | [+](results/SequentialvsBigBrainD3.txt) |
 | `BigBrainD3` | **`Sequential`** | [+](results/BigBrainD3vsSequential.txt) |
+| **`GLaDOS2019`** | `MEGA_BlessAID2` | [+](results/GLaDOS2019vsMEGA_BlessAID2.txt) |
+| `MEGA_BlessAID2` | **`GLaDOS2019`** | [+](results/MEGA_BlessAID2vsGLaDOS2019.txt) |
+| **`ZetaAI_pack3`** | `IAD2` | [+](results/ZetaAI_pack3vsIAD2.txt) |
+| **`IAD2`** | `ZetaAI_pack3` | [+](results/IAD2vsZetaAI_pack3.txt) |
+| **`MinimaxD2`** | `UwU` | [+](results/MinimaxD2vsUwU.txt) |
+| **`UwU`** | `MinimaxD2` | [+](results/UwUvsMinimaxD2.txt) |
+| `Omega Thonk Tank` | **`Sure AI`** | [+](results/OmegaThonkTankvsSureAI.txt) |
+| **`Sure AI`** | `Omega Thonk Tank` | [+](results/SureAIvsOmegaThonkTank.txt) |
+| **`Bee`** | `BigBrainD3` | [+](results/BeevsBigBrainD3.txt) |
+| `BigBrainD3` | **`Bee`** | [+](results/BigBrainD3vsBee.txt) |
+| `Random` | **`MEGA_BlessAID2`** | [+](results/RandomvsMEGA_BlessAID2.txt) |
+| **`MEGA_BlessAID2`** | `Random` | [+](results/MEGA_BlessAID2vsRandom.txt) |
+| `Sequential` | **`IAD2`** | [+](results/SequentialvsIAD2.txt) |
+| **`IAD2`** | `Sequential` | [+](results/IAD2vsSequential.txt) |
 | `GLaDOS2019` | **`ZetaAI_pack3`** | [+](results/GLaDOS2019vsZetaAI_pack3.txt) |
 | `ZetaAI_pack3` | **`GLaDOS2019`** | [+](results/ZetaAI_pack3vsGLaDOS2019.txt) |
-| **`SureAIv28`** | `Thonk Tank V3` | [+](results/SureAIv28vsThonkTankV3.txt) |
-| `Thonk Tank V3` | **`SureAIv28`** | [+](results/ThonkTankV3vsSureAIv28.txt) |
-| `MinimaxD2` | **`UwU`** | [+](results/MinimaxD2vsUwU.txt) |
-| **`UwU`** | `MinimaxD2` | [+](results/UwUvsMinimaxD2.txt) |
-| **`IAD2`** | `BlessAID2` | [+](results/IAD2vsBlessAID2.txt) |
-| `BlessAID2` | **`IAD2`** | [+](results/BlessAID2vsIAD2.txt) |
-| `NegamaxABH01D3` | **`BigBrainD3`** | [+](results/NegamaxABH01D3vsBigBrainD3.txt) |
-| `BigBrainD3` | **`NegamaxABH01D3`** | [+](results/BigBrainD3vsNegamaxABH01D3.txt) |
-| `Random` | **`ZetaAI_pack3`** | [+](results/RandomvsZetaAI_pack3.txt) |
-| **`ZetaAI_pack3`** | `Random` | [+](results/ZetaAI_pack3vsRandom.txt) |
-| `Sequential` | **`Thonk Tank V3`** | [+](results/SequentialvsThonkTankV3.txt) |
-| **`Thonk Tank V3`** | `Sequential` | [+](results/ThonkTankV3vsSequential.txt) |
-| **`GLaDOS2019`** | `SureAIv28` | [+](results/GLaDOS2019vsSureAIv28.txt) |
-| **`SureAIv28`** | `GLaDOS2019` | [+](results/SureAIv28vsGLaDOS2019.txt) |
-| **`MinimaxD2`** | `BlessAID2` | [+](results/MinimaxD2vsBlessAID2.txt) |
-| **`BlessAID2`** | `MinimaxD2` | [+](results/BlessAID2vsMinimaxD2.txt) |
-| **`UwU`** | `Bee` | [+](results/UwUvsBee.txt) |
-| `Bee` | **`UwU`** | [+](results/BeevsUwU.txt) |
-| **`IAD2`** | `BigBrainD3` | [+](results/IAD2vsBigBrainD3.txt) |
-| `BigBrainD3` | **`IAD2`** | [+](results/BigBrainD3vsIAD2.txt) |
-| `NegamaxABH01D3` | **`Thonk Tank V3`** | [+](results/NegamaxABH01D3vsThonkTankV3.txt) |
-| **`Thonk Tank V3`** | `NegamaxABH01D3` | [+](results/ThonkTankV3vsNegamaxABH01D3.txt) |
-| `Random` | **`SureAIv28`** | [+](results/RandomvsSureAIv28.txt) |
-| **`SureAIv28`** | `Random` | [+](results/SureAIv28vsRandom.txt) |
+| **`MinimaxD2`** | `Sure AI` | [+](results/MinimaxD2vsSureAI.txt) |
+| **`Sure AI`** | `MinimaxD2` | [+](results/SureAIvsMinimaxD2.txt) |
+| **`UwU`** | `BigBrainD3` | [+](results/UwUvsBigBrainD3.txt) |
+| `BigBrainD3` | **`UwU`** | [+](results/BigBrainD3vsUwU.txt) |
+| **`Omega Thonk Tank`** | `MEGA_BlessAID2` | [+](results/OmegaThonkTankvsMEGA_BlessAID2.txt) |
+| `MEGA_BlessAID2` | **`Omega Thonk Tank`** | [+](results/MEGA_BlessAID2vsOmegaThonkTank.txt) |
+| `Bee` | **`IAD2`** | [+](results/BeevsIAD2.txt) |
+| `IAD2` | **`Bee`** | [+](results/IAD2vsBee.txt) |
+| **`Random`** | `ZetaAI_pack3` | [+](results/RandomvsZetaAI_pack3.txt) |
+| `ZetaAI_pack3` | **`Random`** | [+](results/ZetaAI_pack3vsRandom.txt) |
 | `Sequential` | **`GLaDOS2019`** | [+](results/SequentialvsGLaDOS2019.txt) |
 | **`GLaDOS2019`** | `Sequential` | [+](results/GLaDOS2019vsSequential.txt) |
-| **`MinimaxD2`** | `Bee` | [+](results/MinimaxD2vsBee.txt) |
-| `Bee` | **`MinimaxD2`** | [+](results/BeevsMinimaxD2.txt) |
-| **`BlessAID2`** | `BigBrainD3` | [+](results/BlessAID2vsBigBrainD3.txt) |
-| `BigBrainD3` | **`BlessAID2`** | [+](results/BigBrainD3vsBlessAID2.txt) |
-| `UwU` | **`ZetaAI_pack3`** | [+](results/UwUvsZetaAI_pack3.txt) |
-| `ZetaAI_pack3` | **`UwU`** | [+](results/ZetaAI_pack3vsUwU.txt) |
-| **`IAD2`** | `Thonk Tank V3` | [+](results/IAD2vsThonkTankV3.txt) |
-| `Thonk Tank V3` | **`IAD2`** | [+](results/ThonkTankV3vsIAD2.txt) |
-| `NegamaxABH01D3` | **`GLaDOS2019`** | [+](results/NegamaxABH01D3vsGLaDOS2019.txt) |
-| **`GLaDOS2019`** | `NegamaxABH01D3` | [+](results/GLaDOS2019vsNegamaxABH01D3.txt) |
-| **`Random`** | `Sequential` | [+](results/RandomvsSequential.txt) |
-| **`Sequential`** | `Random` | [+](results/SequentialvsRandom.txt) |
 | **`MinimaxD2`** | `BigBrainD3` | [+](results/MinimaxD2vsBigBrainD3.txt) |
 | `BigBrainD3` | **`MinimaxD2`** | [+](results/BigBrainD3vsMinimaxD2.txt) |
-| `Bee` | **`ZetaAI_pack3`** | [+](results/BeevsZetaAI_pack3.txt) |
-| **`ZetaAI_pack3`** | `Bee` | [+](results/ZetaAI_pack3vsBee.txt) |
-| `BlessAID2` | **`Thonk Tank V3`** | [+](results/BlessAID2vsThonkTankV3.txt) |
-| **`Thonk Tank V3`** | `BlessAID2` | [+](results/ThonkTankV3vsBlessAID2.txt) |
-| `UwU` | **`SureAIv28`** | [+](results/UwUvsSureAIv28.txt) |
-| **`SureAIv28`** | `UwU` | [+](results/SureAIv28vsUwU.txt) |
-| **`IAD2`** | `GLaDOS2019` | [+](results/IAD2vsGLaDOS2019.txt) |
-| `GLaDOS2019` | **`IAD2`** | [+](results/GLaDOS2019vsIAD2.txt) |
-| `NegamaxABH01D3` | **`Random`** | [+](results/NegamaxABH01D3vsRandom.txt) |
-| **`Random`** | `NegamaxABH01D3` | [+](results/RandomvsNegamaxABH01D3.txt) |
-| **`MinimaxD2`** | `ZetaAI_pack3` | [+](results/MinimaxD2vsZetaAI_pack3.txt) |
-| `ZetaAI_pack3` | **`MinimaxD2`** | [+](results/ZetaAI_pack3vsMinimaxD2.txt) |
-| `BigBrainD3` | **`Thonk Tank V3`** | [+](results/BigBrainD3vsThonkTankV3.txt) |
-| **`Thonk Tank V3`** | `BigBrainD3` | [+](results/ThonkTankV3vsBigBrainD3.txt) |
-| `Bee` | **`SureAIv28`** | [+](results/BeevsSureAIv28.txt) |
-| **`SureAIv28`** | `Bee` | [+](results/SureAIv28vsBee.txt) |
-| `BlessAID2` | **`GLaDOS2019`** | [+](results/BlessAID2vsGLaDOS2019.txt) |
-| **`GLaDOS2019`** | `BlessAID2` | [+](results/GLaDOS2019vsBlessAID2.txt) |
-| **`UwU`** | `Sequential` | [+](results/UwUvsSequential.txt) |
-| **`Sequential`** | `UwU` | [+](results/SequentialvsUwU.txt) |
-| **`IAD2`** | `Random` | [+](results/IAD2vsRandom.txt) |
-| `Random` | **`IAD2`** | [+](results/RandomvsIAD2.txt) |
-| `MinimaxD2` | **`Thonk Tank V3`** | [+](results/MinimaxD2vsThonkTankV3.txt) |
-| **`Thonk Tank V3`** | `MinimaxD2` | [+](results/ThonkTankV3vsMinimaxD2.txt) |
-| `ZetaAI_pack3` | **`SureAIv28`** | [+](results/ZetaAI_pack3vsSureAIv28.txt) |
-| **`SureAIv28`** | `ZetaAI_pack3` | [+](results/SureAIv28vsZetaAI_pack3.txt) |
+| **`Sure AI`** | `MEGA_BlessAID2` | [+](results/SureAIvsMEGA_BlessAID2.txt) |
+| `MEGA_BlessAID2` | **`Sure AI`** | [+](results/MEGA_BlessAID2vsSureAI.txt) |
+| `UwU` | **`IAD2`** | [+](results/UwUvsIAD2.txt) |
+| **`IAD2`** | `UwU` | [+](results/IAD2vsUwU.txt) |
+| **`Omega Thonk Tank`** | `ZetaAI_pack3` | [+](results/OmegaThonkTankvsZetaAI_pack3.txt) |
+| **`ZetaAI_pack3`** | `Omega Thonk Tank` | [+](results/ZetaAI_pack3vsOmegaThonkTank.txt) |
+| **`Bee`** | `GLaDOS2019` | [+](results/BeevsGLaDOS2019.txt) |
+| `GLaDOS2019` | `Bee` | [+](results/GLaDOS2019vsBee.txt) |
+| **`Random`** | `Sequential` | [+](results/RandomvsSequential.txt) |
+| **`Sequential`** | `Random` | [+](results/SequentialvsRandom.txt) |
+| **`MinimaxD2`** | `MEGA_BlessAID2` | [+](results/MinimaxD2vsMEGA_BlessAID2.txt) |
+| `MEGA_BlessAID2` | **`MinimaxD2`** | [+](results/MEGA_BlessAID2vsMinimaxD2.txt) |
+| `BigBrainD3` | **`IAD2`** | [+](results/BigBrainD3vsIAD2.txt) |
+| **`IAD2`** | `BigBrainD3` | [+](results/IAD2vsBigBrainD3.txt) |
+| **`Sure AI`** | `ZetaAI_pack3` | [+](results/SureAIvsZetaAI_pack3.txt) |
+| `ZetaAI_pack3` | **`Sure AI`** | [+](results/ZetaAI_pack3vsSureAI.txt) |
+| `UwU` | **`GLaDOS2019`** | [+](results/UwUvsGLaDOS2019.txt) |
+| **`GLaDOS2019`** | `UwU` | [+](results/GLaDOS2019vsUwU.txt) |
+| **`Omega Thonk Tank`** | `Sequential` | [+](results/OmegaThonkTankvsSequential.txt) |
+| `Sequential` | **`Omega Thonk Tank`** | [+](results/SequentialvsOmegaThonkTank.txt) |
+| **`Bee`** | `Random` | [+](results/BeevsRandom.txt) |
+| `Random` | **`Bee`** | [+](results/RandomvsBee.txt) |
+| **`MinimaxD2`** | `IAD2` | [+](results/MinimaxD2vsIAD2.txt) |
+| **`IAD2`** | `MinimaxD2` | [+](results/IAD2vsMinimaxD2.txt) |
+| `MEGA_BlessAID2` | **`ZetaAI_pack3`** | [+](results/MEGA_BlessAID2vsZetaAI_pack3.txt) |
+| **`ZetaAI_pack3`** | `MEGA_BlessAID2` | [+](results/ZetaAI_pack3vsMEGA_BlessAID2.txt) |
 | `BigBrainD3` | **`GLaDOS2019`** | [+](results/BigBrainD3vsGLaDOS2019.txt) |
 | **`GLaDOS2019`** | `BigBrainD3` | [+](results/GLaDOS2019vsBigBrainD3.txt) |
-| `Bee` | **`Sequential`** | [+](results/BeevsSequential.txt) |
-| **`Sequential`** | `Bee` | [+](results/SequentialvsBee.txt) |
-| **`BlessAID2`** | `Random` | [+](results/BlessAID2vsRandom.txt) |
-| `Random` | **`BlessAID2`** | [+](results/RandomvsBlessAID2.txt) |
-| **`UwU`** | `NegamaxABH01D3` | [+](results/UwUvsNegamaxABH01D3.txt) |
-| `NegamaxABH01D3` | **`UwU`** | [+](results/NegamaxABH01D3vsUwU.txt) |
-| **`MinimaxD2`** | `SureAIv28` | [+](results/MinimaxD2vsSureAIv28.txt) |
-| **`SureAIv28`** | `MinimaxD2` | [+](results/SureAIv28vsMinimaxD2.txt) |
-| **`Thonk Tank V3`** | `GLaDOS2019` | [+](results/ThonkTankV3vsGLaDOS2019.txt) |
-| **`GLaDOS2019`** | `Thonk Tank V3` | [+](results/GLaDOS2019vsThonkTankV3.txt) |
-| **`ZetaAI_pack3`** | `Sequential` | [+](results/ZetaAI_pack3vsSequential.txt) |
-| **`Sequential`** | `ZetaAI_pack3` | [+](results/SequentialvsZetaAI_pack3.txt) |
+| **`Sure AI`** | `Sequential` | [+](results/SureAIvsSequential.txt) |
+| `Sequential` | **`Sure AI`** | [+](results/SequentialvsSureAI.txt) |
+| **`UwU`** | `Random` | [+](results/UwUvsRandom.txt) |
+| `Random` | **`UwU`** | [+](results/RandomvsUwU.txt) |
+| **`Omega Thonk Tank`** | `Bee` | [+](results/OmegaThonkTankvsBee.txt) |
+| `Bee` | **`Omega Thonk Tank`** | [+](results/BeevsOmegaThonkTank.txt) |
+| **`MinimaxD2`** | `ZetaAI_pack3` | [+](results/MinimaxD2vsZetaAI_pack3.txt) |
+| `ZetaAI_pack3` | **`MinimaxD2`** | [+](results/ZetaAI_pack3vsMinimaxD2.txt) |
+| **`IAD2`** | `GLaDOS2019` | [+](results/IAD2vsGLaDOS2019.txt) |
+| `GLaDOS2019` | **`IAD2`** | [+](results/GLaDOS2019vsIAD2.txt) |
+| **`MEGA_BlessAID2`** | `Sequential` | [+](results/MEGA_BlessAID2vsSequential.txt) |
+| `Sequential` | **`MEGA_BlessAID2`** | [+](results/SequentialvsMEGA_BlessAID2.txt) |
 | `BigBrainD3` | **`Random`** | [+](results/BigBrainD3vsRandom.txt) |
 | **`Random`** | `BigBrainD3` | [+](results/RandomvsBigBrainD3.txt) |
-| `Bee` | **`NegamaxABH01D3`** | [+](results/BeevsNegamaxABH01D3.txt) |
-| `NegamaxABH01D3` | **`Bee`** | [+](results/NegamaxABH01D3vsBee.txt) |
-| **`UwU`** | `IAD2` | [+](results/UwUvsIAD2.txt) |
-| **`IAD2`** | `UwU` | [+](results/IAD2vsUwU.txt) |
+| **`Sure AI`** | `Bee` | [+](results/SureAIvsBee.txt) |
+| `Bee` | **`Sure AI`** | [+](results/BeevsSureAI.txt) |
+| `UwU` | **`Omega Thonk Tank`** | [+](results/UwUvsOmegaThonkTank.txt) |
+| `Omega Thonk Tank` | **`UwU`** | [+](results/OmegaThonkTankvsUwU.txt) |
 | `MinimaxD2` | **`GLaDOS2019`** | [+](results/MinimaxD2vsGLaDOS2019.txt) |
 | **`GLaDOS2019`** | `MinimaxD2` | [+](results/GLaDOS2019vsMinimaxD2.txt) |
-| **`SureAIv28`** | `Sequential` | [+](results/SureAIv28vsSequential.txt) |
-| `Sequential` | **`SureAIv28`** | [+](results/SequentialvsSureAIv28.txt) |
-| **`Thonk Tank V3`** | `Random` | [+](results/ThonkTankV3vsRandom.txt) |
-| `Random` | **`Thonk Tank V3`** | [+](results/RandomvsThonkTankV3.txt) |
-| **`ZetaAI_pack3`** | `NegamaxABH01D3` | [+](results/ZetaAI_pack3vsNegamaxABH01D3.txt) |
-| `NegamaxABH01D3` | **`ZetaAI_pack3`** | [+](results/NegamaxABH01D3vsZetaAI_pack3.txt) |
-| `Bee` | **`IAD2`** | [+](results/BeevsIAD2.txt) |
-| **`IAD2`** | `Bee` | [+](results/IAD2vsBee.txt) |
-| **`BlessAID2`** | `UwU` | [+](results/BlessAID2vsUwU.txt) |
-| **`UwU`** | `BlessAID2` | [+](results/UwUvsBlessAID2.txt) |
+| **`ZetaAI_pack3`** | `Sequential` | [+](results/ZetaAI_pack3vsSequential.txt) |
+| **`Sequential`** | `ZetaAI_pack3` | [+](results/SequentialvsZetaAI_pack3.txt) |
+| **`IAD2`** | `Random` | [+](results/IAD2vsRandom.txt) |
+| `Random` | **`IAD2`** | [+](results/RandomvsIAD2.txt) |
+| `MEGA_BlessAID2` | **`Bee`** | [+](results/MEGA_BlessAID2vsBee.txt) |
+| **`Bee`** | `MEGA_BlessAID2` | [+](results/BeevsMEGA_BlessAID2.txt) |
+| `BigBrainD3` | **`Omega Thonk Tank`** | [+](results/BigBrainD3vsOmegaThonkTank.txt) |
+| **`Omega Thonk Tank`** | `BigBrainD3` | [+](results/OmegaThonkTankvsBigBrainD3.txt) |
+| **`Sure AI`** | `UwU` | [+](results/SureAIvsUwU.txt) |
+| `UwU` | **`Sure AI`** | [+](results/UwUvsSureAI.txt) |
 | **`MinimaxD2`** | `Sequential` | [+](results/MinimaxD2vsSequential.txt) |
 | `Sequential` | **`MinimaxD2`** | [+](results/SequentialvsMinimaxD2.txt) |
 | **`GLaDOS2019`** | `Random` | [+](results/GLaDOS2019vsRandom.txt) |
 | `Random` | **`GLaDOS2019`** | [+](results/RandomvsGLaDOS2019.txt) |
-| **`SureAIv28`** | `NegamaxABH01D3` | [+](results/SureAIv28vsNegamaxABH01D3.txt) |
-| `NegamaxABH01D3` | **`SureAIv28`** | [+](results/NegamaxABH01D3vsSureAIv28.txt) |
-| **`ZetaAI_pack3`** | `IAD2` | [+](results/ZetaAI_pack3vsIAD2.txt) |
-| **`IAD2`** | `ZetaAI_pack3` | [+](results/IAD2vsZetaAI_pack3.txt) |
-| `BigBrainD3` | **`UwU`** | [+](results/BigBrainD3vsUwU.txt) |
-| **`UwU`** | `BigBrainD3` | [+](results/UwUvsBigBrainD3.txt) |
-| `Bee` | **`BlessAID2`** | [+](results/BeevsBlessAID2.txt) |
-| **`BlessAID2`** | `Bee` | [+](results/BlessAID2vsBee.txt) |
+| **`ZetaAI_pack3`** | `Bee` | [+](results/ZetaAI_pack3vsBee.txt) |
+| **`Bee`** | `ZetaAI_pack3` | [+](results/BeevsZetaAI_pack3.txt) |
+| **`IAD2`** | `Omega Thonk Tank` | [+](results/IAD2vsOmegaThonkTank.txt) |
+| `Omega Thonk Tank` | **`IAD2`** | [+](results/OmegaThonkTankvsIAD2.txt) |
+| `MEGA_BlessAID2` | **`UwU`** | [+](results/MEGA_BlessAID2vsUwU.txt) |
+| **`UwU`** | `MEGA_BlessAID2` | [+](results/UwUvsMEGA_BlessAID2.txt) |
+| `BigBrainD3` | **`Sure AI`** | [+](results/BigBrainD3vsSureAI.txt) |
+| **`Sure AI`** | `BigBrainD3` | [+](results/SureAIvsBigBrainD3.txt) |
 | **`MinimaxD2`** | `Random` | [+](results/MinimaxD2vsRandom.txt) |
 | `Random` | **`MinimaxD2`** | [+](results/RandomvsMinimaxD2.txt) |
-| **`Sequential`** | `NegamaxABH01D3` | [+](results/SequentialvsNegamaxABH01D3.txt) |
-| `NegamaxABH01D3` | **`Sequential`** | [+](results/NegamaxABH01D3vsSequential.txt) |
-| **`SureAIv28`** | `IAD2` | [+](results/SureAIv28vsIAD2.txt) |
-| **`IAD2`** | `SureAIv28` | [+](results/IAD2vsSureAIv28.txt) |
-| **`Thonk Tank V3`** | `UwU` | [+](results/ThonkTankV3vsUwU.txt) |
-| `UwU` | **`Thonk Tank V3`** | [+](results/UwUvsThonkTankV3.txt) |
-| **`ZetaAI_pack3`** | `BlessAID2` | [+](results/ZetaAI_pack3vsBlessAID2.txt) |
-| `BlessAID2` | **`ZetaAI_pack3`** | [+](results/BlessAID2vsZetaAI_pack3.txt) |
-| `BigBrainD3` | **`Bee`** | [+](results/BigBrainD3vsBee.txt) |
-| `Bee` | **`BigBrainD3`** | [+](results/BeevsBigBrainD3.txt) |
-| **`MinimaxD2`** | `NegamaxABH01D3` | [+](results/MinimaxD2vsNegamaxABH01D3.txt) |
-| `NegamaxABH01D3` | **`MinimaxD2`** | [+](results/NegamaxABH01D3vsMinimaxD2.txt) |
-| `Sequential` | **`IAD2`** | [+](results/SequentialvsIAD2.txt) |
-| **`IAD2`** | `Sequential` | [+](results/IAD2vsSequential.txt) |
-| **`GLaDOS2019`** | `UwU` | [+](results/GLaDOS2019vsUwU.txt) |
-| **`UwU`** | `GLaDOS2019` | [+](results/UwUvsGLaDOS2019.txt) |
-| **`SureAIv28`** | `BlessAID2` | [+](results/SureAIv28vsBlessAID2.txt) |
-| `BlessAID2` | **`SureAIv28`** | [+](results/BlessAID2vsSureAIv28.txt) |
-| **`Thonk Tank V3`** | `Bee` | [+](results/ThonkTankV3vsBee.txt) |
-| `Bee` | **`Thonk Tank V3`** | [+](results/BeevsThonkTankV3.txt) |
-| **`ZetaAI_pack3`** | `BigBrainD3` | [+](results/ZetaAI_pack3vsBigBrainD3.txt) |
-| `BigBrainD3` | **`ZetaAI_pack3`** | [+](results/BigBrainD3vsZetaAI_pack3.txt) |
+| `Sequential` | **`Bee`** | [+](results/SequentialvsBee.txt) |
+| **`Bee`** | `Sequential` | [+](results/BeevsSequential.txt) |
+| **`GLaDOS2019`** | `Omega Thonk Tank` | [+](results/GLaDOS2019vsOmegaThonkTank.txt) |
+| **`Omega Thonk Tank`** | `GLaDOS2019` | [+](results/OmegaThonkTankvsGLaDOS2019.txt) |
+| **`ZetaAI_pack3`** | `UwU` | [+](results/ZetaAI_pack3vsUwU.txt) |
+| `UwU` | **`ZetaAI_pack3`** | [+](results/UwUvsZetaAI_pack3.txt) |
+| **`IAD2`** | `Sure AI` | [+](results/IAD2vsSureAI.txt) |
+| **`Sure AI`** | `IAD2` | [+](results/SureAIvsIAD2.txt) |
+| **`MEGA_BlessAID2`** | `BigBrainD3` | [+](results/MEGA_BlessAID2vsBigBrainD3.txt) |
+| `BigBrainD3` | **`MEGA_BlessAID2`** | [+](results/BigBrainD3vsMEGA_BlessAID2.txt) |
 
 ## Previous days
 

@@ -1,0 +1,156 @@
+=> MEGA_BlessAID2 (White) vs Sure AI (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+.......
+.......
+.......
+.....w.
+
+Sure AI (Red) turn
+depth = 6
+Did 4474 evals
+Sure AI (Red) placed a Square piece at column 3 after 186ms
+.......
+.......
+.......
+.......
+.......
+...R.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+.......
+.......
+.....w.
+...R.w.
+
+Sure AI (Red) turn
+depth = 5
+Did 4469 evals
+Sure AI (Red) placed a Square piece at column 3 after 186ms
+.......
+.......
+.......
+.......
+...R.w.
+...R.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+.......
+.....w.
+...R.w.
+...R.w.
+
+Sure AI (Red) turn
+depth = 5
+Did 4298 evals
+Sure AI (Red) placed a Square piece at column 5 after 186ms
+.......
+.......
+.....R.
+.....w.
+...R.w.
+...R.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 5 after 3ms
+.......
+.....w.
+.....R.
+.....w.
+...R.w.
+...R.w.
+
+Sure AI (Red) turn
+depth = 6
+Did 3502 evals
+Sure AI (Red) placed a Square piece at column 1 after 186ms
+.......
+.....w.
+.....R.
+.....w.
+...R.w.
+.R.R.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 1 after 2ms
+.......
+.....w.
+.....R.
+.....w.
+.w.R.w.
+.R.R.w.
+
+Sure AI (Red) turn
+depth = 6
+Did 3309 evals
+Sure AI (Red) placed a Square piece at column 3 after 186ms
+.......
+.....w.
+.....R.
+...R.w.
+.w.R.w.
+.R.R.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Round piece at column 3 after 1ms
+.......
+.....w.
+...w.R.
+...R.w.
+.w.R.w.
+.R.R.w.
+
+Sure AI (Red) turn
+depth = 6
+Did 3283 evals
+Sure AI (Red) placed a Square piece at column 2 after 186ms
+.......
+.....w.
+...w.R.
+...R.w.
+.w.R.w.
+.RRR.w.
+
+MEGA_BlessAID2 (White) turn
+MEGA_BlessAID2 (White) placed a Square piece at column 6 after 0ms
+.......
+.....w.
+...w.R.
+...R.w.
+.w.R.w.
+.RRR.wW
+
+Sure AI (Red) turn
+depth = 8
+Did 3762 evals
+Sure AI (Red) placed a Square piece at column 4 after 186ms
+.......
+.....w.
+...w.R.
+...R.w.
+.w.R.w.
+.RRRRwW
+
+Winner is Sure AI (Red)
+Solution=(0,1)(0,2)(0,3)(0,4)

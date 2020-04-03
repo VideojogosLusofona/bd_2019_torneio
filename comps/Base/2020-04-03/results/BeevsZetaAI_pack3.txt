@@ -13,80 +13,203 @@
 .......
 
 Bee (White) turn
-Iterations: 10239
-Bee (White) placed a Round piece at column 2 after 175ms
+0
+Bee (White) placed a Round piece at column 3 after 170ms
 .......
 .......
 .......
 .......
 .......
-..w....
+...w...
 
 ZetaAI_pack3 (Red) turn
-ZetaAI_pack3 (Red) placed a Square piece at column 3 after 40ms
+ZetaAI_pack3 (Red) placed a Square piece at column 4 after 29ms
 .......
 .......
 .......
 .......
 .......
-..wR...
+...wR..
 
 Bee (White) turn
-Iterations: 10327
-Bee (White) placed a Round piece at column 2 after 175ms
+350
+Bee (White) placed a Round piece at column 3 after 170ms
 .......
 .......
 .......
 .......
-..w....
-..wR...
+...w...
+...wR..
 
 ZetaAI_pack3 (Red) turn
-ZetaAI_pack3 (Red) placed a Square piece at column 4 after 46ms
+ZetaAI_pack3 (Red) placed a Square piece at column 4 after 40ms
 .......
 .......
 .......
 .......
-..w....
-..wRR..
+...wR..
+...wR..
 
 Bee (White) turn
-Iterations: 10099
-Bee (White) placed a Round piece at column 4 after 173ms
+1458
+Bee (White) placed a Round piece at column 3 after 170ms
 .......
 .......
 .......
-.......
-..w.w..
-..wRR..
+...w...
+...wR..
+...wR..
 
 ZetaAI_pack3 (Red) turn
-ZetaAI_pack3 (Red) placed a Square piece at column 5 after 68ms
+ZetaAI_pack3 (Red) placed a Square piece at column 3 after 38ms
 .......
 .......
-.......
-.......
-..w.w..
-..wRRR.
+...R...
+...w...
+...wR..
+...wR..
 
 Bee (White) turn
-Iterations: 9850
-Bee (White) placed a Round piece at column 4 after 173ms
+2500
+Bee (White) placed a Round piece at column 4 after 170ms
 .......
 .......
-.......
-....w..
-..w.w..
-..wRRR.
+...R...
+...ww..
+...wR..
+...wR..
 
 ZetaAI_pack3 (Red) turn
-ZetaAI_pack3 (Red) placed a Round piece at column 6 after 6ms
+ZetaAI_pack3 (Red) placed a Square piece at column 0 after 22ms
 .......
 .......
+...R...
+...ww..
+...wR..
+R..wR..
+
+Bee (White) turn
+3482
+Bee (White) placed a Round piece at column 0 after 170ms
 .......
-....w..
-..w.w..
-..wRRRr
+.......
+...R...
+...ww..
+w..wR..
+R..wR..
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 4 after 52ms
+.......
+.......
+...RR..
+...ww..
+w..wR..
+R..wR..
+
+Bee (White) turn
+4181
+Bee (White) placed a Round piece at column 1 after 170ms
+.......
+.......
+...RR..
+...ww..
+w..wR..
+Rw.wR..
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 6 after 50ms
+.......
+.......
+...RR..
+...ww..
+w..wR..
+Rw.wR.R
+
+Bee (White) turn
+5207
+Bee (White) placed a Round piece at column 1 after 170ms
+.......
+.......
+...RR..
+...ww..
+ww.wR..
+Rw.wR.R
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 1 after 39ms
+.......
+.......
+...RR..
+.R.ww..
+ww.wR..
+Rw.wR.R
+
+Bee (White) turn
+7270
+Bee (White) placed a Round piece at column 0 after 170ms
+.......
+.......
+...RR..
+wR.ww..
+ww.wR..
+Rw.wR.R
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 1 after 43ms
+.......
+.......
+.R.RR..
+wR.ww..
+ww.wR..
+Rw.wR.R
+
+Bee (White) turn
+9338
+Bee (White) placed a Round piece at column 0 after 170ms
+.......
+.......
+wR.RR..
+wR.ww..
+ww.wR..
+Rw.wR.R
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 0 after 35ms
+.......
+R......
+wR.RR..
+wR.ww..
+ww.wR..
+Rw.wR.R
+
+Bee (White) turn
+11497
+Bee (White) placed a Round piece at column 0 after 170ms
+w......
+R......
+wR.RR..
+wR.ww..
+ww.wR..
+Rw.wR.R
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 1 after 10ms
+w......
+RR.....
+wR.RR..
+wR.ww..
+ww.wR..
+Rw.wR.R
+
+Bee (White) turn
+13697
+Bee (White) loses match! Reason: Thinker unable to perform move
+w......
+RR.....
+wR.RR..
+wR.ww..
+ww.wR..
+Rw.wR.R
 
 Winner is ZetaAI_pack3 (Red)
-Solution=(0,3)(0,4)(0,5)(0,6)

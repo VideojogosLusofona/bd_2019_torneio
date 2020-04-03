@@ -33,7 +33,7 @@ IAD2 (Red) placed a Square piece at column 2 after 1ms
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 696
-BigBrainD3 (White) placed a Round piece at column 3 after 11ms
+BigBrainD3 (White) placed a Round piece at column 3 after 10ms
 .......
 .......
 .......
@@ -204,7 +204,7 @@ W.RwwwR
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 387
-BigBrainD3 (White) placed a Round piece at column 4 after 7ms
+BigBrainD3 (White) placed a Round piece at column 4 after 8ms
 ..Rw...
 ..Rw...
 ..Rww..
@@ -223,7 +223,7 @@ W.RwwwR
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 145
-BigBrainD3 (White) placed a Square piece at column 1 after 3ms
+BigBrainD3 (White) placed a Square piece at column 1 after 2ms
 ..Rw...
 ..Rwr..
 ..Rww..
@@ -232,7 +232,7 @@ BigBrainD3 (White) placed a Square piece at column 1 after 3ms
 WWRwwwR
 
 IAD2 (Red) turn
-IAD2 (Red) placed a Square piece at column 1 after 1ms
+IAD2 (Red) placed a Square piece at column 1 after 0ms
 ..Rw...
 ..Rwr..
 ..Rww..
@@ -242,7 +242,7 @@ WWRwwwR
 
 BigBrainD3 (White) turn
 Heuristic: ShapeHeuristic Color: White numEvals: 137
-BigBrainD3 (White) placed a Square piece at column 0 after 2ms
+BigBrainD3 (White) placed a Square piece at column 0 after 3ms
 ..Rw...
 ..Rwr..
 ..Rww..
