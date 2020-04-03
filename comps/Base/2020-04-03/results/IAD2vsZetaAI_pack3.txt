@@ -1,0 +1,204 @@
+=> IAD2 (White) vs ZetaAI_pack3 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+IAD2 (White) turn
+IAD2 (White) placed a Round piece at column 3 after 1ms
+.......
+.......
+.......
+.......
+.......
+...w...
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 4 after 30ms
+.......
+.......
+.......
+.......
+.......
+...wR..
+
+IAD2 (White) turn
+IAD2 (White) placed a Round piece at column 3 after 1ms
+.......
+.......
+.......
+.......
+...w...
+...wR..
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 4 after 41ms
+.......
+.......
+.......
+.......
+...wR..
+...wR..
+
+IAD2 (White) turn
+IAD2 (White) placed a Round piece at column 3 after 1ms
+.......
+.......
+.......
+...w...
+...wR..
+...wR..
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 3 after 39ms
+.......
+.......
+...R...
+...w...
+...wR..
+...wR..
+
+IAD2 (White) turn
+IAD2 (White) placed a Round piece at column 3 after 1ms
+.......
+...w...
+...R...
+...w...
+...wR..
+...wR..
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 4 after 48ms
+.......
+...w...
+...R...
+...wR..
+...wR..
+...wR..
+
+IAD2 (White) turn
+IAD2 (White) placed a Round piece at column 4 after 2ms
+.......
+...w...
+...Rw..
+...wR..
+...wR..
+...wR..
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 5 after 44ms
+.......
+...w...
+...Rw..
+...wR..
+...wR..
+...wRR.
+
+IAD2 (White) turn
+IAD2 (White) placed a Round piece at column 3 after 1ms
+...w...
+...w...
+...Rw..
+...wR..
+...wR..
+...wRR.
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 0 after 53ms
+...w...
+...w...
+...Rw..
+...wR..
+...wR..
+R..wRR.
+
+IAD2 (White) turn
+IAD2 (White) placed a Round piece at column 4 after 1ms
+...w...
+...ww..
+...Rw..
+...wR..
+...wR..
+R..wRR.
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 0 after 52ms
+...w...
+...ww..
+...Rw..
+...wR..
+R..wR..
+R..wRR.
+
+IAD2 (White) turn
+IAD2 (White) placed a Round piece at column 4 after 1ms
+...ww..
+...ww..
+...Rw..
+...wR..
+R..wR..
+R..wRR.
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 0 after 25ms
+...ww..
+...ww..
+...Rw..
+R..wR..
+R..wR..
+R..wRR.
+
+IAD2 (White) turn
+IAD2 (White) placed a Round piece at column 0 after 0ms
+...ww..
+...ww..
+w..Rw..
+R..wR..
+R..wR..
+R..wRR.
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 5 after 34ms
+...ww..
+...ww..
+w..Rw..
+R..wR..
+R..wRR.
+R..wRR.
+
+IAD2 (White) turn
+IAD2 (White) placed a Round piece at column 6 after 2ms
+...ww..
+...ww..
+w..Rw..
+R..wR..
+R..wRR.
+R..wRRw
+
+ZetaAI_pack3 (Red) turn
+ZetaAI_pack3 (Red) placed a Square piece at column 5 after 14ms
+...ww..
+...ww..
+w..Rw..
+R..wRR.
+R..wRR.
+R..wRRw
+
+IAD2 (White) turn
+IAD2 (White) loses match! Reason: Thinker unable to perform move
+...ww..
+...ww..
+w..Rw..
+R..wRR.
+R..wRR.
+R..wRRw
+
+Winner is ZetaAI_pack3 (Red)
